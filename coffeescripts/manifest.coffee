@@ -91,7 +91,7 @@ exportObj.manifestByExpansion =
             count: 1
         }
         {
-            name: 'Dengar'
+            name: 'Determination'
             type: 'upgrade'
             count: 1
         }
@@ -237,7 +237,7 @@ exportObj.manifestByExpansion =
             count: 1
         }
         {
-            name: 'Dengar'
+            name: 'Manaroo'
             type: 'upgrade'
             count: 1
         }

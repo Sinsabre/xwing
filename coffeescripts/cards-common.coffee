@@ -5203,7 +5203,7 @@ exportObj.basicCardData = ->
             points: 1
         }
         {    #EPTs start here
-            name: "Dengar"
+            name: "Determination"
             id: 8
             slot: "Elite"
             points: 1

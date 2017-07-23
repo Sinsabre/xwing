@@ -559,7 +559,7 @@ exportObj.cardLoaders.English = () ->
             text: """After spending your target lock, roll 1 defense die.%LINEBREAK%On a %EVADE% result, immediately acquire a target lock on that same ship.  You cannot spend this target lock during this attack."""
         "R5 Astromech":
             text: """During the End phase, you may choose 1 of your faceup Damage cards with the Ship trait and flip it facedown."""
-        "Dengar":
+        "Determination":
             text: """When you are dealt a faceup Damage card with the Pilot trait, discard it immediately without resolving its effect."""
         "Swarm Tactics":
             text: """At the start of the Combat phase, you may choose 1 friendly ship at Range 1.%LINEBREAK%Until the end of this phase, treat the chosen ship as if its pilot skill were equal to your pilot skill."""
