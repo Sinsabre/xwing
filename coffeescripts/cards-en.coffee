@@ -1027,7 +1027,22 @@ exportObj.cardLoaders.English = () ->
             text: '''When attacking, reduce the defender's agility value by 1 (to a minimum of "0").'''
         "Garven Dreis":
             text: '''After spending a focus token, you may place that token on any other friendly ship at Range 1-2 (instead of discarding it).'''
+        '"Dutch" Vander':
+            text: '''After acquiring a target lock, choose another friendly ship at Range 1-2.  The chosen ship may immediately acquire a target lock.'''
+        "Horton Salm":
+            text: '''When attacking at Range 2-3, you may reroll any of your blank results.'''
+        '"Winged Gundark"':
+            text: '''When attacking at Range 1, you may change 1 of your %HIT% results to a %CRIT% result.'''
+        '"Backstabber"':
+            text: '''When attacking from outside the defender's firing arc, roll 1 additional attack die.'''
+        '"Howlrunner"':
+            text: '''When another friendly ship at Range 1 is attacking with its primary weapon, it may reroll 1 attack die.'''
         
+
+
+
+
+
     modification_translations =
         "Stealth Device":
             text: """Increase your agility value by 1.  If you are hit by an attack, discard this card."""

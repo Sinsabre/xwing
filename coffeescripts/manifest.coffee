@@ -205,6 +205,16 @@ exportObj.manifestByExpansion =
             count: 1
         }
         {
+            name: 'Horton Salm'
+            type: 'upgrade'
+            count: 1
+        }
+        {
+            name: '"Dutch" Vander'
+            type: 'upgrade'
+            count: 1
+        }
+        {
             name: 'Gray Squadron Pilot'
             type: 'pilot'
             count: 1
@@ -254,6 +264,21 @@ exportObj.manifestByExpansion =
         {
             name: '"Winged Gundark"'
             type: 'pilot'
+            count: 1
+        }
+        {
+            name: '"Howlrunner"'
+            type: 'upgrade'
+            count: 1
+        }
+        {
+            name: '"Backstabber"'
+            type: 'upgrade'
+            count: 1
+        }
+        {
+            name: '"Winged Gundark"'
+            type: 'upgrade'
             count: 1
         }
         {

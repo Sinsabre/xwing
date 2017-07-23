@@ -6688,6 +6688,46 @@ exportObj.basicCardData = ->
             slot: "Elite"
             points: 3
         }
+        {
+            name: 'Horton Salm'
+            id: 249
+            unique: true
+            faction: "Rebel Alliance"
+            slot: "Elite"
+            points: 4
+        }
+        {
+            name: '"Dutch" Vander'
+            id: 250
+            unique: true
+            faction: "Rebel Alliance"
+            slot: "Elite"
+            points: 3
+        }
+        {
+            name: '"Howlrunner"'
+            id: 251
+            unique: true
+            faction: "Galactic Empire"
+            slot: "Elite"
+            points: 4
+        }
+        {
+            name: '"Backstabber"'
+            id: 252
+            unique: true
+            faction: "Galactic Empire"
+            slot: "Elite"
+            points: 3
+        }
+        {
+            name: '"Winged Gundark"'
+            id: 253
+            unique: true
+            faction: "Galactic Empire"
+            slot: "Elite"
+            points: 3
+        }
     ]
 
     modificationsById: [
