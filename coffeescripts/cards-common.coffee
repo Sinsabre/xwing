@@ -5005,6 +5005,8 @@ exportObj.basicCardData = ->
         }
         {
             name: "Luke Skywalker"
+            aka: [ "Luke Skywalker (EPT)" ]
+            canonical_name: 'lukeskywalker'
             id: 31
             unique: true
             faction: "Rebel Alliance"
@@ -6626,6 +6628,24 @@ exportObj.basicCardData = ->
             points: 3
             attack: 1
             range: '2-3'
+        }
+        {
+            name: "Luke Skywalker (EPT)"
+            aka: [ "Luke Skywalker" ]
+            canonical_name: 'lukeskywalker-swx99'
+            id: 242
+            unique: true
+            faction: "Rebel Alliance"
+            slot: "Elite"
+            points: 4
+        }
+        {
+            name: "Biggs Darklighter"
+            id: 243
+            unique: true
+            faction: "Rebel Alliance"
+            slot: "Elite"
+            points: 3
         }
     ]
 

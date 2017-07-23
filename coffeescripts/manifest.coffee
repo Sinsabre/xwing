@@ -31,8 +31,18 @@ exportObj.manifestByExpansion =
             count: 1
         }
         {
+            name: 'Luke Skywalker (EPT)'
+            type: 'upgrade'
+            count: 1
+        }
+        {
             name: 'Biggs Darklighter'
             type: 'pilot'
+            count: 1
+        }
+        {
+            name: 'Biggs Darklighter'
+            type: 'upgrade'
             count: 1
         }
         {
@@ -234,11 +244,6 @@ exportObj.manifestByExpansion =
         {
             name: 'Academy Pilot'
             type: 'pilot'
-            count: 1
-        }
-        {
-            name: 'Manaroo'
-            type: 'upgrade'
             count: 1
         }
         {
