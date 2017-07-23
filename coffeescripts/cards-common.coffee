@@ -6736,7 +6736,7 @@ exportObj.basicCardData = ->
             unique: true
             faction: "Galactic Empire"
             slot: "Elite"
-            points: 3
+            points: 5
         }
         {
             name: 'Maarek Stele'
@@ -6744,7 +6744,7 @@ exportObj.basicCardData = ->
             unique: true
             faction: "Galactic Empire"
             slot: "Elite"
-            points: 3
+            points: 4
         }
         {
             name: 'Tycho Celchu'
@@ -6752,7 +6752,7 @@ exportObj.basicCardData = ->
             unique: true
             faction: "Rebel Alliance"
             slot: "Elite"
-            points: 3
+            points: 4
         }
         {
             name: 'Arvel Crynyd'
@@ -6770,7 +6770,7 @@ exportObj.basicCardData = ->
             unique: true
             faction: "Rebel Alliance"
             slot: "Elite"
-            points: 3
+            points: 5
         }
         {
             name: 'Lando Calrissian (EPT)'
@@ -6780,7 +6780,7 @@ exportObj.basicCardData = ->
             unique: true
             faction: "Rebel Alliance"
             slot: "Elite"
-            points: 3
+            points: 4
         }
         {
             name: 'Chewbacca (EPT)'
@@ -6798,7 +6798,7 @@ exportObj.basicCardData = ->
             unique: true
             faction: "Galactic Empire"
             slot: "Elite"
-            points: 3
+            points: 5
         }
         {
             name: 'Turr Phennir'
@@ -6806,7 +6806,7 @@ exportObj.basicCardData = ->
             unique: true
             faction: "Galactic Empire"
             slot: "Elite"
-            points: 3
+            points: 4
         }
         {
             name: '''"Fel's Wrath"'''
@@ -6824,7 +6824,7 @@ exportObj.basicCardData = ->
             unique: true
             faction: "Galactic Empire"
             slot: "Elite"
-            points: 3
+            points: 4
         }
         {
             name: 'Kath Scarlet'
@@ -6832,7 +6832,7 @@ exportObj.basicCardData = ->
             unique: true
             faction: "Galactic Empire"
             slot: "Elite"
-            points: 3
+            points: 4
         }
         {
             name: 'Krassis Trelix'
