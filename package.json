@@ -8,7 +8,7 @@
   "private": "true",
   "scripts": {
     "noisy-test": "casperjs --verbose --log-level=debug test tests/test*.coffee",
-    "test": "casperjs test tests/test*.coffee"
+    "test": "casperjs test ./tests/"
   },
   "devDependencies": {
     "bower": "1.7.9",
