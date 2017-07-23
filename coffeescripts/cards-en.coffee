@@ -1037,7 +1037,32 @@ exportObj.cardLoaders.English = () ->
             text: '''When attacking from outside the defender's firing arc, roll 1 additional attack die.'''
         '"Howlrunner"':
             text: '''When another friendly ship at Range 1 is attacking with its primary weapon, it may reroll 1 attack die.'''
-        
+        "Maarek Stele":
+            text: '''When your attack deals a faceup Damage card to the defender, instead draw 3 Damage cards, choose 1 to deal, and discard the others.'''
+        "Darth Vader (EPT)":
+            text: '''During your "Perform Action" step, you may perform 2 actions.'''
+        "\"Fel's Wrath\"":
+            text: '''When the number of Damage cards assigned to you equals or exceeds your hull value, you are not destroyed until the end of the Combat phase.'''
+        "Turr Phennir":
+            text: '''After you perform an attack, you may perform a free boost or barrel roll action.'''
+        "Soontir Fel":
+            text: '''When you receive a stress token, you may assign 1 focus token to your ship.'''
+        "Tycho Celchu":
+            text: '''You may perform actions even while you have stress tokens.'''
+        "Arvel Crynyd":
+            text: '''You may declare an enemy ship inside your firing arc that you are touching as the target of your attack.'''
+        "Chewbacca (EPT)":
+            text: '''When you are dealt a faceup Damage card, immediately flip it facedown (without resolving its ability).'''
+        "Lando Calrissian (EPT)":
+            text: '''After you execute a green maneuver, choose 1 other friendly ship at Range 1.  That ship may perform 1 free action shown on its action bar.'''
+        "Han Solo (EPT)":
+            text: '''When attacking, you may reroll all of your dice.  If you choose to do so, you must reroll as many of your dice as possible.'''
+        "Kath Scarlet":
+            text: '''When attacking, the defender receives 1 stress token if he cancels at least 1 %CRIT% result.'''
+        "Boba Fett (EPT)":
+            text: '''When you reveal a bank maneuver (%BANKLEFT% or %BANKRIGHT%), you may rotate your dial to the other bank maneuver of the same speed.'''
+        "Krassis Trelix":
+            text: '''When attacking with a secondary weapon, you may reroll 1 attack die.'''
 
 
 

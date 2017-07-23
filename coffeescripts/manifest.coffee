@@ -319,6 +319,16 @@ exportObj.manifestByExpansion =
             count: 1
         }
         {
+            name: 'Darth Vader (EPT)'
+            type: 'upgrade'
+            count: 1
+        }
+        {
+            name: 'Maarek Stele'
+            type: 'upgrade'
+            count: 1
+        }
+        {
             name: 'Storm Squadron Pilot'
             type: 'pilot'
             count: 1
@@ -368,6 +378,16 @@ exportObj.manifestByExpansion =
         {
             name: 'Arvel Crynyd'
             type: 'pilot'
+            count: 1
+        }
+        {
+            name: 'Tycho Celchu'
+            type: 'upgrade'
+            count: 1
+        }
+        {
+            name: 'Arvel Crynyd'
+            type: 'upgrade'
             count: 1
         }
         {
@@ -425,6 +445,21 @@ exportObj.manifestByExpansion =
         {
             name: 'Chewbacca'
             type: 'pilot'
+            count: 1
+        }
+        {
+            name: 'Han Solo (EPT)'
+            type: 'upgrade'
+            count: 1
+        }
+        {
+            name: 'Lando Calrissian (EPT)'
+            type: 'upgrade'
+            count: 1
+        }
+        {
+            name: 'Chewbacca (EPT)'
+            type: 'upgrade'
             count: 1
         }
         {
@@ -515,6 +550,21 @@ exportObj.manifestByExpansion =
             count: 1
         }
         {
+            name: 'Soontir Fel'
+            type: 'upgrade'
+            count: 1
+        }
+        {
+            name: 'Turr Phennir'
+            type: 'upgrade'
+            count: 1
+        }
+        {
+            name: '''"Fel's Wrath"'''
+            type: 'upgrade'
+            count: 1
+        }
+        {
             name: 'Saber Squadron Pilot'
             type: 'pilot'
             count: 1
@@ -559,6 +609,21 @@ exportObj.manifestByExpansion =
         {
             name: 'Krassis Trelix'
             type: 'pilot'
+            count: 1
+        }
+        {
+            name: 'Boba Fett (EPT)'
+            type: 'upgrade'
+            count: 1
+        }
+        {
+            name: 'Kath Scarlet'
+            type: 'upgrade'
+            count: 1
+        }
+        {
+            name: 'Krassis Trelix'
+            type: 'upgrade'
             count: 1
         }
         {

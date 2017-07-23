@@ -6728,6 +6728,126 @@ exportObj.basicCardData = ->
             slot: "Elite"
             points: 3
         }
+        {
+            name: 'Darth Vader (EPT)'
+            aka: [ "Darth Vader" ]
+            canonical_name: 'darthvader-swx99'
+            id: 254
+            unique: true
+            faction: "Galactic Empire"
+            slot: "Elite"
+            points: 3
+        }
+        {
+            name: 'Maarek Stele'
+            id: 255
+            unique: true
+            faction: "Galactic Empire"
+            slot: "Elite"
+            points: 3
+        }
+        {
+            name: 'Tycho Celchu'
+            id: 256
+            unique: true
+            faction: "Rebel Alliance"
+            slot: "Elite"
+            points: 3
+        }
+        {
+            name: 'Arvel Crynyd'
+            id: 257
+            unique: true
+            faction: "Rebel Alliance"
+            slot: "Elite"
+            points: 3
+        }
+        {
+            name: 'Han Solo (EPT)'
+            aka: [ "Han Solo" ]
+            canonical_name: 'hansolo-swx99'
+            id: 258
+            unique: true
+            faction: "Rebel Alliance"
+            slot: "Elite"
+            points: 3
+        }
+        {
+            name: 'Lando Calrissian (EPT)'
+            aka: [ "Lando Calrissian" ]
+            canonical_name: 'landocalrissian-swx99'
+            id: 259
+            unique: true
+            faction: "Rebel Alliance"
+            slot: "Elite"
+            points: 3
+        }
+        {
+            name: 'Chewbacca (EPT)'
+            aka: [ "Chewbacca" ]
+            canonical_name: 'chewbacca-swx99'
+            id: 260
+            unique: true
+            faction: "Rebel Alliance"
+            slot: "Elite"
+            points: 3
+        }
+        {
+            name: 'Soontir Fel'
+            id: 261
+            unique: true
+            faction: "Galactic Empire"
+            slot: "Elite"
+            points: 3
+        }
+        {
+            name: 'Turr Phennir'
+            id: 262
+            unique: true
+            faction: "Galactic Empire"
+            slot: "Elite"
+            points: 3
+        }
+        {
+            name: '''"Fel's Wrath"'''
+            id: 263
+            unique: true
+            faction: "Galactic Empire"
+            slot: "Elite"
+            points: 3
+        }
+        {
+            name: 'Boba Fett (EPT)'
+            aka: [ "Boba Fett" ]
+            canonical_name: 'bobafett-swx99'
+            id: 264
+            unique: true
+            faction: "Galactic Empire"
+            slot: "Elite"
+            points: 3
+        }
+        {
+            name: 'Kath Scarlet'
+            id: 265
+            unique: true
+            faction: "Galactic Empire"
+            slot: "Elite"
+            points: 3
+        }
+        {
+            name: 'Krassis Trelix'
+            id: 266
+            unique: true
+            faction: "Galactic Empire"
+            slot: "Elite"
+            points: 3
+        }
+
+
+
+
+
+
     ]
 
     modificationsById: [
