@@ -4851,32 +4851,32 @@ exportObj.basicCardData = ->
         {    #EPTs start here
             name: "Determination"
             id: 8
-            slot: "Elite"
+            slot: "Disabled"
             points: 1
         }
         {
             name: "Swarm Tactics"
             id: 9
-            slot: "Elite"
+            slot: "Disabled"
             points: 2
         }
         {
             name: "Squad Leader"
             id: 10
             unique: true
-            slot: "Elite"
+            slot: "Disabled"
             points: 2
         }
         {
             name: "Expert Handling"
             id: 11
-            slot: "Elite"
+            slot: "Disabled"
             points: 2
         }
         {
             name: "Marksmanship"
             id: 12
-            slot: "Elite"
+            slot: "Disabled"
             points: 3
         }
         {
@@ -4898,13 +4898,13 @@ exportObj.basicCardData = ->
         {
             name: "Daredevil"
             id: 15
-            slot: "Elite"
+            slot: "Disabled"
             points: 3
         }
         {
             name: "Elusiveness"
             id: 16
-            slot: "Elite"
+            slot: "Disabled"
             points: 2
         }
         {
@@ -4918,13 +4918,13 @@ exportObj.basicCardData = ->
         {
             name: "Push the Limit"
             id: 18
-            slot: "Elite"
+            slot: "Disabled"
             points: 3
         }
         {
             name: "Deadeye"
             id: 19
-            slot: "Elite"
+            slot: "Disabled"
             points: 1
             restriction_func: (ship) ->
                 not ((ship.data.large ? false) or (ship.data.huge ? false))
@@ -4932,7 +4932,7 @@ exportObj.basicCardData = ->
         {
             name: "Expose"
             id: 20
-            slot: "Elite"
+            slot: "Disabled"
             points: 4
         }
         {
@@ -4980,7 +4980,7 @@ exportObj.basicCardData = ->
         {
             name: "Veteran Instincts"
             id: 27
-            slot: "Elite"
+            slot: "Disabled"
             points: 1
             modifier_func: (stats) ->
                 stats.skill += 2
@@ -5000,7 +5000,7 @@ exportObj.basicCardData = ->
         {
             name: "Draw Their Fire"
             id: 30
-            slot: "Elite"
+            slot: "Disabled"
             points: 1
         }
         {
@@ -5092,7 +5092,7 @@ exportObj.basicCardData = ->
         {
             name: "Adrenaline Rush"
             id: 42
-            slot: "Elite"
+            slot: "Disabled"
             points: 1
         }
         {
@@ -5140,7 +5140,7 @@ exportObj.basicCardData = ->
         {
             name: "Opportunist"
             id: 49
-            slot: "Elite"
+            slot: "Disabled"
             points: 4
         }
         {
@@ -5172,25 +5172,25 @@ exportObj.basicCardData = ->
         {
             name: "Wingman"
             id: 54
-            slot: "Elite"
+            slot: "Disabled"
             points: 2
         }
         {
             name: "Decoy"
             id: 55
-            slot: "Elite"
+            slot: "Disabled"
             points: 2
         }
         {
             name: "Outmaneuver"
             id: 56
-            slot: "Elite"
+            slot: "Disabled"
             points: 3
         }
         {
             name: "Predator"
             id: 57
-            slot: "Elite"
+            slot: "Disabled"
             points: 3
         }
         {
@@ -5304,7 +5304,7 @@ exportObj.basicCardData = ->
             confersAddons: [
                 {
                     type: exportObj.Upgrade
-                    slot: "Elite"
+                    slot: "Disabled"
                 }
             ]
         }
@@ -5499,7 +5499,7 @@ exportObj.basicCardData = ->
         {
             name: "Stay On Target"
             id: 96
-            slot: "Elite"
+            slot: "Disabled"
             points: 2
         }
         {
@@ -5514,7 +5514,7 @@ exportObj.basicCardData = ->
             name: "Lone Wolf"
             id: 98
             unique: true
-            slot: "Elite"
+            slot: "Disabled"
             points: 2
         }
         {
@@ -5528,14 +5528,14 @@ exportObj.basicCardData = ->
         {
             name: "Ruthlessness"
             id: 100
-            slot: "Elite"
+            slot: "Disabled"
             points: 3
             faction: "Galactic Empire"
         }
         {
             name: "Intimidation"
             id: 101
-            slot: "Elite"
+            slot: "Disabled"
             points: 2
         }
         {
@@ -5566,14 +5566,14 @@ exportObj.basicCardData = ->
             name: "Bodyguard"
             id: 105
             unique: true
-            slot: "Elite"
+            slot: "Disabled"
             points: 2
             faction: "Scum and Villainy"
         }
         {
             name: "Calculation"
             id: 106
-            slot: "Elite"
+            slot: "Disabled"
             points: 1
         }
         {
@@ -5796,7 +5796,7 @@ exportObj.basicCardData = ->
         {
             name: "Lightning Reflexes"
             id: 134
-            slot: "Elite"
+            slot: "Disabled"
             points: 1
             restriction_func: (ship) ->
                 not ((ship.data.large ? false) or (ship.data.huge ? false))
@@ -5838,7 +5838,7 @@ exportObj.basicCardData = ->
         {
             name: 'Crack Shot'
             id: 140
-            slot: 'Elite'
+            slot: "Disabled"
             points: 1
         }
         {
@@ -5914,19 +5914,19 @@ exportObj.basicCardData = ->
         {
             name: 'Wired'
             id: 150
-            slot: "Elite"
+            slot: "Disabled"
             points: 1
         }
         {
             name: 'Cool Hand'
             id: 151
-            slot: 'Elite'
+            slot: "Disabled"
             points: 1
         }
         {
             name: 'Juke'
             id: 152
-            slot: 'Elite'
+            slot: "Disabled"
             points: 2
             restriction_func: (ship) ->
                 not ((ship.data.large ? false) or (ship.data.huge ? false))
@@ -6075,7 +6075,7 @@ exportObj.basicCardData = ->
         {
             name: "Adaptability"
             id: 170
-            slot: "Elite"
+            slot: "Disabled"
             points: 0
         }
         {
@@ -6083,7 +6083,7 @@ exportObj.basicCardData = ->
             skip: true
             id: 171
             superseded_by_id: 170
-            slot: "Elite"
+            slot: "Disabled"
             points: 0
         }
         {
@@ -6112,13 +6112,13 @@ exportObj.basicCardData = ->
             name: 'Rage'
             id: 175
             points: 1
-            slot: 'Elite'
+            slot: "Disabled"
         }
         {
             name: "Attanni Mindlink"
             id: 176
             faction: "Scum and Villainy"
-            slot: "Elite"
+            slot: "Disabled"
             points: 1
         }
         {
@@ -6200,7 +6200,7 @@ exportObj.basicCardData = ->
         {
             name: 'Fearlessness'
             id: 188
-            slot: 'Elite'
+            slot: "Disabled"
             faction: 'Scum and Villainy'
             points: 1
         }
@@ -6269,7 +6269,7 @@ exportObj.basicCardData = ->
             name: 'A Score to Settle'
             id: 197
             applies_condition: 'A Debt to Pay'.canonicalize()
-            slot: 'Elite'
+            slot: "Disabled"
             unique: true
             points: 0
         }
@@ -6332,7 +6332,7 @@ exportObj.basicCardData = ->
         {
             name: 'Snap Shot'
             id: 205
-            slot: 'Elite'
+            slot: "Disabled"
             points: 2
             attack: 2
             range: 1
@@ -6396,7 +6396,7 @@ exportObj.basicCardData = ->
         {
             name: 'Trick Shot'
             id: 214
-            slot: 'Elite'
+            slot: "Disabled"
             points: 0
         }
         {
@@ -6431,13 +6431,13 @@ exportObj.basicCardData = ->
             name: 'Swarm Leader'
             id: 219
             unique: true
-            slot: 'Elite'
+            slot: "Disabled"
             points: 3
         }
         {
             name: 'Expertise'
             id: 220
-            slot: 'Elite'
+            slot: "Disabled"
             points: 4
         }
         {
@@ -6542,7 +6542,7 @@ exportObj.basicCardData = ->
         {
             name: 'Intensity'
             id: 232
-            slot: 'Elite'
+            slot: "Disabled"
             points: 2
             restriction_func: (ship) ->
                 not ((ship.data.large ? false) or (ship.data.huge ? false))
@@ -6569,7 +6569,7 @@ exportObj.basicCardData = ->
         {
             name: 'Selflessness'
             id: 235
-            slot: 'Elite'
+            slot: "Disabled"
             unique: true
             faction: 'Rebel Alliance'
             points: 1
@@ -6981,7 +6981,7 @@ exportObj.basicCardData = ->
             confersAddons: [
                 {
                     type: exportObj.Upgrade
-                    slot: "Elite"
+                    slot: "Disabled"
                 }
             ]
             special_case: "A-Wing Test Pilot"
