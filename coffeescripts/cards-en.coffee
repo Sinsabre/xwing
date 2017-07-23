@@ -1012,11 +1012,21 @@ exportObj.cardLoaders.English = () ->
             text: '''You can perform actions on your %TORPEDO% and %BOMB% Upgrade cards even if you are stressed. After you perform an action in this way, you may discard this card to remove 1 stress token from your ship.'''
         'Cruise Missiles':
             text: '''<strong>Attack (Target Lock):</strong> Discard this card to perform this attack.%LINEBREAK%You may roll additional attack dice equal to the speed of the manuever you performed this round, to a maximum of 4 additional dice.'''
-        #PILOTS
+        #New EPTs#
         "Luke Skywalker (EPT)":
             text: '''When defending, you may change 1 of your %FOCUS% results to a %EVADE% result.'''
         "Biggs Darklighter":
             text: '''Other friendly ships at Range 1 cannot be targeted by attacks if the attacker could target you instead.'''
+        '"Night Beast"':
+            text: '''After executing a green maneuver, you may perform a free focus action.'''
+        '"Dark Curse"':
+            text: '''When defending, ships attacking you cannot spend focus tokens or reroll attack dice.'''
+        '"Mauler Mithel"':
+            text: '''When attacking at Range 1, roll 1 additional attack die.'''
+        "Wedge Antilles":
+            text: '''When attacking, reduce the defender's agility value by 1 (to a minimum of "0").'''
+        "Garven Dreis":
+            text: '''After spending a focus token, you may place that token on any other friendly ship at Range 1-2 (instead of discarding it).'''
         
     modification_translations =
         "Stealth Device":

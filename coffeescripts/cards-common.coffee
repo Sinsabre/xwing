@@ -6629,6 +6629,7 @@ exportObj.basicCardData = ->
             attack: 1
             range: '2-3'
         }
+        #New EPTs#
         {
             name: "Luke Skywalker (EPT)"
             aka: [ "Luke Skywalker" ]
@@ -6642,6 +6643,46 @@ exportObj.basicCardData = ->
         {
             name: "Biggs Darklighter"
             id: 243
+            unique: true
+            faction: "Rebel Alliance"
+            slot: "Elite"
+            points: 3
+        }
+        {
+            name: '"Mauler Mithel"'
+            id: 244
+            unique: true
+            faction: "Galactic Empire"
+            slot: "Elite"
+            points: 4
+        }
+        {
+            name: '"Dark Curse"'
+            id: 245
+            unique: true
+            faction: "Galactic Empire"
+            slot: "Elite"
+            points: 3
+        }
+        {
+            name: '"Night Beast"'
+            id: 246
+            unique: true
+            faction: "Galactic Empire"
+            slot: "Elite"
+            points: 3
+        }
+        {
+            name: "Wedge Antilles"
+            id: 247
+            unique: true
+            faction: "Rebel Alliance"
+            slot: "Elite"
+            points: 5
+        }
+        {
+            name: "Garven Dreis"
+            id: 248
             unique: true
             faction: "Rebel Alliance"
             slot: "Elite"
@@ -6981,7 +7022,7 @@ exportObj.basicCardData = ->
             confersAddons: [
                 {
                     type: exportObj.Upgrade
-                    slot: "Disabled"
+                    slot: "Elite"
                 }
             ]
             special_case: "A-Wing Test Pilot"

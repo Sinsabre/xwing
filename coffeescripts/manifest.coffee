@@ -61,13 +61,28 @@ exportObj.manifestByExpansion =
             count: 1
         }
         {
+            name: '"Mauler Mithel"'
+            type: 'upgrade'
+            count: 1
+        }
+        {
             name: '"Dark Curse"'
             type: 'pilot'
             count: 1
         }
         {
+            name: '"Dark Curse"'
+            type: 'upgrade'
+            count: 1
+        }
+        {
             name: '"Night Beast"'
             type: 'pilot'
+            count: 1
+        }
+        {
+            name: '"Night Beast"'
+            type: 'upgrade'
             count: 1
         }
         {
@@ -125,6 +140,16 @@ exportObj.manifestByExpansion =
         {
             name: 'Garven Dreis'
             type: 'pilot'
+            count: 1
+        }
+        {
+            name: 'Wedge Antilles'
+            type: 'upgrade'
+            count: 1
+        }
+        {
+            name: 'Garven Dreis'
+            type: 'upgrade'
             count: 1
         }
         {
