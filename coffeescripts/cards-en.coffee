@@ -1063,7 +1063,20 @@ exportObj.cardLoaders.English = () ->
             text: '''When you reveal a bank maneuver (%BANKLEFT% or %BANKRIGHT%), you may rotate your dial to the other bank maneuver of the same speed.'''
         "Krassis Trelix":
             text: '''When attacking with a secondary weapon, you may reroll 1 attack die.'''
-
+        "Ten Numb":
+            text: '''When attacking, 1 of your %CRIT% results cannot be canceled by defense dice.'''
+        "Ibtisam":
+            text: '''When attacking or defending, if you have at least 1 stress token, you may reroll 1 of your dice.'''
+        "Roark Garnet":
+            text: '''At the start of the Combat phase, choose 1 other friendly ship at Range 1-3.  Until the end of the phase, treat that ship's pilot skill value as "12."'''
+        "Kyle Katarn (EPT)":
+            text: '''At the start of the Combat phase, you may assign 1 of your focus tokens to another friendly ship at Range 1-3.'''
+        "Jan Ors (EPT)":
+            text: '''When another friendly ship at Range 1-3 is attacking, if you have no stress tokens, you may receive 1 stress token to allow that ship to roll 1 additional attack die.'''
+        "Captain Jonus":
+            text: '''When another friendly ship at Range 1 attacks with a secondary weapon, it may reroll up to 2 attack dice.'''
+        "Major Rhymer":
+            text: '''When attacking with a secondary weapon, you may increase or decrease the weapon range by 1 to a limit of Range 1-3.'''
 
 
 

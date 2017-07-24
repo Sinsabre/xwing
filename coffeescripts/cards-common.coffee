@@ -4848,7 +4848,7 @@ exportObj.basicCardData = ->
             slot: "Astromech"
             points: 1
         }
-        {    #EPTs start here
+        {
             name: "Determination"
             id: 8
             slot: "Disabled"
@@ -5304,7 +5304,7 @@ exportObj.basicCardData = ->
             confersAddons: [
                 {
                     type: exportObj.Upgrade
-                    slot: "Disabled"
+                    slot: "Elite"
                 }
             ]
         }
@@ -6837,6 +6837,66 @@ exportObj.basicCardData = ->
         {
             name: 'Krassis Trelix'
             id: 266
+            unique: true
+            faction: "Galactic Empire"
+            slot: "Elite"
+            points: 3
+        }
+        {
+            name: 'Ten Numb'
+            id: 267
+            unique: true
+            faction: "Rebel Alliance"
+            slot: "Elite"
+            points: 4
+        }
+        {
+            name: 'Ibtisam'
+            id: 268
+            unique: true
+            faction: "Rebel Alliance"
+            slot: "Elite"
+            points: 3
+        }
+        {
+            name: 'Jan Ors (EPT)'
+            aka: [ "Jan Ors" ]
+            canonical_name: 'janors-swx99'
+            id: 269
+            unique: true
+            faction: "Rebel Alliance"
+            slot: "Elite"
+            points: 4
+        }
+        {
+            name: 'Kyle Katarn (EPT)'
+            aka: [ "Kyle Katarn" ]
+            canonical_name: 'kylekatarn-swx99'
+            id: 270
+            unique: true
+            faction: "Rebel Alliance"
+            slot: "Elite"
+            points: 3
+        }
+        {
+            name: 'Roark Garnet'
+            id: 271
+            unique: true
+            faction: "Rebel Alliance"
+            slot: "Elite"
+            points: 2
+        }
+        {
+            name: 'Major Rhymer'
+            id: 272
+            unique: true
+            faction: "Galactic Empire"
+            slot: "Elite"
+            points: 4
+        }
+        {
+            name: 'Captain Jonus'
+            id: 273
             unique: true
             faction: "Galactic Empire"
             slot: "Elite"

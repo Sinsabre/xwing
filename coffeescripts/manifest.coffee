@@ -709,6 +709,16 @@ exportObj.manifestByExpansion =
             count: 1
         }
         {
+            name: 'Ten Numb'
+            type: 'upgrade'
+            count: 1
+        }
+        {
+            name: 'Ibtisam'
+            type: 'upgrade'
+            count: 1
+        }
+        {
             name: 'Dagger Squadron Pilot'
             type: 'pilot'
             count: 1
@@ -766,6 +776,21 @@ exportObj.manifestByExpansion =
             count: 1
         }
         {
+            name: 'Jan Ors (EPT)'
+            type: 'upgrade'
+            count: 1
+        }
+        {
+            name: 'Kyle Katarn (EPT)'
+            type: 'upgrade'
+            count: 1
+        }
+        {
+            name: 'Roark Garnet'
+            type: 'upgrade'
+            count: 1
+        }
+        {
             name: 'Rebel Operative'
             type: 'pilot'
             count: 1
@@ -815,6 +840,16 @@ exportObj.manifestByExpansion =
         {
             name: 'Captain Jonus'
             type: 'pilot'
+            count: 1
+        }
+        {
+            name: 'Major Rhymer'
+            type: 'upgrade'
+            count: 1
+        }
+        {
+            name: 'Captain Jonus'
+            type: 'upgrade'
             count: 1
         }
         {
