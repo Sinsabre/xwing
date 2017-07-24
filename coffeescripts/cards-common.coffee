@@ -6633,7 +6633,6 @@ exportObj.basicCardData = ->
         {
             name: "Luke Skywalker."
             aka: [ "Luke Skywalker" ]
-            canonical_name: 'lukeskywalker-swx99'
             id: 242
             unique: true
             faction: "Rebel Alliance"
@@ -6731,7 +6730,6 @@ exportObj.basicCardData = ->
         {
             name: 'Darth Vader.'
             aka: [ "Darth Vader" ]
-            canonical_name: 'darthvader-swx99'
             id: 254
             unique: true
             faction: "Galactic Empire"
@@ -6765,7 +6763,6 @@ exportObj.basicCardData = ->
         {
             name: 'Han Solo.'
             aka: [ "Han Solo" ]
-            canonical_name: 'hansolo-swx99'
             id: 258
             unique: true
             faction: "Rebel Alliance"
@@ -6775,7 +6772,6 @@ exportObj.basicCardData = ->
         {
             name: 'Lando Calrissian.'
             aka: [ "Lando Calrissian" ]
-            canonical_name: 'landocalrissian-swx99'
             id: 259
             unique: true
             faction: "Rebel Alliance"
@@ -6785,7 +6781,6 @@ exportObj.basicCardData = ->
         {
             name: 'Chewbacca.'
             aka: [ "Chewbacca" ]
-            canonical_name: 'chewbacca-swx99'
             id: 260
             unique: true
             faction: "Rebel Alliance"
@@ -6819,7 +6814,6 @@ exportObj.basicCardData = ->
         {
             name: 'Boba Fett.'
             aka: [ "Boba Fett" ]
-            canonical_name: 'bobafett-swx99'
             id: 264
             unique: true
             faction: "Galactic Empire"
@@ -6861,7 +6855,6 @@ exportObj.basicCardData = ->
         {
             name: 'Jan Ors.'
             aka: [ "Jan Ors" ]
-            canonical_name: 'janors-swx99'
             id: 269
             unique: true
             faction: "Rebel Alliance"
@@ -6871,7 +6864,6 @@ exportObj.basicCardData = ->
         {
             name: 'Kyle Katarn.'
             aka: [ "Kyle Katarn" ]
-            canonical_name: 'kylekatarn-swx99'
             id: 270
             unique: true
             faction: "Rebel Alliance"
@@ -6993,7 +6985,6 @@ exportObj.basicCardData = ->
         {
             name: 'Dash Rendar.'
             aka: [ "Dash Rendar" ]
-            canonical_name: 'dashrendar-swx99'
             id: 285
             unique: true
             faction: "Rebel Alliance"
@@ -7011,7 +7002,6 @@ exportObj.basicCardData = ->
         {
             name: '"Leebo".'
             aka: [ '"Leebo"' ]
-            canonical_name: 'leebo-swx99'
             id: 287
             unique: true
             faction: "Rebel Alliance"
@@ -7203,9 +7193,89 @@ exportObj.basicCardData = ->
             slot: 'Elite'
             points: 3
         }
-
-
-
+        {
+            name: 'N\'Dru Suhlak'
+            id: 311
+            unique: true
+            faction: 'Scum and Villainy'
+            slot: 'Elite'
+            points: 4
+        }
+        {
+            name: 'Kaa\'to Leeachos'
+            id: 312
+            unique: true
+            faction: 'Scum and Villainy'
+            slot: 'Elite'
+            points: 3
+        }
+        {
+            name: 'Boba Fett (Scum).'
+            aka: [ 'Boba Fett (Scum)' ]
+            id: 313
+            unique: true
+            faction: 'Scum and Villainy'
+            slot: 'Elite'
+            points: 4
+            'canonical_name': 'Boba Fett'.canonicalize()
+        }
+        {
+            name: 'Kath Scarlet (Scum)'
+            id: 314
+            unique: true
+            faction: 'Scum and Villainy'
+            slot: 'Elite'
+            points: 4
+            'canonical_name': 'Kath Scarlet'.canonicalize()
+        }
+        {
+            name: 'Emon Azzameen'
+            id: 315
+            unique: true
+            faction: 'Scum and Villainy'
+            slot: 'Elite'
+            points: 3
+        }
+        {
+            name: 'Kavil'
+            id: 316
+            unique: true
+            faction: 'Scum and Villainy'
+            slot: 'Elite'
+            points: 4
+        }
+        {
+            name: 'Drea Renthal'
+            id: 317
+            unique: true
+            faction: 'Scum and Villainy'
+            slot: 'Elite'
+            points: 3
+        }
+        {
+            name: 'Dace Bonearm'
+            id: 318
+            unique: true
+            faction: 'Scum and Villainy'
+            slot: 'Elite'
+            points: 4
+        }
+        {
+            name: 'Palob Godalhi'
+            id: 319
+            unique: true
+            faction: 'Scum and Villainy'
+            slot: 'Elite'
+            points: 3
+        }
+        {
+            name: 'Torkil Mux'
+            id: 320
+            unique: true
+            faction: 'Scum and Villainy'
+            slot: 'Elite'
+            points: 2
+        }
 
 
     ]

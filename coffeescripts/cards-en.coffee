@@ -1151,6 +1151,26 @@ exportObj.cardLoaders.English = () ->
             text: '''After you perform a boost action, you may perform a free evade action.'''
         "IG-88D.":
             text: '''You may execute the (%SLOOPLEFT% 3) or (%SLOOPRIGHT% 3) maneuver using the corresponding (%TURNLEFT% 3) or (%TURNRIGHT% 3) template.'''
+        "Boba Fett (Scum).":
+            text: '''When attacking or defending, you may reroll 1 of your dice for each enemy ship at Range 1.'''
+        "Kath Scarlet (Scum)":
+            text: '''When attacking a ship inside your auxiliary firing arc, roll 1 additional attack die.'''
+        "Emon Azzameen":
+            text: '''When dropping a bomb, you may use the (%TURNLEFT% 3), (%STRAIGHT% 3), or (%TURNRIGHT% 3) template instead of the (%STRAIGHT% 1) template.'''
+        "Kavil":
+            text: '''When attacking a ship outside your firing arc, roll 1 additional attack die.'''
+        "Drea Renthal":
+            text: '''After you spend a target lock, you may receive 1 stress token to acquire a target lock.'''
+        "Dace Bonearm":
+            text: '''When an enemy ship at Range 1-3 receives at least 1 ion token, if you are not stressed, you may receive 1 stress token to cause that ship to suffer 1 damage.'''
+        "Palob Godalhi":
+            text: '''At the start of the Combat phase, you may remove 1 focus or evade token from an enemy ship at Range 1-2 and assign it to yourself.'''
+        "Torkil Mux":
+            text: '''At the end of the Activation phase, choose 1 enemy ship at Range 1-2. Until the end of the Combat phase, treat that ship's pilot skill value as "0".'''
+        "N'Dru Suhlak":
+            text: '''When attacking, if there are no other friendly ships at Range 1-2, roll 1 additional attack die.'''
+        "Kaa'to Leeachos":
+            text: '''At the start of the Combat phase, you may remove 1 focus or evade token from another friendly ship at Range 1-2 and assign it to yourself.'''
         
 
 

@@ -2199,6 +2199,16 @@ exportObj.manifestByExpansion =
             count: 1
         }
         {
+            name: "N'Dru Suhlak"
+            type: 'upgrade'
+            count: 1
+        }
+        {
+            name: "Kaa'to Leeachos"
+            type: 'upgrade'
+            count: 1
+        }
+        {
             name: "Black Sun Soldier"
             type: 'pilot'
             count: 2
@@ -2216,6 +2226,16 @@ exportObj.manifestByExpansion =
         {
             name: "Drea Renthal"
             type: 'pilot'
+            count: 1
+        }
+        {
+            name: "Kavil"
+            type: 'upgrade'
+            count: 1
+        }
+        {
+            name: "Drea Renthal"
+            type: 'upgrade'
             count: 1
         }
         {
@@ -2244,6 +2264,21 @@ exportObj.manifestByExpansion =
             count: 1
         }
         {
+            name: "Boba Fett (Scum)."
+            type: 'upgrade'
+            count: 1
+        }
+        {
+            name: "Kath Scarlet (Scum)"
+            type: 'upgrade'
+            count: 1
+        }
+        {
+            name: "Emon Azzameen"
+            type: 'upgrade'
+            count: 1
+        }
+        {
             name: "Mandalorian Mercenary"
             type: 'pilot'
             count: 1
@@ -2261,6 +2296,21 @@ exportObj.manifestByExpansion =
         {
             name: "Torkil Mux"
             type: 'pilot'
+            count: 1
+        }
+        {
+            name: "Dace Bonearm"
+            type: 'upgrade'
+            count: 1
+        }
+        {
+            name: "Palob Godalhi"
+            type: 'upgrade'
+            count: 1
+        }
+        {
+            name: "Torkil Mux"
+            type: 'upgrade'
             count: 1
         }
         {
