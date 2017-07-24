@@ -1291,7 +1291,63 @@ exportObj.cardLoaders.English = () ->
             text: '''When you are placed during setup, you can be placed anywhere in the play area beyond Range 3 of enemy ships.'''
         'Chewbacca (TFA)':
             text: '''After another friendly ship at Range 1-3 is destroyed (but has not fled the battlefield), you may perform an attack.'''
-        
+        'Kylo Ren.':
+            text: '''The first time you are hit by an attack each round, deal the "I'll Show You the Dark Side" Condition card to the attacker.'''
+        'Unkar Plutt.':
+            text: '''At the end of the Activation phase, you <strong>must</strong> assign a tractor beam token to each ship you are touching.'''
+        'Cassian Andor.':
+            text: '''At the start of the Activation phase, you may remove 1 stress token from 1 other friendly ship at Range 1-2.'''
+        'Bodhi Rook.':
+            text: '''When a friendly ship acquires a target lock, that ship can lock onto an enemy ship at Range 1-3 of any friendly ship.'''
+        'Heff Tobber':
+            text: '''After an enemy ship executes a maneuver that causes it to overlap your ship, you may perform a free action.'''
+        '''"Duchess"''':
+            text: '''While you have the "Adaptive Ailerons" Upgrade card equipped, you may choose to ignore its card ability.'''
+        '''"Pure Sabacc"''':
+            text: '''When attacking, if you have 1 or fewer Damage cards, roll 1 additional attack die.'''
+        '''"Countdown"''':
+            text: '''When defending, if you are not stressed, during the "Compare Results" step, you may suffer 1 damage to cancel all dice results.  If you do, receive 1 stress token.'''
+        'Nien Nunb.':
+            text: '''When you receive a stress token, if there is an enemy ship inside your firing arc at Range 1, you may discard that stress token.'''
+        '"Snap" Wexley':
+            text: '''After you execute a 2-, 3-, or 4-speed maneuver, if you are not touching a ship, you may perform a free boost action.'''
+        'Jess Pava':
+            text: '''When attacking or defending, you may reroll 1 of your dice for each other friendly ship at Range 1.'''
+        'Ahsoka Tano':
+            text: '''At the start of the Combat phase, you may spend 1 focus token to choose a friendly ship at Range 1.  It may perform 1 free action.'''
+        'Captain Rex.':
+            text: '''After you perform an attack, assign the "Suppressive Fire" Condition card to the defender.'''
+        'Major Stridan':
+            text: '''For the purpose of your actions and Upgrade cards, you may treat friendly ships at Range 2-3 as being at Range 1.'''
+        'Lieutenant Dormitz':
+            text: '''During setup, friendly ships may placed anywhere in the play area at Range 1-2 of you.'''
+        'Constable Zuvio':
+            text: '''When you reveal a reverse maneuver, you may drop a bomb using your front guides (including a bomb with the "<strong>Action:</strong>" header).'''
+        'Sarco Plank':
+            text: '''When defending, instead of using your agility value, you may roll a number of defense dice equal to the speed of the maneuver you executed this round.'''
+        'Genesis Red':
+            text: '''After you acquire a target lock, assign focus and evade tokens to your ship until you have the same number of each token as the locked ship.'''
+        'Quinn Jast':
+            text: '''At the start of the Combat phase, you may receive a weapons disabled token to flip one of your discarded %TORPEDO% or %MISSILE% Upgrade cards faceup.'''
+        'Inaldra':
+            text: '''When attacking or defending, you may spend 1 shield to reroll any number of your dice.'''
+        'Sunny Bounder':
+            text: '''Once per round, after you roll or reroll dice, if you have the same result on each of your dice, add 1 matching result.'''
+        'Lieutenant Kestal':
+            text: '''When attacking, you may spend 1 focus token to cancel all of the defender's blank and %FOCUS% results.'''
+        '"Double Edge"':
+            text: '''Once per round, after you perform a secondary weapon attack that does not hit, you may perform an attack with a different weapon.'''
+        'Lowhhrick':
+            text: '''When another friendly ship at Range 1 is defending, you may spend 1 reinforce token. If you do, the defender adds 1 %EVADE% result.'''
+        'Wullffwarro':
+            text: '''When attacking, if you have no shields and at least 1 Damage card assigned to you, roll 1 additional attack die.'''
+        'Captain Nym (Scum)':
+            text: '''You may ignore friendly bombs. When a friendly ship is defending, if the attacker measures range through a friendly bomb token, the defender may add 1 %EVADE% result.'''
+        'Captain Nym (Rebel)':
+            text: '''Once per round, you may prevent a friendly bomb from detonating.'''
+        'Sol Sixxa':
+            text: '''When dropping a bomb, you may use the (%TURNLEFT% 1) or (%TURNRIGHT% 1) template instead of the (%STRAIGHT% 1) template.'''
+      
 
 
 

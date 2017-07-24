@@ -7658,7 +7658,8 @@ exportObj.basicCardData = ->
             'canonical_name': 'poedameron-swx57'
         }
         {
-            name: 'Nien Nunb'
+            name: 'Nien Nunb.'
+            aka: [ 'Nien Nunb' ]
             id: 367
             unique: true
             faction: 'Resistance'
@@ -7808,7 +7809,233 @@ exportObj.basicCardData = ->
             points: 3
             'canonical_name': 'sabinewren'
         }
-
+        {
+            name: 'Ahsoka Tano'
+            id: 385
+            unique: true
+            faction: 'Rebel Alliance'
+            slot: 'Elite'
+            points: 4
+        }
+        {
+            name: 'Sabine Wren (TIE Fighter)'
+            aka: [ 'Sabine Wren' ]
+            id: 386
+            unique: true
+            faction: 'Rebel Alliance'
+            slot: 'Disabled'
+            points: 3
+            'canonical_name': 'sabinewren'
+        }
+        {
+            name: 'Captain Rex.'
+            aka: [ 'Captain Rex' ]
+            id: 387
+            unique: true
+            faction: 'Rebel Alliance'
+            slot: 'Elite'
+            points: 2
+        }
+        {
+            name: '"Zeb" Orrelios (TIE Fighter)'
+            aka: [ '"Zeb" Orrelios' ]
+            id: 388
+            unique: true
+            faction: 'Rebel Alliance'
+            slot: 'Disabled'
+            points: 2
+            'canonical_name': '"Zeb" Orrelios'.canonicalize()
+        }
+        {
+            name: 'Kylo Ren.'
+            aka: [ 'Kylo Ren' ]
+            id: 389
+            unique: true
+            faction: 'First Order'
+            slot: 'Elite'
+            points: 3
+        }
+        {
+            name: 'Major Stridan'
+            id: 390
+            unique: true
+            faction: 'First Order'
+            slot: 'Elite'
+            points: 2
+        }
+        {
+            name: 'Lieutenant Dormitz'
+            id: 391
+            unique: true
+            faction: 'First Order'
+            slot: 'Elite'
+            points: 2
+        }
+        {
+            name: 'Constable Zuvio'
+            id: 392
+            unique: true
+            faction: 'Scum and Villainy'
+            slot: 'Elite'
+            points: 4
+        }
+        {
+            name: 'Sarco Plank'
+            id: 393
+            unique: true
+            faction: 'Scum and Villainy'
+            slot: 'Elite'
+            points: 3
+        }
+        {
+            name: 'Unkar Plutt.'
+            aka: [ 'Unkar Plutt' ]
+            id: 394
+            unique: true
+            faction: 'Scum and Villainy'
+            slot: 'Elite'
+            points: 2
+        }
+        {
+            name: 'Cassian Andor.'
+            aka: [ 'Cassian Andor' ]
+            id: 395
+            unique: true
+            faction: 'Rebel Alliance'
+            slot: 'Elite'
+            points: 3
+        }
+        {
+            name: 'Bodhi Rook.'
+            aka: [ 'Bodhi Rook' ]
+            id: 396
+            unique: true
+            faction: 'Rebel Alliance'
+            slot: 'Elite'
+            points: 2
+        }
+        {
+            name: 'Heff Tobber'
+            id: 397
+            unique: true
+            faction: 'Rebel Alliance'
+            slot: 'Elite'
+            points: 2
+        }
+        {
+            name: '"Duchess"'
+            id: 398
+            unique: true
+            faction: 'Galactic Empire'
+            slot: 'Elite'
+            points: 4
+        }
+        {
+            name: '"Pure Sabacc"'
+            id: 399
+            unique: true
+            faction: 'Galactic Empire'
+            slot: 'Elite'
+            points: 3
+        }
+        {
+            name: '"Countdown"'
+            id: 400
+            unique: true
+            faction: 'Galactic Empire'
+            slot: 'Elite'
+            points: 3
+        }
+        {
+            name: 'Genesis Red'
+            id: 401
+            unique: true
+            faction: 'Scum and Villainy'
+            slot: 'Elite'
+            points: 4
+        }
+        {
+            name: 'Quinn Jast'
+            id: 402
+            unique: true
+            faction: 'Scum and Villainy'
+            slot: 'Elite'
+            points: 3
+        }
+        {
+            name: 'Inaldra'
+            id: 403
+            unique: true
+            faction: 'Scum and Villainy'
+            slot: 'Elite'
+            points: 2
+        }
+        {
+            name: 'Sunny Bounder'
+            id: 404
+            unique: true
+            faction: 'Scum and Villainy'
+            slot: 'Elite'
+            points: 1
+        }
+        {
+            name: 'Lowhhrick'
+            id: 405
+            unique: true
+            faction: 'Rebel Alliance'
+            slot: 'Elite'
+            points: 3
+        }
+        {
+            name: 'Wullffwarro'
+            id: 406
+            unique: true
+            faction: 'Rebel Alliance'
+            slot: 'Elite'
+            points: 4
+        }
+        {
+            name: 'Captain Nym (Scum)'
+            id: 407
+            unique: true
+            faction: 'Scum and Villainy'
+            slot: 'Elite'
+            points: 4
+            'canonical_name': 'Captain Nym'.canonicalize()
+        }
+        {
+            name: 'Captain Nym (Rebel)'
+            id: 408
+            unique: true
+            faction: 'Rebel Alliance'
+            slot: 'Elite'
+            points: 4
+            'canonical_name': 'Captain Nym'.canonicalize()
+        }
+        {
+            name: 'Sol Sixxa'
+            id: 409
+            unique: true
+            faction: 'Scum and Villainy'
+            slot: 'Elite'
+            points: 3
+        }
+        {
+            name: '"Double Edge"'
+            id: 410
+            unique: true
+            faction: 'Galactic Empire'
+            slot: 'Elite'
+            points: 2
+        }
+        {
+            name: 'Lieutenant Kestal'
+            id: 411
+            unique: true
+            faction: 'Galactic Empire'
+            slot: 'Elite'
+            points: 4
+        }
 
 
 

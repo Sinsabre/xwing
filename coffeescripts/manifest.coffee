@@ -4264,6 +4264,21 @@ exportObj.manifestByExpansion =
             count: 1
         }
         {
+            name: 'Cassian Andor.'
+            type: 'upgrade'
+            count: 1
+        }
+        {
+            name: 'Bodhi Rook.'
+            type: 'upgrade'
+            count: 1
+        }
+        {
+            name: 'Heff Tobber'
+            type: 'upgrade'
+            count: 1
+        }
+        {
             name: 'Blue Squadron Pathfinder'
             type: 'pilot'
             count: 1
@@ -4341,6 +4356,21 @@ exportObj.manifestByExpansion =
             count: 1
         }
         {
+            name: '"Duchess"'
+            type: 'upgrade'
+            count: 1
+        }
+        {
+            name: '"Pure Sabacc"'
+            type: 'upgrade'
+            count: 1
+        }
+        {
+            name: '"Countdown"'
+            type: 'upgrade'
+            count: 1
+        }
+        {
             name: 'Black Squadron Scout'
             type: 'pilot'
             count: 1
@@ -4393,6 +4423,16 @@ exportObj.manifestByExpansion =
             count: 1
         }
         {
+            name: 'Ahsoka Tano'
+            type: 'upgrade'
+            count: 1
+        }
+        {
+            name: 'Captain Rex.'
+            type: 'upgrade'
+            count: 1
+        }
+        {
             name: '"Zeb" Orrelios (TIE Fighter)'
             type: 'pilot'
             count: 1
@@ -4442,6 +4482,21 @@ exportObj.manifestByExpansion =
         {
             name: 'Lieutenant Dormitz'
             type: 'pilot'
+            count: 1
+        }
+        {
+            name: 'Kylo Ren.'
+            type: 'upgrade'
+            count: 1
+        }
+        {
+            name: 'Major Stridan'
+            type: 'upgrade'
+            count: 1
+        }
+        {
+            name: 'Lieutenant Dormitz'
+            type: 'upgrade'
             count: 1
         }
         {
@@ -4509,6 +4564,21 @@ exportObj.manifestByExpansion =
         {
             name: 'Unkar Plutt'
             type: 'pilot'
+            count: 1
+        }
+        {
+            name: 'Constable Zuvio'
+            type: 'upgrade'
+            count: 1
+        }
+        {
+            name: 'Sarco Plank'
+            type: 'upgrade'
+            count: 1
+        }
+        {
+            name: 'Unkar Plutt.'
+            type: 'upgrade'
             count: 1
         }
         {
@@ -4586,6 +4656,26 @@ exportObj.manifestByExpansion =
         {
             name: 'Sunny Bounder'
             type: 'pilot'
+            count: 1
+        }
+        {
+            name: 'Genesis Red'
+            type: 'upgrade'
+            count: 1
+        }
+        {
+            name: 'Quinn Jast'
+            type: 'upgrade'
+            count: 1
+        }
+        {
+            name: 'Inaldra'
+            type: 'upgrade'
+            count: 1
+        }
+        {
+            name: 'Sunny Bounder'
+            type: 'upgrade'
             count: 1
         }
         {
@@ -4696,6 +4786,16 @@ exportObj.manifestByExpansion =
             count: 1
         }
         {
+            name: 'Wullffwarro'
+            type: 'upgrade'
+            count: 1
+        }
+        {
+            name: 'Lowhhrick'
+            type: 'upgrade'
+            count: 1
+        }
+        {
             name: 'Wookiee Liberator'
             type: 'pilot'
             count: 1
@@ -4755,6 +4855,21 @@ exportObj.manifestByExpansion =
         {
             name: 'Sol Sixxa'
             type: 'pilot'
+            count: 1
+        }
+        {
+            name: 'Captain Nym (Rebel)'
+            type: 'upgrade'
+            count: 1
+        }
+        {
+            name: 'Captain Nym (Scum)'
+            type: 'upgrade'
+            count: 1
+        }
+        {
+            name: 'Sol Sixxa'
+            type: 'upgrade'
             count: 1
         }
         {
@@ -4827,6 +4942,17 @@ exportObj.manifestByExpansion =
         {
             name: '"Double Edge"'
             type: 'pilot'
+            count: 1
+        }
+        {
+        
+            name: 'Lieutenant Kestal'
+            type: 'upgrade'
+            count: 1
+        }
+        {
+            name: '"Double Edge"'
+            type: 'upgrade'
             count: 1
         }
         {
