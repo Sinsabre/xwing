@@ -1135,6 +1135,23 @@ exportObj.cardLoaders.English = () ->
             text: '''When attacking, you may remove 1 stress token to change all of your %FOCUS% results to %HIT%results.'''
         "Nera Dantels":
             text: '''You can perform %TORPEDO% secondary weapon attacks against enemy ships outside your firing arc.'''
+        "Prince Xizor":
+            text: '''When defending, a friendly ship at Range 1 may suffer 1 uncanceled %HIT% or %CRIT% result instead of you.'''
+        "Guri":
+            text: '''At the start of the Combat phase, if you are at Range 1 of an enemy ship, you may assign 1 focus token to your ship.'''
+        "Serissu":
+            text: '''When another friendly ship at Range 1 is defending, it may reroll 1 defense die.'''
+        "Laetin A'shera":
+            text: '''After you defend against an attack, if the attack did not hit, you may assign 1 evade token to your ship.'''
+        "IG-88A":
+            text: '''After you perform an attack that destroys the defender, you may recover 1 shield.'''
+        "IG-88B":
+            text: '''Once per round, after you perform an attack that does not hit, you may perform an attack with an equipped %CANNON% secondary weapon.'''
+        "IG-88C":
+            text: '''After you perform a boost action, you may perform a free evade action.'''
+        "IG-88D.":
+            text: '''You may execute the (%SLOOPLEFT% 3) or (%SLOOPRIGHT% 3) maneuver using the corresponding (%TURNLEFT% 3) or (%TURNRIGHT% 3) template.'''
+        
 
 
 

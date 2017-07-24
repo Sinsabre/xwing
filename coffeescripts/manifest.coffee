@@ -1942,6 +1942,16 @@ exportObj.manifestByExpansion =
             count: 1
         }
         {
+            name: 'Prince Xizor'
+            type: 'upgrade'
+            count: 1
+        }
+        {
+            name: 'Guri'
+            type: 'upgrade'
+            count: 1
+        }
+        {
             name: 'Black Sun Vigo'
             type: 'pilot'
             count: 1
@@ -2006,6 +2016,16 @@ exportObj.manifestByExpansion =
         {
             name: "Laetin A'shera"
             type: 'pilot'
+            count: 1
+        }
+        {
+            name: 'Serissu'
+            type: 'upgrade'
+            count: 1
+        }
+        {
+            name: "Laetin A'shera"
+            type: 'upgrade'
             count: 1
         }
         {
@@ -2084,6 +2104,26 @@ exportObj.manifestByExpansion =
         {
             name: 'IG-88D'
             type: 'pilot'
+            count: 1
+        }
+        {
+            name: 'IG-88A'
+            type: 'upgrade'
+            count: 1
+        }
+        {
+            name: 'IG-88B'
+            type: 'upgrade'
+            count: 1
+        }
+        {
+            name: 'IG-88C'
+            type: 'upgrade'
+            count: 1
+        }
+        {
+            name: 'IG-88D.'
+            type: 'upgrade'
             count: 1
         }
         {

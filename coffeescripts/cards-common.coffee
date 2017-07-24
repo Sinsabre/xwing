@@ -7138,7 +7138,71 @@ exportObj.basicCardData = ->
             slot: 'Elite'
             points: 3
         }
-
+        {
+            name: 'Prince Xizor'
+            id: 303
+            unique: true
+            faction: 'Scum and Villainy'
+            slot: 'Elite'
+            points: 4
+        }
+        {
+            name: 'Guri'
+            id: 304
+            unique: true
+            faction: 'Scum and Villainy'
+            slot: 'Elite'
+            points: 3
+        }
+        {
+            name: 'Serissu'
+            id: 305
+            unique: true
+            faction: 'Scum and Villainy'
+            slot: 'Elite'
+            points: 4
+        }
+        {
+            name: 'Laetin A\'shera'
+            id: 306
+            unique: true
+            faction: 'Scum and Villainy'
+            slot: 'Elite'
+            points: 3
+        }
+        {
+            name: 'IG-88A'
+            id: 307
+            unique: true
+            faction: 'Scum and Villainy'
+            slot: 'Elite'
+            points: 3
+        }
+        {
+            name: 'IG-88B'
+            id: 308
+            unique: true
+            faction: 'Scum and Villainy'
+            slot: 'Elite'
+            points: 3
+        }
+        {
+            name: 'IG-88C'
+            id: 309
+            unique: true
+            faction: 'Scum and Villainy'
+            slot: 'Elite'
+            points: 3
+        }
+        {
+            name: 'IG-88D.'
+            aka: [ 'IG-88D' ]
+            id: 310
+            unique: true
+            faction: 'Scum and Villainy'
+            slot: 'Elite'
+            points: 3
+        }
 
 
 
