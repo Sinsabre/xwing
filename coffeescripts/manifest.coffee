@@ -910,6 +910,21 @@ exportObj.manifestByExpansion =
             count: 1
         }
         {
+            name: 'Captain Kagi'
+            type: 'upgrade'
+            count: 1
+        }
+        {
+            name: 'Colonel Jendon'
+            type: 'upgrade'
+            count: 1
+        }
+        {
+            name: 'Captain Yorr'
+            type: 'upgrade'
+            count: 1
+        }
+        {
             name: 'Omicron Group Pilot'
             type: 'pilot'
             count: 1
@@ -987,6 +1002,16 @@ exportObj.manifestByExpansion =
             count: 1
         }
         {
+            name: 'Airen Cracken'
+            type: 'upgrade'
+            count: 1
+        }
+        {
+            name: 'Lieutenant Blount'
+            type: 'upgrade'
+            count: 1
+        }
+        {
             name: 'Tala Squadron Pilot'
             type: 'pilot'
             count: 1
@@ -1036,6 +1061,16 @@ exportObj.manifestByExpansion =
         {
             name: "Etahn A'baht"
             type: 'pilot'
+            count: 1
+        }
+        {
+            name: 'Corran Horn'
+            type: 'upgrade'
+            count: 1
+        }
+        {
+            name: "Etahn A'baht"
+            type: 'upgrade'
             count: 1
         }
         {
@@ -1091,6 +1126,16 @@ exportObj.manifestByExpansion =
             count: 1
         }
         {
+            name: 'Rexler Brath'
+            type: 'upgrade'
+            count: 1
+        }
+        {
+            name: 'Colonel Vessery'
+            type: 'upgrade'
+            count: 1
+        }
+        {
             name: 'Onyx Squadron Pilot'
             type: 'pilot'
             count: 1
@@ -1140,6 +1185,16 @@ exportObj.manifestByExpansion =
         {
             name: '"Echo"'
             type: 'pilot'
+            count: 1
+        }
+        {
+            name: '"Whisper"'
+            type: 'upgrade'
+            count: 1
+        }
+        {
+            name: '"Echo"'
+            type: 'upgrade'
             count: 1
         }
         {
@@ -1197,6 +1252,21 @@ exportObj.manifestByExpansion =
         {
             name: '"Leebo"'
             type: 'pilot'
+            count: 1
+        }
+        {
+            name: 'Dash Rendar.'
+            type: 'upgrade'
+            count: 1
+        }
+        {
+            name: 'Eaden Vrill'
+            type: 'upgrade'
+            count: 1
+        }
+        {
+            name: '"Leebo".'
+            type: 'upgrade'
             count: 1
         }
         {
@@ -1287,6 +1357,21 @@ exportObj.manifestByExpansion =
             count: 1
         }
         {
+            name: 'Captain Oicunn'
+            type: 'upgrade'
+            count: 1
+        }
+        {
+            name: 'Rear Admiral Chiraneau'
+            type: 'upgrade'
+            count: 1
+        }
+        {
+            name: 'Commander Kenkirk'
+            type: 'upgrade'
+            count: 1
+        }
+        {
             name: 'Patrol Leader'
             type: 'pilot'
             count: 1
@@ -1374,6 +1459,26 @@ exportObj.manifestByExpansion =
             count: 1
         }
         {
+            name: 'Carnor Jax'
+            type: 'upgrade'
+            count: 1
+        }
+        {
+            name: 'Kir Kanos'
+            type: 'upgrade'
+            count: 1
+        }
+        {
+            name: 'Tetran Cowall'
+            type: 'upgrade'
+            count: 1
+        }
+        {
+            name: 'Lieutenant Lorrir'
+            type: 'upgrade'
+            count: 1
+        }
+        {
             name: 'Saber Squadron Pilot'
             type: 'pilot'
             count: 2
@@ -1431,6 +1536,16 @@ exportObj.manifestByExpansion =
             count: 1
         }
         {
+            name: 'Jake Farrell'
+            type: 'upgrade'
+            count: 1
+        }
+        {
+            name: 'Gemmer Sojan'
+            type: 'upgrade'
+            count: 1
+        }
+        {
             name: 'Green Squadron Pilot'
             type: 'pilot'
             count: 1
@@ -1448,6 +1563,16 @@ exportObj.manifestByExpansion =
         {
             name: 'Nera Dantels'
             type: 'pilot'
+            count: 1
+        }
+        {
+            name: 'Keyan Farlander'
+            type: 'upgrade'
+            count: 1
+        }
+        {
+            name: 'Nera Dantels'
+            type: 'upgrade'
             count: 1
         }
         {
@@ -1530,6 +1655,26 @@ exportObj.manifestByExpansion =
         {
             name: 'Tarn Mison'
             type: 'pilot'
+            count: 1
+        }
+        {
+            name: 'Wes Janson'
+            type: 'upgrade'
+            count: 1
+        }
+        {
+            name: 'Jek Porkins'
+            type: 'upgrade'
+            count: 1
+        }
+        {
+            name: '"Hobbie" Klivian'
+            type: 'upgrade'
+            count: 1
+        }
+        {
+            name: 'Tarn Mison'
+            type: 'upgrade'
             count: 1
         }
         {

@@ -6902,6 +6902,242 @@ exportObj.basicCardData = ->
             slot: "Elite"
             points: 3
         }
+        {
+            name: 'Captain Kagi'
+            id: 274
+            unique: true
+            faction: "Galactic Empire"
+            slot: "Elite"
+            points: 4
+        }
+        {
+            name: 'Colonel Jendon'
+            id: 275
+            unique: true
+            faction: "Galactic Empire"
+            slot: "Elite"
+            points: 3
+        }
+        {
+            name: 'Captain Yorr'
+            id: 276
+            unique: true
+            faction: "Galactic Empire"
+            slot: "Elite"
+            points: 2
+        }
+        {
+            name: 'Airen Cracken'
+            id: 277
+            unique: true
+            faction: "Rebel Alliance"
+            slot: "Elite"
+            points: 4
+        }
+        {
+            name: 'Lieutenant Blount'
+            id: 278
+            unique: true
+            faction: "Rebel Alliance"
+            slot: "Elite"
+            points: 3
+        }
+        {
+            name: 'Corran Horn'
+            id: 279
+            unique: true
+            faction: "Rebel Alliance"
+            slot: "Elite"
+            points: 4
+        }
+        {
+            name: "Etahn A'baht"
+            id: 280
+            unique: true
+            faction: "Rebel Alliance"
+            slot: "Elite"
+            points: 3
+        }
+        {
+            name: 'Rexler Brath'
+            id: 281
+            unique: true
+            faction: "Galactic Empire"
+            slot: "Elite"
+            points: 4
+        }
+        {
+            name: 'Colonel Vessery'
+            id: 282
+            unique: true
+            faction: "Galactic Empire"
+            slot: "Elite"
+            points: 3
+        }
+        {
+            name: '"Whisper"'
+            id: 283
+            unique: true
+            faction: "Galactic Empire"
+            slot: "Elite"
+            points: 4
+        }
+        {
+            name: '"Echo"'
+            id: 284
+            unique: true
+            faction: "Galactic Empire"
+            slot: "Elite"
+            points: 3
+        }
+        {
+            name: 'Dash Rendar.'
+            aka: [ "Dash Rendar" ]
+            canonical_name: 'dashrendar-swx99'
+            id: 285
+            unique: true
+            faction: "Rebel Alliance"
+            slot: "Elite"
+            points: 4
+        }
+        {
+            name: 'Eaden Vrill'
+            id: 286
+            unique: true
+            faction: "Rebel Alliance"
+            slot: "Elite"
+            points: 2
+        }
+        {
+            name: '"Leebo".'
+            aka: [ '"Leebo"' ]
+            canonical_name: 'leebo-swx99'
+            id: 287
+            unique: true
+            faction: "Rebel Alliance"
+            slot: "Elite"
+            points: 3
+        }
+        {
+            name: 'Captain Oicunn'
+            id: 288
+            unique: true
+            faction: "Galactic Empire"
+            slot: "Elite"
+            points: 2
+        }
+        {
+            name: 'Rear Admiral Chiraneau'
+            id: 289
+            unique: true
+            faction: "Galactic Empire"
+            slot: "Elite"
+            points: 4
+        }
+        {
+            name: 'Commander Kenkirk'
+            id: 290
+            unique: true
+            faction: "Galactic Empire"
+            slot: "Elite"
+            points: 3
+        }
+        {
+            name: 'Carnor Jax'
+            id: 291
+            unique: true
+            faction: "Galactic Empire"
+            slot: "Elite"
+            points: 4
+        }
+        {
+            name: 'Kir Kanos'
+            id: 292
+            unique: true
+            faction: "Galactic Empire"
+            slot: "Elite"
+            points: 3
+        }
+        {
+            name: 'Tetran Cowall'
+            id: 293
+            unique: true
+            faction: "Galactic Empire"
+            slot: "Elite"
+            points: 4
+        }
+        {
+            name: 'Lieutenant Lorrir'
+            id: 294
+            unique: true
+            faction: "Galactic Empire"
+            slot: "Elite"
+            points: 3
+        }
+        {
+            name: 'Wes Janson'
+            id: 295
+            unique: true
+            faction: 'Rebel Alliance'
+            slot: 'Elite'
+            points: 4
+        }
+        {
+            name: 'Jek Porkins'
+            id: 296
+            unique: true
+            faction: 'Rebel Alliance'
+            slot: 'Elite'
+            points: 4
+        }
+        {
+            name: '"Hobbie" Klivian'
+            id: 297
+            unique: true
+            faction: 'Rebel Alliance'
+            slot: 'Elite'
+            points: 3
+        }
+        {
+            name: 'Tarn Mison'
+            id: 298
+            unique: true
+            faction: 'Rebel Alliance'
+            slot: 'Elite'
+            points: 2
+        }
+        {
+            name: 'Jake Farrell'
+            id: 299
+            unique: true
+            faction: 'Rebel Alliance'
+            slot: 'Elite'
+            points: 4
+        }
+        {
+            name: 'Gemmer Sojan'
+            id: 300
+            unique: true
+            faction: 'Rebel Alliance'
+            slot: 'Elite'
+            points: 3
+        }
+        {
+            name: 'Keyan Farlander'
+            id: 301
+            unique: true
+            faction: 'Rebel Alliance'
+            slot: 'Elite'
+            points: 4
+        }
+        {
+            name: 'Nera Dantels'
+            id: 302
+            unique: true
+            faction: 'Rebel Alliance'
+            slot: 'Elite'
+            points: 3
+        }
 
 
 

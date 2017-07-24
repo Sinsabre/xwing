@@ -1077,6 +1077,64 @@ exportObj.cardLoaders.English = () ->
             text: '''When another friendly ship at Range 1 attacks with a secondary weapon, it may reroll up to 2 attack dice.'''
         "Major Rhymer":
             text: '''When attacking with a secondary weapon, you may increase or decrease the weapon range by 1 to a limit of Range 1-3.'''
+        "Captain Kagi":
+            text: '''When an enemy ship acquires a target lock, it must lock onto your ship if able.'''
+        "Colonel Jendon":
+            text: '''At the start of the Combat phase, you may assign 1 of your blue target lock tokens to a friendly ship at Range 1 if it does not have a blue target lock token.'''
+        "Captain Yorr":
+            text: '''When another friendly ship at Range 1-2 would receive a stress token, if you have 2 or fewer stress tokens, you may receive that token instead.'''
+        "Lieutenant Blount":
+            text: '''When attacking, the defender is hit by your attack, even if he does not suffer any damage.'''
+        "Airen Cracken":
+            text: '''After you perform an attack, you may choose another friendly ship at Range 1.  That ship may perform 1 free action.'''
+        "Colonel Vessery":
+            text: '''When attacking, immediately after you roll attack dice, you may acquire a target lock on the defender if it already has a red target lock token.'''
+        "Rexler Brath":
+            text: '''After you perform an attack that deals at least 1 Damage card to the defender, you may spend a focus token to flip those cards faceup.'''
+        "Etahn A'baht":
+            text: '''When an enemy ship inside your firing arc at Range 1-3 is defending, the attacker may change 1 of its %HIT% results to a %CRIT% result.'''
+        "Corran Horn":
+            text: '''At the start of the End phase, you may perform one attack.  You cannot attack during the next round.'''
+        '"Echo"':
+            text: '''When you decloak, you must use the (%BANKLEFT% 2) or (%BANKRIGHT% 2) template instead of the (%STRAIGHT% 2) template.'''
+        '"Whisper"':
+            text: '''After you perform an attack that hits, you may assign 1 focus to your ship.'''
+        "Lieutenant Lorrir":
+            text: '''When performing a barrel roll action, you may receive 1 stress token to use the (%BANKLEFT% 1) or (%BANKRIGHT% 1) template instead of the (%STRAIGHT% 1) template.'''
+        "Tetran Cowall":
+            text: '''When you reveal a %UTURN% maneuver, you may treat the speed of that maneuver as "1," "3," or "5".'''
+        "Kir Kanos":
+            text: '''When attacking at Range 2-3, you may spend 1 evade token to add 1 %HIT% result to your roll.'''
+        "Carnor Jax":
+            text: '''Enemy ships at Range 1 cannot perform focus or evade actions and cannot spend focus or evade tokens.'''
+        "Dash Rendar.":
+            text: '''You may ignore obstacles during the Activation phase and when performing actions.'''
+        '"Leebo".':
+            text: '''When you are dealt a faceup Damage card, draw 1 additional Damage card, choose 1 to resolve, and discard the other.'''
+        "Eaden Vrill":
+            text: '''When performing a primary weapon attack against a stressed ship, roll 1 additional attack die.'''
+        "Rear Admiral Chiraneau":
+            text: '''When attacking at Range 1-2, you may change 1 of your %FOCUS% results to a %CRIT% result.'''
+        "Commander Kenkirk":
+            text: '''If you have no shields and at least 1 Damage card assigned to you, increase your agility value by 1.'''
+        "Captain Oicunn":
+            text: '''After executing a maneuver, each enemy ship you are touching suffers 1 damage.'''
+        "Wes Janson":
+            text: '''After you perform an attack, you may remove 1 focus, evade, or blue target lock token from the defender.'''
+        "Jek Porkins":
+            text: '''When you receive a stress token, you may remove it and roll 1 attack die.  On a %HIT% result, deal 1 facedown Damage card to this ship.'''
+        '"Hobbie" Klivian':
+            text: '''When you acquire or spend a target lock, you may remove 1 stress token from your ship.'''
+        "Tarn Mison":
+            text: '''When an enemy ship declares you as the target of an attack, you may acquire a target lock on that ship.'''
+        "Jake Farrell":
+            text: '''After you perform a focus action or are assigned a focus token, you may perform a free boost or barrel roll action.'''
+        "Gemmer Sojan":
+            text: '''While you are at Range 1 of at least 1 enemy ship, increase your agility value by 1.'''
+        "Keyan Farlander":
+            text: '''When attacking, you may remove 1 stress token to change all of your %FOCUS% results to %HIT%results.'''
+        "Nera Dantels":
+            text: '''You can perform %TORPEDO% secondary weapon attacks against enemy ships outside your firing arc.'''
 
 
 
