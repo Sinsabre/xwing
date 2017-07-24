@@ -1171,8 +1171,127 @@ exportObj.cardLoaders.English = () ->
             text: '''When attacking, if there are no other friendly ships at Range 1-2, roll 1 additional attack die.'''
         "Kaa'to Leeachos":
             text: '''At the start of the Combat phase, you may remove 1 focus or evade token from another friendly ship at Range 1-2 and assign it to yourself.'''
+        "Commander Alozen":
+            text: '''At the start of the Combat phase, you may acquire a target lock on an enemy ship at Range 1.'''
+        "Bossk.":
+            text: '''When you perform an attack that hits, before dealing damage, you may cancel 1 of your %CRIT% results to add 2 %HIT% results.'''
+        "Talonbane Cobra":
+            text: '''When attacking or defending, double the effect of your range combat bonuses.'''
+        "Miranda Doni":
+            text: '''Once per round when attacking, you may either spend 1 shield to roll 1 additional attack die <strong>or</strong> roll 1 fewer attack die to recover 1 shield.'''
+        '"Redline"':
+            text: '''You may maintain 2 target locks on the same ship.  When you acquire a target lock, you may acquire a second lock on that ship.'''
+        '"Deathrain"':
+            text: '''When dropping a bomb, you may use the front guides of your ship.  After dropping a bomb, you may perform a free barrel roll action.'''
+        "Juno Eclipse":
+            text: '''When you reveal your maneuver, you may increase or decrease its speed by 1 (to a minimum of 1).'''
+        "Zertik Strom":
+            text: '''Enemy ships at Range 1 cannot add their range combat bonus when attacking.'''
+        "Lieutenant Colzet":
+            text: '''At the start of the End phase, you may spend a target lock you have on an enemy ship to flip 1 random facedown Damage card assigned to it faceup.'''
+        "Latts Razzi.":
+            text: '''When a friendly ship declares an attack, you may spend a target lock you have on the defender to reduce its agility by 1 for that attack.'''
+        "Graz the Hunter":
+            text: '''When defending, if the attacker is inside your firing arc, roll 1 additional defense die.'''
+        "Esege Tuketu":
+            text: '''When another friendly ship at Range 1-2 is attacking, it may treat your focus tokens as its own.'''
+        "Moralo Eval":
+            text: '''You can perform %CANNON% secondary attacks against ships inside your auxiliary firing arc.'''
+        '"Scourge"':
+            text: '''When attacking a defender that has 1 or more Damage cards, roll 1 additional attack die.'''        
+        '"Youngster"':
+            text: '''Friendly TIE fighters at Range 1-3 may perform the action on your equipped %ELITE% Upgrade card.'''
+        '"Wampa"':
+            text: '''When attacking, you may cancel all die results.  If you cancel a %CRIT% result, deal 1 facedown Damage card to the defender.'''
+        '"Chaser"':
+            text: '''When another friendly ship at Range 1 spends a focus token, assign a focus token to your ship.'''
+        "The Inquisitor":
+            text: '''When attacking with your primary weapon at Range 2-3, treat the range of the attack as Range 1.'''
+        "Zuckuss.":
+            text: '''When attacking, you may roll 1 additional attack die.  If you do, the defender rolls 1 additional defense die.'''
+        "Dengar.":
+            text: '''Once per round after defending, if the attacker is inside your firing arc, you may perform an attack against that ship.'''
+        "Poe Dameron":
+            text: '''When attacking or defending, if you have a focus token, you may change 1 of your %FOCUS% results to a %HIT% or %EVADE% result.'''
+        '"Blue Ace"':
+            text: '''When performing a boost action, you may use the (%TURNLEFT% 1) or (%TURNRIGHT% 1) template.'''
+        '"Omega Ace"':
+            text: '''When attacking, you may spend a focus token and a target lock you have on the defender to change all of your results to %CRIT% results.'''
+        '"Epsilon Leader"':
+            text: '''At the start of the Combat phase, remove 1 stress token from each friendly ship at Range 1.'''
+        '"Zeta Ace"':
+            text: '''When performing a barrel roll you may use the (%STRAIGHT% 2) template instead of the (%STRAIGHT% 1) template.'''
+        '"Red Ace"':
+            text: '''The first time you remove a shield token from your ship each round, assign 1 evade token to your ship.'''
+        '"Omega Leader"':
+            text: '''Enemy ships that you have locked cannot modify any dice when attacking you or defending against your attacks.'''
+        'Hera Syndulla.':
+            text: '''When you reveal a green or red maneuver, you may rotate your dial to another maneuver of the same difficulty.'''
+        'Ezra Bridger.':
+            text: '''When defending, if you are stressed, you may change up to 2 of your %FOCUS% results to %EVADE% results.'''
+        '"Zeta Leader"':
+            text: '''When attacking, if you are not stressed, you may receive 1 stress token to roll 1 additional die.'''
+        '"Epsilon Ace"':
+            text: '''While you do not have any Damage cards, treat your pilot skill value as "12."'''
+        "Kanan Jarrus.":
+            text: '''When an enemy ship at Range 1-2 is attacking, you may spend a focus token.  If you do, the attacker rolls 1 fewer attack die.'''
+        '"Chopper".':
+            text: '''At the start of the Combat phase, each enemy ship you are touching receives 1 stress token.'''
+        'Sabine Wren.':
+            text: '''Immediately before you reveal your maneuver, you may perform a free boost or barrel roll action.'''
+        '"Zeb" Orrelios.':
+            text: '''When defending, you may cancel %CRIT% results before %HIT% results.'''
+        'Tomax Bren':
+            text: '''Once per round, after you discard an %ELITE% Upgrade card, flip that card faceup.'''
+        'Ello Asty':
+            text: '''While you are not stressed, you may treat your %TROLLLEFT% and %TROLLRIGHT% maneuvers as white maneuvers.'''
+        "Valen Rudor":
+            text: '''After defending, you may perform a free action.'''
+        "4-LOM.":
+            text: '''At the start of the End phase, you may assign 1 of your stress tokens to another ship at Range 1.'''
+        "Tel Trevura":
+            text: '''The first time you would be destroyed, instead cancel any remaining damage, discard all Damage cards, and deal 4 facedown Damage cards to this ship.'''
+        "Manaroo":
+            text: '''At the start of the Combat phase, you may assign all focus, evade, and target lock tokens assigned to you to another friendly ship at Range 1.'''
+        '"Deathfire"':
+            text: '''When you reveal your maneuver dial or after you perform an action, you may perform a %BOMB% Upgrade card action as a free action.'''
+        "Maarek Stele (TIE Defender)":
+            text: '''When your attack deals a faceup Damage card to the defender, instead draw 3 Damage cards, choose 1 to deal, and discard the others.'''
+        "Countess Ryad":
+            text: '''When you reveal a %STRAIGHT% maneuver, you may treat it as a %KTURN% maneuver.'''
+        'Norra Wexley':
+            text: '''When attacking or defending, you may spend a target lock you have on the enemy ship to add 1 %FOCUS% result to your roll.'''
+        'Shara Bey':
+            text: '''When another friendly ship at Range 1-2 is attacking, it may treat your blue target lock tokens as its own.'''
+        'Thane Kyrell':
+            text: '''After an enemy ship in your firing arc at Range 1-3 attacks another friendly ship, you may perform a free action.'''
+        'Braylen Stramm':
+            text: '''After you execute a maneuver, you may roll an attack die.  On a %HIT% or %CRIT% result, remove 1 stress token from your ship.'''
+        '"Quickdraw"':
+            text: '''Once per round, when you lose a shield token, you may perform a primary weapon attack.'''
+        '"Backdraft"':
+            text: '''When attacking a ship inside your auxiliary firing arc, you may add 1 %CRIT% result.'''
+        'Fenn Rau':
+            text: '''When attacking or defending, if the enemy ship is at Range 1, you may roll 1 additional die.'''
+        'Old Teroch':
+            text: '''At the start of the Combat phase, you may choose 1 enemy ship at Range 1.  If you are inside its firing arc, it discards all focus and evade tokens.'''
+        'Kad Solus':
+            text: '''After you execute a red maneuver, assign 2 focus tokens to your ship.'''
+        'Ketsu Onyo.':
+            text: '''At the start of the Combat phase, you may choose a ship at Range 1.  If it is inside your primary <strong>and</strong> mobile firing arcs, assign 1 tractor beam token to it.'''
+        'Asajj Ventress':
+            text: '''At the start of the Combat phase, you may choose a ship at Range 1-2.  If it is inside your mobile firing arc, assign 1 stress token to it.'''
+        'Sabine Wren (Scum)':
+            text: '''When defending against an enemy ship inside your mobile firing arc at Range 1-2, you may add 1 %FOCUS% result to your roll.'''
+        "Poe Dameron (PS9)":
+            text: '''When attacking or defending, if you have a focus token, you may change 1 of your %FOCUS% results to a %HIT% or %EVADE% result.'''
+        "Rey.":
+            text: '''When attacking or defending, if the enemy ship is inside of your firing arc, you may reroll up to 2 of your blank results.'''
+        'Han Solo (TFA)':
+            text: '''When you are placed during setup, you can be placed anywhere in the play area beyond Range 3 of enemy ships.'''
+        'Chewbacca (TFA)':
+            text: '''After another friendly ship at Range 1-3 is destroyed (but has not fled the battlefield), you may perform an attack.'''
         
-
 
 
 

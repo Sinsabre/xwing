@@ -2406,6 +2406,21 @@ exportObj.manifestByExpansion =
             count: 1
         }
         {
+            name: 'Bossk.'
+            type: 'upgrade'
+            count: 1
+        }
+        {
+            name: 'Moralo Eval'
+            type: 'upgrade'
+            count: 1
+        }
+        {
+            name: 'Latts Razzi.'
+            type: 'upgrade'
+            count: 1
+        }
+        {
             name: 'Trandoshan Slaver'
             type: 'pilot'
             count: 1
@@ -2488,6 +2503,16 @@ exportObj.manifestByExpansion =
             count: 1
         }
         {
+            name: 'Talonbane Cobra'
+            type: 'upgrade'
+            count: 1
+        }
+        {
+            name: 'Graz the Hunter'
+            type: 'upgrade'
+            count: 1
+        }
+        {
             name: 'Black Sun Ace'
             type: 'pilot'
             count: 1
@@ -2537,6 +2562,16 @@ exportObj.manifestByExpansion =
         {
             name: 'Esege Tuketu'
             type: 'pilot'
+            count: 1
+        }
+        {
+            name: 'Miranda Doni'
+            type: 'upgrade'
+            count: 1
+        }
+        {
+            name: 'Esege Tuketu'
+            type: 'upgrade'
             count: 1
         }
         {
@@ -2604,6 +2639,16 @@ exportObj.manifestByExpansion =
         {
             name: '"Deathrain"'
             type: 'pilot'
+            count: 1
+        }
+        {
+            name: '"Redline"'
+            type: 'upgrade'
+            count: 1
+        }
+        {
+            name: '"Deathrain"'
+            type: 'upgrade'
             count: 1
         }
         {
@@ -2701,6 +2746,26 @@ exportObj.manifestByExpansion =
         {
             name: "Lieutenant Colzet"
             type: 'pilot'
+            count: 1
+        }
+        {
+            name: "Juno Eclipse"
+            type: 'upgrade'
+            count: 1
+        }
+        {
+            name: "Zertik Strom"
+            type: 'upgrade'
+            count: 1
+        }
+        {
+            name: "Commander Alozen"
+            type: 'upgrade'
+            count: 1
+        }
+        {
+            name: "Lieutenant Colzet"
+            type: 'upgrade'
             count: 1
         }
         {
@@ -2846,6 +2911,11 @@ exportObj.manifestByExpansion =
             count: 1
         }
         {
+            name: '"Blue Ace"'
+            type: 'upgrade'
+            count: 1
+        }
+        {
             name: 'Red Squadron Veteran'
             type: 'pilot'
             count: 1
@@ -2868,6 +2938,21 @@ exportObj.manifestByExpansion =
         {
             name: '"Zeta Ace"'
             type: 'pilot'
+            count: 1
+        }
+        {
+            name: '"Omega Ace"'
+            type: 'upgrade'
+            count: 1
+        }
+        {
+            name: '"Epsilon Leader"'
+            type: 'upgrade'
+            count: 1
+        }
+        {
+            name: '"Zeta Ace"'
+            type: 'upgrade'
             count: 1
         }
         {
@@ -2945,6 +3030,26 @@ exportObj.manifestByExpansion =
         {
             name: '"Chaser"'
             type: 'pilot'
+            count: 1
+        }
+        {
+            name: '"Scourge"'
+            type: 'upgrade'
+            count: 1
+        }
+        {
+            name: '"Wampa"'
+            type: 'upgrade'
+            count: 1
+        }
+        {
+            name: '"Youngster"'
+            type: 'upgrade'
+            count: 1
+        }
+        {
+            name: '"Chaser"'
+            type: 'upgrade'
             count: 1
         }
         {
@@ -3080,6 +3185,16 @@ exportObj.manifestByExpansion =
             count: 1
         }
         {
+            name: 'Ello Asty'
+            type: 'upgrade'
+            count: 1
+        }
+        {
+            name: '"Red Ace"'
+            type: 'upgrade'
+            count: 1
+        }
+        {
             name: 'Red Squadron Veteran'
             type: 'pilot'
             count: 1
@@ -3137,6 +3252,21 @@ exportObj.manifestByExpansion =
             count: 1
         }
         {
+            name: '"Omega Leader"'
+            type: 'upgrade'
+            count: 1
+        }
+        {
+            name: '"Zeta Leader"'
+            type: 'upgrade'
+            count: 1
+        }
+        {
+            name: '"Epsilon Ace"'
+            type: 'upgrade'
+            count: 1
+        }
+        {
             name: 'Omega Squadron Pilot'
             type: 'pilot'
             count: 1
@@ -3189,6 +3319,21 @@ exportObj.manifestByExpansion =
             count: 1
         }
         {
+            name: 'Hera Syndulla.'
+            type: 'upgrade'
+            count: 1
+        }
+        {
+            name: 'Kanan Jarrus.'
+            type: 'upgrade'
+            count: 1
+        }
+        {
+            name: '"Chopper".'
+            type: 'upgrade'
+            count: 1
+        }
+        {
             name: 'Lothal Rebel'
             type: 'pilot'
             count: 1
@@ -3211,6 +3356,21 @@ exportObj.manifestByExpansion =
         {
             name: '"Zeb" Orrelios'
             type: 'pilot'
+            count: 1
+        }
+        {
+            name: 'Sabine Wren.'
+            type: 'upgrade'
+            count: 1
+        }
+        {
+            name: 'Ezra Bridger.'
+            type: 'upgrade'
+            count: 1
+        }
+        {
+            name: '"Zeb" Orrelios.'
+            type: 'upgrade'
             count: 1
         }
         {
@@ -3311,6 +3471,21 @@ exportObj.manifestByExpansion =
             count: 1
         }
         {
+            name: 'Dengar.'
+            type: 'upgrade'
+            count: 1
+        }
+        {
+            name: 'Tel Trevura'
+            type: 'upgrade'
+            count: 1
+        }
+        {
+            name: 'Manaroo'
+            type: 'upgrade'
+            count: 1
+        }
+        {
             name: 'Contracted Scout'
             type: 'pilot'
             count: 1
@@ -3388,6 +3563,16 @@ exportObj.manifestByExpansion =
             count: 1
         }
         {
+            name: 'Zuckuss.'
+            type: 'upgrade'
+            count: 1
+        }
+        {
+            name: '4-LOM.'
+            type: 'upgrade'
+            count: 1
+        }
+        {
             name: 'Gand Findsman'
             type: 'pilot'
             count: 1
@@ -3450,6 +3635,16 @@ exportObj.manifestByExpansion =
             count: 1
         }
         {
+            name: 'The Inquisitor'
+            type: 'upgrade'
+            count: 1
+        }
+        {
+            name: 'Valen Rudor'
+            type: 'upgrade'
+            count: 1
+        }
+        {
             name: 'Baron of the Empire'
             type: 'pilot'
             count: 1
@@ -3507,6 +3702,16 @@ exportObj.manifestByExpansion =
             count: 1
         }
         {
+            name: 'Tomax Bren'
+            type: 'upgrade'
+            count: 1
+        }
+        {
+            name: '"Deathfire"'
+            type: 'upgrade'
+            count: 1
+        }
+        {
             name: 'Gamma Squadron Veteran'
             type: 'pilot'
             count: 2
@@ -3519,6 +3724,16 @@ exportObj.manifestByExpansion =
         {
             name: 'Countess Ryad'
             type: 'pilot'
+            count: 1
+        }
+        {
+            name: 'Maarek Stele (TIE Defender)'
+            type: 'upgrade'
+            count: 1
+        }
+        {
+            name: 'Countess Ryad'
+            type: 'upgrade'
             count: 1
         }
         {
@@ -3599,6 +3814,26 @@ exportObj.manifestByExpansion =
             count: 1
         }
         {
+            name: 'Norra Wexley'
+            type: 'upgrade'
+            count: 1
+        }
+        {
+            name: 'Shara Bey'
+            type: 'upgrade'
+            count: 1
+        }
+        {
+            name: 'Thane Kyrell'
+            type: 'upgrade'
+            count: 1
+        }
+        {
+            name: 'Braylen Stramm'
+            type: 'upgrade'
+            count: 1
+        }
+        {
             name: 'Adrenaline Rush'
             type: 'upgrade'
             count: 1
@@ -3648,6 +3883,16 @@ exportObj.manifestByExpansion =
         {
             name: '"Backdraft"'
             type: 'pilot'
+            count: 1
+        }
+        {
+            name: '"Quickdraw"'
+            type: 'upgrade'
+            count: 1
+        }
+        {
+            name: '"Backdraft"'
+            type: 'upgrade'
             count: 1
         }
         {
@@ -3703,6 +3948,21 @@ exportObj.manifestByExpansion =
             count: 1
         }
         {
+            name: 'Fenn Rau'
+            type: 'upgrade'
+            count: 1
+        }
+        {
+            name: 'Old Teroch'
+            type: 'upgrade'
+            count: 1
+        }
+        {
+            name: 'Kad Solus'
+            type: 'upgrade'
+            count: 1
+        }
+        {
             name: 'Concord Dawn Ace'
             type: 'pilot'
             count: 1
@@ -3747,6 +4007,21 @@ exportObj.manifestByExpansion =
         {
             name: 'Sabine Wren (Scum)'
             type: 'pilot'
+            count: 1
+        }
+        {
+            name: 'Ketsu Onyo.'
+            type: 'upgrade'
+            count: 1
+        }
+        {
+            name: 'Asajj Ventress'
+            type: 'upgrade'
+            count: 1
+        }
+        {
+            name: 'Sabine Wren (Scum)'
+            type: 'upgrade'
             count: 1
         }
         {
@@ -3832,6 +4107,21 @@ exportObj.manifestByExpansion =
             count: 1
         }
         {
+            name: 'Han Solo (TFA)'
+            type: 'upgrade'
+            count: 1
+        }
+        {
+            name: 'Rey.'
+            type: 'upgrade'
+            count: 1
+        }
+        {
+            name: 'Chewbacca (TFA)'
+            type: 'upgrade'
+            count: 1
+        }
+        {
             name: 'Resistance Sympathizer'
             type: 'pilot'
             count: 1
@@ -3854,6 +4144,26 @@ exportObj.manifestByExpansion =
         {
             name: 'Jess Pava'
             type: 'pilot'
+            count: 1
+        }
+        {
+            name: 'Poe Dameron (PS9)'
+            type: 'upgrade'
+            count: 1
+        }
+        {
+            name: 'Nien Nunb'
+            type: 'upgrade'
+            count: 1
+        }
+        {
+            name: '''"Snap" Wexley'''
+            type: 'upgrade'
+            count: 1
+        }
+        {
+            name: 'Jess Pava'
+            type: 'upgrade'
             count: 1
         }
         {

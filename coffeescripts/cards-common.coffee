@@ -7276,6 +7276,545 @@ exportObj.basicCardData = ->
             slot: 'Elite'
             points: 2
         }
+        {
+            name: 'Commander Alozen'
+            id: 321
+            unique: true
+            faction: 'Galactic Empire'
+            slot: 'Elite'
+            points: 3
+        }
+        {
+            name: 'Bossk.'
+            id: 322
+            unique: true
+            faction: 'Scum and Villainy'
+            slot: 'Elite'
+            points: 4
+        }
+        {
+            name: 'Moralo Eval'
+            id: 323
+            unique: true
+            faction: 'Scum and Villainy'
+            slot: 'Elite'
+            points: 3
+        }
+        {
+            name: 'Latts Razzi.'
+            id: 324
+            unique: true
+            faction: 'Scum and Villainy'
+            slot: 'Elite'
+            points: 3
+        }
+        {
+            name: 'Talonbane Cobra'
+            id: 325
+            unique: true
+            faction: 'Scum and Villainy'
+            slot: 'Elite'
+            points: 5
+        }
+        {
+            name: 'Graz the Hunter'
+            id: 326
+            unique: true
+            faction: 'Scum and Villainy'
+            slot: 'Elite'
+            points: 3
+        }
+        {
+            name: 'Miranda Doni'
+            id: 327
+            unique: true
+            faction: 'Rebel Alliance'
+            slot: 'Elite'
+            points: 4
+        }
+        {
+            name: 'Esege Tuketu'
+            id: 328
+            unique: true
+            faction: 'Rebel Alliance'
+            slot: 'Elite'
+            points: 3
+        }
+        {
+            name: '"Redline"'
+            id: 329
+            unique: true
+            faction: 'Galactic Empire'
+            slot: 'Elite'
+            points: 4
+        }
+        {
+            name: '"Deathrain"'
+            id: 330
+            unique: true
+            faction: 'Galactic Empire'
+            slot: 'Elite'
+            points: 3
+        }
+        {
+            name: 'Juno Eclipse'
+            id: 331
+            unique: true
+            faction: 'Galactic Empire'
+            slot: 'Elite'
+            points: 4
+        }
+        {
+            name: 'Zertik Strom'
+            id: 332
+            unique: true
+            faction: 'Galactic Empire'
+            slot: 'Elite'
+            points: 3
+        }
+        {
+            name: 'Lieutenant Colzet'
+            id: 333
+            unique: true
+            faction: 'Galactic Empire'
+            slot: 'Elite'
+            points: 2
+        }
+        {
+            name: '"Scourge"'
+            id: 334
+            unique: true
+            faction: 'Galactic Empire'
+            slot: 'Elite'
+            points: 4
+        }
+        {
+            name: '"Youngster"'
+            id: 335
+            unique: true
+            faction: 'Galactic Empire'
+            slot: 'Elite'
+            points: 3
+        }
+        {
+            name: '"Wampa"'
+            id: 336
+            unique: true
+            faction: 'Galactic Empire'
+            slot: 'Elite'
+            points: 2
+        }
+        {
+            name: '"Chaser"'
+            id: 337
+            unique: true
+            faction: 'Galactic Empire'
+            slot: 'Elite'
+            points: 2
+        }
+        {
+            name: 'Hera Syndulla.'
+            aka: [ 'Hera Syndulla' ]
+            id: 338
+            unique: true
+            faction: 'Rebel Alliance'
+            slot: 'Elite'
+            points: 4
+        }
+        {
+            name: 'Kanan Jarrus.'
+            aka: [ 'Kanan Jarrus' ]
+            id: 339
+            unique: true
+            faction: 'Rebel Alliance'
+            slot: 'Elite'
+            points: 3
+        }
+        {
+            name: '"Chopper".'
+            aka: [ '"Chopper"' ]
+            id: 340
+            unique: true
+            faction: 'Rebel Alliance'
+            slot: 'Elite'
+            points: 2
+        }
+        {
+            name: 'Hera Syndulla (Attack Shuttle)'
+            aka: [ 'Hera Syndulla' ]
+            id: 341
+            unique: true
+            faction: 'Rebel Alliance'
+            slot: 'Disabled'
+            points: 4
+        }
+        {
+            name: 'Sabine Wren.'
+            aka: [ 'Sabine Wren' ]
+            id: 342
+            unique: true
+            faction: 'Rebel Alliance'
+            slot: 'Elite'
+            points: 3
+        }
+        {
+            name: 'Ezra Bridger.'
+            aka: [ 'Ezra Bridger' ]
+            id: 343
+            unique: true
+            faction: 'Rebel Alliance'
+            slot: 'Elite'
+            points: 2
+        }
+        {
+            name: '"Zeb" Orrelios.'
+            aka: [ '"Zeb" Orrelios' ]
+            id: 344
+            unique: true
+            faction: 'Rebel Alliance'
+            slot: 'Elite'
+            points: 2
+        }
+        {
+            name: 'The Inquisitor'
+            id: 345
+            unique: true
+            faction: 'Galactic Empire'
+            slot: 'Elite'
+            points: 4
+        }
+        {
+            name: 'Valen Rudor'
+            id: 346
+            unique: true
+            faction: 'Galactic Empire'
+            slot: 'Elite'
+            points: 3
+        }
+        {
+            name: 'Zuckuss.'
+            aka: [ 'Zuckuss' ]
+            id: 347
+            unique: true
+            faction: 'Scum and Villainy'
+            slot: 'Elite'
+            points: 4
+        }
+        {
+            name: '4-LOM.'
+            aka: [ '4-LOM' ]
+            id: 348
+            unique: true
+            faction: 'Scum and Villainy'
+            slot: 'Elite'
+            points: 3
+        }
+        {
+            name: 'Dengar.'
+            aka: [ 'Dengar' ]
+            id: 349
+            unique: true
+            faction: 'Scum and Villainy'
+            slot: 'Elite'
+            points: 5
+        }
+        {
+            name: 'Tel Trevura'
+            id: 350
+            unique: true
+            faction: 'Scum and Villainy'
+            slot: 'Elite'
+            points: 4
+        }
+        {
+            name: 'Manaroo'
+            id: 351
+            unique: true
+            faction: 'Scum and Villainy'
+            slot: 'Elite'
+            points: 2
+        }
+        {
+            name: 'Poe Dameron'
+            id: 352
+            unique: true
+            faction: 'Resistance'
+            slot: 'Disabled'
+            points: 4
+        }
+        {
+            name: '"Blue Ace"'
+            id: 353
+            unique: true
+            faction: 'Resistance'
+            slot: 'Elite'
+            points: 3
+        }
+        {
+            name: '"Omega Ace"'
+            id: 354
+            unique: true
+            faction: 'First Order'
+            slot: 'Elite'
+            points: 4
+        }
+        {
+            name: '"Epsilon Leader"'
+            id: 355
+            unique: true
+            faction: 'First Order'
+            slot: 'Elite'
+            points: 3
+        }
+        {
+            name: '"Zeta Ace"'
+            id: 356
+            unique: true
+            faction: 'First Order'
+            slot: 'Elite'
+            points: 3
+        }
+        {
+            name: 'Ello Asty'
+            id: 357
+            unique: true
+            faction: 'Resistance'
+            slot: 'Elite'
+            points: 4
+        }
+        {
+            name: '"Red Ace"'
+            id: 358
+            unique: true
+            faction: 'Resistance'
+            slot: 'Elite'
+            points: 3
+        }
+        {
+            name: '"Omega Leader"'
+            id: 359
+            unique: true
+            faction: 'First Order'
+            slot: 'Elite'
+            points: 4
+        }
+        {
+            name: '"Zeta Leader"'
+            id: 360
+            unique: true
+            faction: 'First Order'
+            slot: 'Elite'
+            points: 4
+        }
+        {
+            name: '"Epsilon Ace"'
+            id: 361
+            unique: true
+            faction: 'First Order'
+            slot: 'Elite'
+            points: 2
+        }
+        {
+            name: 'Tomax Bren'
+            id: 362
+            unique: true
+            faction: 'Galactic Empire'
+            slot: 'Elite'
+            points: 4
+        }
+        {
+            name: '"Deathfire"'
+            id: 363
+            unique: true
+            faction: 'Galactic Empire'
+            slot: 'Elite'
+            points: 2
+        }
+        {
+            name: 'Maarek Stele (TIE Defender)'
+            id: 364
+            unique: true
+            faction: 'Galactic Empire'
+            slot: 'Disabled'
+            points: 4
+            'canonical_name': 'maarekstele'
+        }
+        {
+            name: 'Countess Ryad'
+            id: 365
+            unique: true
+            faction: 'Galactic Empire'
+            slot: 'Elite'
+            points: 3
+        }
+        {
+            name: 'Poe Dameron (PS9)'
+            aka: [ 'Poe Dameron' ]
+            id: 366
+            unique: true
+            faction: 'Resistance'
+            slot: 'Elite'
+            points: 5
+            'canonical_name': 'poedameron-swx57'
+        }
+        {
+            name: 'Nien Nunb'
+            id: 367
+            unique: true
+            faction: 'Resistance'
+            slot: 'Elite'
+            points: 4
+        }
+        {
+            name: '"Snap" Wexley'
+            id: 368
+            unique: true
+            faction: 'Resistance'
+            slot: 'Elite'
+            points: 3
+        }
+        {
+            name: 'Jess Pava'
+            id: 369
+            unique: true
+            faction: 'Resistance'
+            slot: 'Elite'
+            points: 2
+        }
+        {
+            name: 'Han Solo (TFA)'
+            aka: [ 'Han Solo' ]
+            id: 370
+            unique: true
+            faction: 'Resistance'
+            slot: 'Elite'
+            points: 5
+            'canonical_name': 'hansolo-swx57'
+        }
+        {
+            name: 'Rey.'
+            aka: [ 'Rey' ]
+            id: 371
+            unique: true
+            faction: 'Resistance'
+            slot: 'Elite'
+            points: 4
+        }
+        {
+            name: 'Chewbacca (TFA)'
+            aka: [ 'Chewbacca' ]
+            id: 372
+            unique: true
+            faction: 'Resistance'
+            slot: 'Elite'
+            points: 3
+            'canonical_name': 'chewbacca-swx57'
+        }
+        {
+            name: 'Norra Wexley'
+            id: 373
+            unique: true
+            faction: 'Rebel Alliance'
+            slot: 'Elite'
+            points: 4
+        }
+        {
+            name: 'Shara Bey'
+            id: 374
+            unique: true
+            faction: 'Rebel Alliance'
+            slot: 'Elite'
+            points: 3
+        }
+        {
+            name: 'Thane Kyrell'
+            id: 375
+            unique: true
+            faction: 'Rebel Alliance'
+            slot: 'Elite'
+            points: 2
+        }
+        {
+            name: 'Braylen Stramm'
+            id: 376
+            unique: true
+            faction: 'Rebel Alliance'
+            slot: 'Elite'
+            points: 2
+        }
+        {
+            name: '"Quickdraw"'
+            id: 377
+            unique: true
+            faction: 'Galactic Empire'
+            slot: 'Elite'
+            points: 5
+        }
+        {
+            name: '"Backdraft"'
+            id: 378
+            unique: true
+            faction: 'Galactic Empire'
+            slot: 'Elite'
+            points: 4
+        }
+        {
+            name: 'Fenn Rau'
+            id: 379
+            unique: true
+            faction: 'Scum and Villainy'
+            slot: 'Elite'
+            points: 5
+        }
+        {
+            name: 'Old Teroch'
+            id: 380
+            unique: true
+            faction: 'Scum and Villainy'
+            slot: 'Elite'
+            points: 4
+        }
+        {
+            name: 'Kad Solus'
+            id: 381
+            unique: true
+            faction: 'Scum and Villainy'
+            slot: 'Elite'
+            points: 3
+        }
+        {
+            name: 'Ketsu Onyo.'
+            aka: [ 'Ketsu Onyo' ]
+            id: 382
+            unique: true
+            faction: 'Scum and Villainy'
+            slot: 'Elite'
+            points: 4
+        }
+        {
+            name: 'Asajj Ventress'
+            id: 383
+            unique: true
+            faction: 'Scum and Villainy'
+            slot: 'Elite'
+            points: 3
+        }
+        {
+            name: 'Sabine Wren (Scum)'
+            id: 384
+            unique: true
+            faction: 'Scum and Villainy'
+            slot: 'Elite'
+            points: 3
+            'canonical_name': 'sabinewren'
+        }
+
+
+
+
+
+
+
 
 
     ]
