@@ -31,7 +31,7 @@ exportObj.manifestByExpansion =
             count: 1
         }
         {
-            name: 'Luke Skywalker (EPT)'
+            name: 'Luke Skywalker.'
             type: 'upgrade'
             count: 1
         }
@@ -319,7 +319,7 @@ exportObj.manifestByExpansion =
             count: 1
         }
         {
-            name: 'Darth Vader (EPT)'
+            name: 'Darth Vader.'
             type: 'upgrade'
             count: 1
         }
@@ -448,17 +448,17 @@ exportObj.manifestByExpansion =
             count: 1
         }
         {
-            name: 'Han Solo (EPT)'
+            name: 'Han Solo.'
             type: 'upgrade'
             count: 1
         }
         {
-            name: 'Lando Calrissian (EPT)'
+            name: 'Lando Calrissian.'
             type: 'upgrade'
             count: 1
         }
         {
-            name: 'Chewbacca (EPT)'
+            name: 'Chewbacca.'
             type: 'upgrade'
             count: 1
         }
@@ -612,7 +612,7 @@ exportObj.manifestByExpansion =
             count: 1
         }
         {
-            name: 'Boba Fett (EPT)'
+            name: 'Boba Fett.'
             type: 'upgrade'
             count: 1
         }
@@ -776,12 +776,12 @@ exportObj.manifestByExpansion =
             count: 1
         }
         {
-            name: 'Jan Ors (EPT)'
+            name: 'Jan Ors.'
             type: 'upgrade'
             count: 1
         }
         {
-            name: 'Kyle Katarn (EPT)'
+            name: 'Kyle Katarn.'
             type: 'upgrade'
             count: 1
         }

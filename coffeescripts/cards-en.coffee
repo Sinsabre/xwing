@@ -1013,7 +1013,7 @@ exportObj.cardLoaders.English = () ->
         'Cruise Missiles':
             text: '''<strong>Attack (Target Lock):</strong> Discard this card to perform this attack.%LINEBREAK%You may roll additional attack dice equal to the speed of the manuever you performed this round, to a maximum of 4 additional dice.'''
         #New EPTs#
-        "Luke Skywalker (EPT)":
+        "Luke Skywalker.":
             text: '''When defending, you may change 1 of your %FOCUS% results to a %EVADE% result.'''
         "Biggs Darklighter":
             text: '''Other friendly ships at Range 1 cannot be targeted by attacks if the attacker could target you instead.'''
@@ -1039,7 +1039,7 @@ exportObj.cardLoaders.English = () ->
             text: '''When another friendly ship at Range 1 is attacking with its primary weapon, it may reroll 1 attack die.'''
         "Maarek Stele":
             text: '''When your attack deals a faceup Damage card to the defender, instead draw 3 Damage cards, choose 1 to deal, and discard the others.'''
-        "Darth Vader (EPT)":
+        "Darth Vader.":
             text: '''During your "Perform Action" step, you may perform 2 actions.'''
         "\"Fel's Wrath\"":
             text: '''When the number of Damage cards assigned to you equals or exceeds your hull value, you are not destroyed until the end of the Combat phase.'''
@@ -1051,15 +1051,15 @@ exportObj.cardLoaders.English = () ->
             text: '''You may perform actions even while you have stress tokens.'''
         "Arvel Crynyd":
             text: '''You may declare an enemy ship inside your firing arc that you are touching as the target of your attack.'''
-        "Chewbacca (EPT)":
+        "Chewbacca.":
             text: '''When you are dealt a faceup Damage card, immediately flip it facedown (without resolving its ability).'''
-        "Lando Calrissian (EPT)":
+        "Lando Calrissian.":
             text: '''After you execute a green maneuver, choose 1 other friendly ship at Range 1.  That ship may perform 1 free action shown on its action bar.'''
-        "Han Solo (EPT)":
+        "Han Solo.":
             text: '''When attacking, you may reroll all of your dice.  If you choose to do so, you must reroll as many of your dice as possible.'''
         "Kath Scarlet":
             text: '''When attacking, the defender receives 1 stress token if he cancels at least 1 %CRIT% result.'''
-        "Boba Fett (EPT)":
+        "Boba Fett.":
             text: '''When you reveal a bank maneuver (%BANKLEFT% or %BANKRIGHT%), you may rotate your dial to the other bank maneuver of the same speed.'''
         "Krassis Trelix":
             text: '''When attacking with a secondary weapon, you may reroll 1 attack die.'''
@@ -1069,9 +1069,9 @@ exportObj.cardLoaders.English = () ->
             text: '''When attacking or defending, if you have at least 1 stress token, you may reroll 1 of your dice.'''
         "Roark Garnet":
             text: '''At the start of the Combat phase, choose 1 other friendly ship at Range 1-3.  Until the end of the phase, treat that ship's pilot skill value as "12."'''
-        "Kyle Katarn (EPT)":
+        "Kyle Katarn.":
             text: '''At the start of the Combat phase, you may assign 1 of your focus tokens to another friendly ship at Range 1-3.'''
-        "Jan Ors (EPT)":
+        "Jan Ors.":
             text: '''When another friendly ship at Range 1-3 is attacking, if you have no stress tokens, you may receive 1 stress token to allow that ship to roll 1 additional attack die.'''
         "Captain Jonus":
             text: '''When another friendly ship at Range 1 attacks with a secondary weapon, it may reroll up to 2 attack dice.'''

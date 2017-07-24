@@ -5005,7 +5005,7 @@ exportObj.basicCardData = ->
         }
         {
             name: "Luke Skywalker"
-            aka: [ "Luke Skywalker (EPT)" ]
+            aka: [ "Luke Skywalker." ]
             canonical_name: 'lukeskywalker'
             id: 31
             unique: true
@@ -6631,7 +6631,7 @@ exportObj.basicCardData = ->
         }
         #New EPTs#
         {
-            name: "Luke Skywalker (EPT)"
+            name: "Luke Skywalker."
             aka: [ "Luke Skywalker" ]
             canonical_name: 'lukeskywalker-swx99'
             id: 242
@@ -6729,7 +6729,7 @@ exportObj.basicCardData = ->
             points: 3
         }
         {
-            name: 'Darth Vader (EPT)'
+            name: 'Darth Vader.'
             aka: [ "Darth Vader" ]
             canonical_name: 'darthvader-swx99'
             id: 254
@@ -6763,7 +6763,7 @@ exportObj.basicCardData = ->
             points: 3
         }
         {
-            name: 'Han Solo (EPT)'
+            name: 'Han Solo.'
             aka: [ "Han Solo" ]
             canonical_name: 'hansolo-swx99'
             id: 258
@@ -6773,7 +6773,7 @@ exportObj.basicCardData = ->
             points: 5
         }
         {
-            name: 'Lando Calrissian (EPT)'
+            name: 'Lando Calrissian.'
             aka: [ "Lando Calrissian" ]
             canonical_name: 'landocalrissian-swx99'
             id: 259
@@ -6783,7 +6783,7 @@ exportObj.basicCardData = ->
             points: 4
         }
         {
-            name: 'Chewbacca (EPT)'
+            name: 'Chewbacca.'
             aka: [ "Chewbacca" ]
             canonical_name: 'chewbacca-swx99'
             id: 260
@@ -6817,7 +6817,7 @@ exportObj.basicCardData = ->
             points: 3
         }
         {
-            name: 'Boba Fett (EPT)'
+            name: 'Boba Fett.'
             aka: [ "Boba Fett" ]
             canonical_name: 'bobafett-swx99'
             id: 264
@@ -6859,7 +6859,7 @@ exportObj.basicCardData = ->
             points: 3
         }
         {
-            name: 'Jan Ors (EPT)'
+            name: 'Jan Ors.'
             aka: [ "Jan Ors" ]
             canonical_name: 'janors-swx99'
             id: 269
@@ -6869,7 +6869,7 @@ exportObj.basicCardData = ->
             points: 4
         }
         {
-            name: 'Kyle Katarn (EPT)'
+            name: 'Kyle Katarn.'
             aka: [ "Kyle Katarn" ]
             canonical_name: 'kylekatarn-swx99'
             id: 270
