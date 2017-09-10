@@ -126,7 +126,7 @@ exportObj.translations.English =
         '#empireTab' : 'Galactic Empire'
         '#rebelTab' : 'Rebel Alliance'
         '#scumTab' : 'Scum and Villainy'
-        '#browserTab' : 'Card Browser'
+        #'#browserTab' : 'Card Browser'
         '#aboutTab' : 'About'
         # Obstacles
         '.choose-obstacles' : 'Choose Obstacles'
