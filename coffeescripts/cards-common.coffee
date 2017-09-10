@@ -6983,12 +6983,46 @@ exportObj.basicCardData = ->
             attack: 1
             range: '2-3'
         }
-<<<<<<< HEAD
+        {
+            name: 'Ion Dischargers'
+            id: 242
+            slot: 'Illicit'
+            points: 2
+        }
+        {
+            name: 'Harpoon Missiles'
+            id: 243
+            slot: 'Missile'
+            points: 4
+            attack: 4
+            range: '2-3'
+            applies_condition: 'Harpooned!'.canonicalize()
+        }
+        {
+            name: 'Ordnance Silos'
+            id: 244
+            slot: 'Bomb'
+            points: 2
+            ship: 'B/SF-17 Bomber'
+        }
+        {
+            name: 'Trajectory Simulator'
+            id: 245
+            slot: 'System'
+            points: 1
+        }
+
+
+
+
+
+
+
         #New EPTs#
         {
             name: "Luke Skywalker."
             aka: [ "Luke Skywalker" ]
-            id: 242
+            id: 412
             unique: true
             faction: "Rebel Alliance"
             slot: "Elite"
@@ -6996,7 +7030,7 @@ exportObj.basicCardData = ->
         }
         {
             name: "Biggs Darklighter"
-            id: 243
+            id: 413
             unique: true
             faction: "Rebel Alliance"
             slot: "Elite"
@@ -7004,7 +7038,7 @@ exportObj.basicCardData = ->
         }
         {
             name: '"Mauler Mithel"'
-            id: 244
+            id: 414
             unique: true
             faction: "Galactic Empire"
             slot: "Elite"
@@ -7012,7 +7046,7 @@ exportObj.basicCardData = ->
         }
         {
             name: '"Dark Curse"'
-            id: 245
+            id: 415
             unique: true
             faction: "Galactic Empire"
             slot: "Elite"
@@ -8395,40 +8429,6 @@ exportObj.basicCardData = ->
 
 
 
-
-
-
-
-=======
-        {
-            name: 'Ion Dischargers'
-            id: 242
-            slot: 'Illicit'
-            points: 2
-        }
-        {
-            name: 'Harpoon Missiles'
-            id: 243
-            slot: 'Missile'
-            points: 4
-            attack: 4
-            range: '2-3'
-            applies_condition: 'Harpooned!'.canonicalize()
-        }
-        {
-            name: 'Ordnance Silos'
-            id: 244
-            slot: 'Bomb'
-            points: 2
-            ship: 'B/SF-17 Bomber'
-        }
-        {
-            name: 'Trajectory Simulator'
-            id: 245
-            slot: 'System'
-            points: 1
-        }
->>>>>>> master
     ]
 
     modificationsById: [
