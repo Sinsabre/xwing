@@ -9417,13 +9417,13 @@ exportObj.setupCardData = (basic_cards, pilot_translations, upgrade_translations
             exportObj.pilots[pilot_data.name] = pilot_data
     # pilot_name is the English version here as it's the common index into
     # basic card info
-    for pilot_name, translations of pilot_translations
-        for field, translation of translations
-            try
-                exportObj.pilots[pilot_name][field] = translation
-            catch e
-                console.error "Cannot find translation for attribute #{field} for pilot #{pilot_name}"
-                throw e
+    # for pilot_name, translations of pilot_translations
+    #     for field, translation of translations
+    #         try
+    #             exportObj.pilots[pilot_name][field] = translation
+    #         catch e
+    #             console.error "Cannot find translation for attribute #{field} for pilot #{pilot_name}"
+    #             throw e
 
     exportObj.upgrades = {}
     for upgrade_data in basic_cards.upgradesById
@@ -9432,13 +9432,13 @@ exportObj.setupCardData = (basic_cards, pilot_translations, upgrade_translations
             upgrade_data.english_name = upgrade_data.name
             upgrade_data.canonical_name = upgrade_data.english_name.canonicalize() unless upgrade_data.canonical_name?
             exportObj.upgrades[upgrade_data.name] = upgrade_data
-    for upgrade_name, translations of upgrade_translations
-        for field, translation of translations
-            try
-                exportObj.upgrades[upgrade_name][field] = translation
-            catch e
-                console.error "Cannot find translation for attribute #{field} for upgrade #{upgrade_name}"
-                throw e
+    # for upgrade_name, translations of upgrade_translations
+    #     for field, translation of translations
+    #         try
+    #             exportObj.upgrades[upgrade_name][field] = translation
+    #         catch e
+    #             console.error "Cannot find translation for attribute #{field} for upgrade #{upgrade_name}"
+    #             throw e
 
     exportObj.modifications = {}
     for modification_data in basic_cards.modificationsById
@@ -9447,13 +9447,13 @@ exportObj.setupCardData = (basic_cards, pilot_translations, upgrade_translations
             modification_data.english_name = modification_data.name
             modification_data.canonical_name = modification_data.english_name.canonicalize() unless modification_data.canonical_name?
             exportObj.modifications[modification_data.name] = modification_data
-    for modification_name, translations of modification_translations
-        for field, translation of translations
-            try
-                exportObj.modifications[modification_name][field] = translation
-            catch e
-                console.error "Cannot find translation for attribute #{field} for modification #{modification_name}"
-                throw e
+    # for modification_name, translations of modification_translations
+    #     for field, translation of translations
+    #         try
+    #             exportObj.modifications[modification_name][field] = translation
+    #         catch e
+    #             console.error "Cannot find translation for attribute #{field} for modification #{modification_name}"
+    #             throw e
 
     exportObj.titles = {}
     for title_data in basic_cards.titlesById
@@ -9462,13 +9462,13 @@ exportObj.setupCardData = (basic_cards, pilot_translations, upgrade_translations
             title_data.english_name = title_data.name
             title_data.canonical_name = title_data.english_name.canonicalize() unless title_data.canonical_name?
             exportObj.titles[title_data.name] = title_data
-    for title_name, translations of title_translations
-        for field, translation of translations
-            try
-                exportObj.titles[title_name][field] = translation
-            catch e
-                console.error "Cannot find translation for attribute #{field} for title #{title_name}"
-                throw e
+    # for title_name, translations of title_translations
+    #     for field, translation of translations
+    #         try
+    #             exportObj.titles[title_name][field] = translation
+    #         catch e
+    #             console.error "Cannot find translation for attribute #{field} for title #{title_name}"
+    #             throw e
 
     exportObj.conditions = {}
     for condition_data in basic_cards.conditionsById
@@ -9477,13 +9477,13 @@ exportObj.setupCardData = (basic_cards, pilot_translations, upgrade_translations
             condition_data.english_name = condition_data.name
             condition_data.canonical_name = condition_data.english_name.canonicalize() unless condition_data.canonical_name?
             exportObj.conditions[condition_data.name] = condition_data
-    for condition_name, translations of condition_translations
-        for field, translation of translations
-            try
-                exportObj.conditions[condition_name][field] = translation
-            catch e
-                console.error "Cannot find translation for attribute #{field} for condition #{condition_name}"
-                throw e
+    # for condition_name, translations of condition_translations
+    #     for field, translation of translations
+    #         try
+    #             exportObj.conditions[condition_name][field] = translation
+    #         catch e
+    #             console.error "Cannot find translation for attribute #{field} for condition #{condition_name}"
+    #             throw e
 
     for ship_name, ship_data of basic_cards.ships
         ship_data.english_name ?= ship_name
