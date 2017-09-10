@@ -1040,7 +1040,7 @@ exportObj.basicCardData = ->
             ]
         'Alpha-class Star Wing':
             name: 'Alpha-class Star Wing'
-            factions: ["Galactic Empire"]
+            factions: ["Disabled"]
             attack: 2
             agility: 2
             hull: 4
@@ -1053,7 +1053,7 @@ exportObj.basicCardData = ->
             ]
         'M12-L Kimogila Fighter':
             name: 'M12-L Kimogila Fighter'
-            factions: ["Scum and Villainy"]
+            factions: ["Disabled"]
             attack: 3
             agility: 1
             hull: 6
@@ -1066,7 +1066,7 @@ exportObj.basicCardData = ->
             ]
         'Sheathipede-class Shuttle':
             name: 'Sheathipede-class Shuttle'
-            factions: ["Rebel Alliance"]
+            factions: ["Disabled"]
             attack: 2
             agility: 2
             hull: 4
@@ -1079,7 +1079,7 @@ exportObj.basicCardData = ->
             attack_icon: 'xwing-miniatures-font-attack-frontback'
         'B/SF-17 Bomber':
             name: 'B/SF-17 Bomber'
-            factions: ["Resistance"]
+            factions: ["Disabled"]
             large: true
             attack: 2
             agility: 1
@@ -1092,7 +1092,7 @@ exportObj.basicCardData = ->
             attack_icon: 'xwing-miniatures-font-attack-turret'
         'TIE Silencer':
             name: 'TIE Silencer'
-            factions: ["First Order"]
+            factions: ["Disabled"]
             attack: 3
             agility: 3
             hull: 4

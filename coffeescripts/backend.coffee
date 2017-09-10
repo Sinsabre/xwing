@@ -60,7 +60,7 @@ class exportObj.SquadBuilderBackend
         # Check initial authentication status
         @authenticate () =>
             @auth_status.hide()
-            @login_logout_button.removeClass 'hidden'
+            # @login_logout_button.removeClass 'hidden'
 
         # Finally, hook up the builders
         for builder in @builders
