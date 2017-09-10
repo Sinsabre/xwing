@@ -7020,39 +7020,6 @@ exportObj.basicCardData = ->
 
         #New EPTs#
         {
-            name: "Luke Skywalker."
-            aka: [ "Luke Skywalker" ]
-            id: 412
-            unique: true
-            faction: "Rebel Alliance"
-            slot: "Elite"
-            points: 4
-        }
-        {
-            name: "Biggs Darklighter"
-            id: 413
-            unique: true
-            faction: "Rebel Alliance"
-            slot: "Elite"
-            points: 3
-        }
-        {
-            name: '"Mauler Mithel"'
-            id: 414
-            unique: true
-            faction: "Galactic Empire"
-            slot: "Elite"
-            points: 4
-        }
-        {
-            name: '"Dark Curse"'
-            id: 415
-            unique: true
-            faction: "Galactic Empire"
-            slot: "Elite"
-            points: 3
-        }
-        {
             name: '"Night Beast"'
             id: 246
             unique: true
@@ -8425,7 +8392,39 @@ exportObj.basicCardData = ->
             slot: 'Elite'
             points: 4
         }
-
+        {
+            name: "Luke Skywalker."
+            aka: [ "Luke Skywalker" ]
+            id: 412
+            unique: true
+            faction: "Rebel Alliance"
+            slot: "Elite"
+            points: 4
+        }
+        {
+            name: "Biggs Darklighter"
+            id: 413
+            unique: true
+            faction: "Rebel Alliance"
+            slot: "Elite"
+            points: 3
+        }
+        {
+            name: '"Mauler Mithel"'
+            id: 414
+            unique: true
+            faction: "Galactic Empire"
+            slot: "Elite"
+            points: 4
+        }
+        {
+            name: '"Dark Curse"'
+            id: 415
+            unique: true
+            faction: "Galactic Empire"
+            slot: "Elite"
+            points: 3
+        }
 
 
 
