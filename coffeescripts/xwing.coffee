@@ -185,16 +185,12 @@ class exportObj.SquadBuilder
                     </div>
                     <div class="input-append">
                         <input type="text" maxlength="64" placeholder="Name your squad..." />
-                        <button class="btn save"><i class="fa fa-pencil-square-o"></i></button>
                     </div>
                 </div>
                 <div class="span4 points-display-container">
                     Points: <span class="total-points">0</span> / <input type="number" class="desired-points" value="100">
                     <select class="game-type-selector">
                         <option value="standard">Standard</option>
-                        <option value="epic">Epic</option>
-                        <option value="team-epic">Team Epic</option>
-                        <option value="custom">Custom</option>
                     </select>
                     <span class="points-remaining-container">(<span class="points-remaining"></span>&nbsp;left)</span>
                     <span class="total-epic-points-container hidden"><br /><span class="total-epic-points">0</span> / <span class="max-epic-points">5</span> Epic Points</span>
@@ -223,17 +219,6 @@ class exportObj.SquadBuilder
                         -->
 
                     </div>
-                </div>
-            </div>
-
-            <div class="row-fluid">
-                <div class="span12">
-                    <button class="show-authenticated btn btn-primary save-list"><i class="fa fa-floppy-o"></i>&nbsp;Save</button>
-                    <button class="show-authenticated btn btn-primary save-list-as"><i class="fa fa-files-o"></i>&nbsp;Save As...</button>
-                    <button class="show-authenticated btn btn-primary delete-list disabled"><i class="fa fa-trash-o"></i>&nbsp;Delete</button>
-                    <button class="show-authenticated btn btn-primary backend-list-my-squads show-authenticated">Load Squad</button>
-                    <button class="btn btn-danger clear-squad">New Squad</button>
-                    <span class="show-authenticated backend-status"></span>
                 </div>
             </div>
         '''
@@ -648,7 +633,6 @@ class exportObj.SquadBuilder
                         <textarea class="squad-notes"></textarea>
                     </label>
                     <span class="obstacles-container">
-                        <button class="btn btn-primary choose-obstacles">Choose Obstacles</button>
                     </span>
                  </div>
                <div class="span3 info-container" />

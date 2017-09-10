@@ -40,8 +40,6 @@ class exportObj.XWSManager
         @container.html $.trim """
             <div class="row-fluid">
                 <div class="span9">
-                    <button class="btn btn-primary from-xws">Import from XWS (beta)</button>
-                    <button class="btn btn-primary to-xws">Export to XWS (beta)</button>
                 </div>
             </div>
         """
