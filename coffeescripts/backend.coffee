@@ -229,11 +229,11 @@ class exportObj.SquadBuilderBackend
         old_auth_state = @authenticated
 
         $.ajax
-            url: "#{@server}/ping"
+            url: "http://localhost/"
             success: (data) =>
-                if data?.success
-                    @authenticated = true
-                else
+        #         if data?.success
+                    # @authenticated = true
+                # else
                     @authenticated = false
                 @maybeAuthenticationChanged old_auth_state, cb
             error: (jqXHR, textStatus, errorThrown) =>

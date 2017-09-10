@@ -4749,11 +4749,6 @@ exportObj.manifestByExpansion =
             count: 6
         }
         {
-            name: '"Heavy Scyk" Interceptor'
-            type: 'title'
-            count: 1
-        }
-        {
             name: 'Automated Protocols'
             type: 'modification'
             count: 1
