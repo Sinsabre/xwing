@@ -8191,6 +8191,7 @@ exportObj.basicCardData = ->
             faction: 'Rebel Alliance'
             slot: 'Elite'
             points: 2
+            applies_condition: 'Suppressive Fire'.canonicalize()
         }
         {
             name: '"Zeb" Orrelios (TIE Fighter)'
@@ -8210,6 +8211,7 @@ exportObj.basicCardData = ->
             faction: 'First Order'
             slot: 'Elite'
             points: 3
+            applies_condition: '''I'll Show You the Dark Side'''.canonicalize()
         }
         {
             name: 'Major Stridan'
@@ -8456,6 +8458,7 @@ exportObj.basicCardData = ->
             faction: 'Scum and Villainy'
             slot: 'Elite'
             points: 2
+            applies_condition: ['Shadowed'.canonicalize(), 'Mimicked'.canonicalize()]
         }
     ]
 
