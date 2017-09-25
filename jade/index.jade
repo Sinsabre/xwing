@@ -19,12 +19,6 @@ html
 
   body
     // body layout
-    script.
-      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-      ga('create', 'UA-43758422-1', 'geordanr.github.io');
 
     .tabbable.hidden-print
       ul.nav.nav-pills
@@ -35,28 +29,7 @@ html
         li
           a#scumTab('data-toggle'="tab", href='#scumContent') Scum and Villainy
         li
-          a#browserTab('data-toggle'="tab", href='#browserContent') Card Browser
-        li
           a#aboutTab('data-toggle'="tab", href='#aboutContent') About
-        li.dropdown.language-picker
-          a.dropdown-toggle('data-toggle'='dropdown', href='#')
-            span.language-placeholder
-            b.caret
-          ul.dropdown-menu
-        li
-          a#auth-status(href='#')
-            i.fa.fa-spinner.fa-spin
-            span.payload
-        li
-          a#login-logout.hidden(href='#')
-            span.hide-authenticated
-              i.fa.fa-sign-in.hidden-phone.hidden-tablet
-              | Log In
-            span.show-authenticated
-              i.fa.fa-sign-out.hidden-phone.hidden-tablet
-              | Log Out
-        li
-          a(href='https://github.com/geordanr/xwing/issues/new', target='_blank') Submit Bug/Feature Request
 
       .tab-content
         .tab-pane#rebelContent
@@ -65,8 +38,6 @@ html
           #empire-builder
         .tab-pane#scumContent
           #scum-builder
-        .tab-pane#browserContent
-          #card-browser
         .tab-pane#aboutContent
           .container-fluid
             .row-fluid
@@ -138,28 +109,6 @@ html
             when '#scumContent'
               window.location.replace '?f=Scum and Villainy'
 
-          $('.site-placeholder').text """http://\#{window.location.host}\#{window.location.pathname}"""
-          $('#rebelTab').click (e) ->
-            ga 'send', 'pageview',
-              page: '/rebels'
-              title: 'Rebel Alliance'
-          $('#empireTab').click (e) ->
-            ga 'send', 'pageview',
-              page: '/empire'
-              title: 'Galactic Empire'
-          $('#scumTab').click (e) ->
-            ga 'send', 'pageview',
-              page: '/scum'
-              title: 'Scum and Villainy'
-          $('#browserTab').click (e) ->
-            ga 'send', 'pageview',
-              page: '/browser'
-              title: 'Card Browser'
-          $('#aboutTab').click (e) ->
-            ga 'send', 'pageview',
-              page: '/about'
-              title: 'About'
-
           window.rebel_sb = new window.SquadBuilder
               tab: '#rebelTab'
               faction: 'Rebel Alliance'
@@ -180,47 +129,6 @@ html
               container: '#scum-builder'
               printable_container: '#printable'
           window.registerBuilderForTranslation window.scum_sb
-
-          switch $.getParameterByName 'f'
-            when 'Rebel Alliance'
-                ga 'send', 'pageview',
-                  page: '/rebels'
-                  title: 'Rebel Alliance'
-                $('#rebelTab').tab 'show'
-            when 'Galactic Empire'
-                ga 'send', 'pageview',
-                  page: '/empire'
-                  title: 'Galactic Empire'
-                $('#empireTab').tab 'show'
-            when 'Scum and Villainy'
-                ga 'send', 'pageview',
-                  page: '/scum'
-                  title: 'Scum and Villainy'
-                $('#scumTab').tab 'show'
-            else
-                ga 'send', 'pageview',
-                  page: '/rebels'
-                  title: 'Rebel Alliance'
-                $('#rebelTab').tab 'show'
-
-          window.backend = new SquadBuilderBackend
-              server: 'https://yasb-backend.herokuapp.com'
-              builders: [
-                window.rebel_sb
-                window.empire_sb
-                window.scum_sb
-              ]
-              login_logout_button: '#login-logout'
-              auth_status: '#auth-status'
-
-          window.browser = new CardBrowser
-              container: '#card-browser'
-
-          window.backend.getSettings (settings) ->
-              window.backend.getLanguagePreference settings, (language) ->
-                $(window).trigger 'xwing:languageChanged', language
-
-          window.setupTranslationUI window.backend
 
           window.xws = new XWSManager
               container: '#xws'

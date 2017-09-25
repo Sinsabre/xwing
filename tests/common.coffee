@@ -200,17 +200,17 @@ exports.openScumBuilder = ->
     casper.then ->
         @click '#scumTab'
 
-exports.openCardBrowser = ->
-    casper.then ->
-        @click '#browserTab'
+# exports.openCardBrowser = ->
+#    casper.then ->
+#        @click '#browserTab'
 
-exports.selectLanguage = (language) ->
-    casper.then ->
-        @click('.language-picker a')
-    .waitUntilVisible '.dropdown-menu', ->
-        @click(selectXPath("""//li[contains(@class, 'language-picker')]//li[contains(., '#{language}')]"""))
-    .waitFor ->
-        @fetchText('.language-placeholder') == language
+#exports.selectLanguage = (language) ->
+#    casper.then ->
+#        @click('.language-picker a')
+#    .waitUntilVisible '.dropdown-menu', ->
+#        @click(selectXPath("""//li[contains(@class, 'language-picker')]//li[contains(., '#{language}')]"""))
+#    .waitFor ->
+#        @fetchText('.language-placeholder') == language
 
 exports.assertSelect2HasText = (test, selector, text) ->
     casper.then ->
