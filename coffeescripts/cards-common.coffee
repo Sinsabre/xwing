@@ -8425,9 +8425,38 @@ exportObj.basicCardData = ->
             slot: "Elite"
             points: 3
         }
-
-
-
+        {
+            name: 'Viktor Hel'
+            id: 416
+            unique: true
+            faction: 'Scum and Villainy'
+            slot: 'Elite'
+            points: 4
+        }
+        {
+            name: 'Captain Jostero'
+            id: 417
+            unique: true
+            faction: 'Scum and Villainy'
+            slot: 'Elite'
+            points: 2
+        }
+        {
+            name: 'Dalan Oberos'
+            id: 418
+            unique: true
+            faction: 'Scum and Villainy'
+            slot: 'Elite'
+            points: 3
+        }
+        {
+            name: 'Thweek'
+            id: 419
+            unique: true
+            faction: 'Scum and Villainy'
+            slot: 'Elite'
+            points: 2
+        }
     ]
 
     modificationsById: [
@@ -9422,7 +9451,7 @@ exportObj.setupCardData = (basic_cards, pilot_translations, upgrade_translations
             try
                 exportObj.pilots[pilot_name][field] = translation
             catch e
-                console.error "Cannot find translation for attribute #{field} for pilot #{pilot_name}"
+                console.error "[pilot_data] Cannot find translation for attribute #{field} for pilot #{pilot_name}"
                 throw e
 
     exportObj.upgrades = {}
@@ -9437,7 +9466,7 @@ exportObj.setupCardData = (basic_cards, pilot_translations, upgrade_translations
             try
                 exportObj.upgrades[upgrade_name][field] = translation
             catch e
-                console.error "Cannot find translation for attribute #{field} for upgrade #{upgrade_name}"
+                console.error "[upgrade_data] Cannot find translation for attribute #{field} for upgrade #{upgrade_name}"
                 throw e
 
     exportObj.modifications = {}
@@ -9452,7 +9481,7 @@ exportObj.setupCardData = (basic_cards, pilot_translations, upgrade_translations
             try
                 exportObj.modifications[modification_name][field] = translation
             catch e
-                console.error "Cannot find translation for attribute #{field} for modification #{modification_name}"
+                console.error "[modification_data] Cannot find translation for attribute #{field} for modification #{modification_name}"
                 throw e
 
     exportObj.titles = {}
@@ -9467,7 +9496,7 @@ exportObj.setupCardData = (basic_cards, pilot_translations, upgrade_translations
             try
                 exportObj.titles[title_name][field] = translation
             catch e
-                console.error "Cannot find translation for attribute #{field} for title #{title_name}"
+                console.error "[title_data] Cannot find translation for attribute #{field} for title #{title_name}"
                 throw e
 
     exportObj.conditions = {}
@@ -9482,7 +9511,7 @@ exportObj.setupCardData = (basic_cards, pilot_translations, upgrade_translations
             try
                 exportObj.conditions[condition_name][field] = translation
             catch e
-                console.error "Cannot find translation for attribute #{field} for condition #{condition_name}"
+                console.error "[condition_data]Cannot find translation for attribute #{field} for condition #{condition_name}"
                 throw e
 
     for ship_name, ship_data of basic_cards.ships

@@ -1362,6 +1362,8 @@ exportObj.cardLoaders.English = () ->
             text: '''When attacking, you may spend 1 focus token to cancel all of the defender's blank and %FOCUS% results.'''
         '"Double Edge"':
             text: '''Once per round, after you perform a secondary weapon attack that does not hit, you may perform an attack with a different weapon.'''
+        'Viktor Hel':
+            text: '''After defending, if you did not roll exactly 2 defense dice, the attacker receives 1 stress token.'''
         'Lowhhrick':
             text: '''When another friendly ship at Range 1 is defending, you may spend 1 reinforce token. If you do, the defender adds 1 %EVADE% result.'''
         'Wullffwarro':
@@ -1372,13 +1374,12 @@ exportObj.cardLoaders.English = () ->
             text: '''Once per round, you may prevent a friendly bomb from detonating.'''
         'Sol Sixxa':
             text: '''When dropping a bomb, you may use the (%TURNLEFT% 1) or (%TURNRIGHT% 1) template instead of the (%STRAIGHT% 1) template.'''
-
-
-
-
-
-
-
+        'Dalan Oberos':
+            text: '''If you are not stressed, when you reveal a turn, bank, or Segnor's Loop maneuver, you may instead treat it as a red Tallon Roll maneuver of the same direction (left or right) using the template of the original revealed maneuver.'''
+        'Thweek':
+            text: '''During setup, before the "Place Forces" step, you may choose 1 enemy ship and assign the "Shadowed" or "Mimicked" Condition card to it.'''
+        'Captain Jostero':
+            text: '''Once per round, after an enemy ship that is not defending against an attack suffers damage or critical damage, you may perform an attack against that ship.'''
 
     modification_translations =
         "Stealth Device":
