@@ -1,4 +1,5 @@
-(Yet Another) X-Wing Miniatures Squad Builder
+This is a modified version of (Yet Another) X-Wing Miniatures Squad Builder by Geordan
+It is only intended for use int the custom event "X-Wing: The Masquerade" hosted by Stockholm Wampas
 =============================================
 
 [![Build Status](https://travis-ci.org/geordanr/xwing.png)](https://travis-ci.org/geordanr/xwing)
