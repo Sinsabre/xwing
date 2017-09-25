@@ -19,6 +19,12 @@ html
 
   body
     // body layout
+    script.
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+      ga('create', 'UA-43758422-1', 'geordanr.github.io');
 
     .tabbable.hidden-print
       ul.nav.nav-pills
@@ -42,7 +48,11 @@ html
           .container-fluid
             .row-fluid
               .span8
-                h2 (Yet Another) X-Wing Miniatures Squad Builder
+                h3 This is a modified version of YASB by 
+                  a(href="http://github.com/geordanr/xwing") Geordan
+                h3 It is only intended for use int the custom event "X-Wing: The Masquerade" hosted by Stockholm Wampas
+                br
+                h4 Below follows the original unaltered credits for (Yet Another) X-Wing Miniatures Squad Builder
                 p
                   :markdown
                     This is a simple, fast, no-frills squad builder for [X-Wing Miniatures](http://www.fantasyflightgames.com/edge_minisite.asp?eidm=174&enmi=X-Wing) by [Fantasy Flight Games](http://www.fantasyflightgames.com/index.asp).  It is pure HTML, JavaScript, and CSS and requires no backend, and can be dropped into place on any website (with maybe a few CSS tweaks).
@@ -109,6 +119,24 @@ html
             when '#scumContent'
               window.location.replace '?f=Scum and Villainy'
 
+          $('.site-placeholder').text """http://\#{window.location.host}\#{window.location.pathname}"""
+          $('#rebelTab').click (e) ->
+            ga 'send', 'pageview',
+              page: '/rebels'
+              title: 'Rebel Alliance'
+          $('#empireTab').click (e) ->
+            ga 'send', 'pageview',
+              page: '/empire'
+              title: 'Galactic Empire'
+          $('#scumTab').click (e) ->
+            ga 'send', 'pageview',
+              page: '/scum'
+              title: 'Scum and Villainy'
+          $('#aboutTab').click (e) ->
+            ga 'send', 'pageview',
+              page: '/about'
+              title: 'About'
+
           window.rebel_sb = new window.SquadBuilder
               tab: '#rebelTab'
               faction: 'Rebel Alliance'
@@ -129,6 +157,28 @@ html
               container: '#scum-builder'
               printable_container: '#printable'
           window.registerBuilderForTranslation window.scum_sb
+
+          switch $.getParameterByName 'f'
+            when 'Rebel Alliance'
+                ga 'send', 'pageview',
+                  page: '/rebels'
+                  title: 'Rebel Alliance'
+                $('#rebelTab').tab 'show'
+            when 'Galactic Empire'
+                ga 'send', 'pageview',
+                  page: '/empire'
+                  title: 'Galactic Empire'
+                $('#empireTab').tab 'show'
+            when 'Scum and Villainy'
+                ga 'send', 'pageview',
+                  page: '/scum'
+                  title: 'Scum and Villainy'
+                $('#scumTab').tab 'show'
+            else
+                ga 'send', 'pageview',
+                  page: '/rebels'
+                  title: 'Rebel Alliance'
+                $('#rebelTab').tab 'show'
 
           window.xws = new XWSManager
               container: '#xws'
