@@ -3233,6 +3233,7 @@ exportObj.basicCardData = ->
             skill: 6
             slots: [
                 'Elite'
+                'ActEPT'
             ]
             points: 15
         }
@@ -3758,6 +3759,7 @@ exportObj.basicCardData = ->
             skill: 8
             slots: [
                 'Elite'
+                'DiscEPT'
                 'Torpedo'
                 'Torpedo'
                 'Missile'
@@ -5218,19 +5220,19 @@ exportObj.basicCardData = ->
             name: "Squad Leader"
             id: 10
             unique: true
-            slot: "Disabled"
+            slot: "ActEPT"
             points: 2
         }
         {
             name: "Expert Handling"
             id: 11
-            slot: "Disabled"
+            slot: "ActEPT"
             points: 2
         }
         {
             name: "Marksmanship"
             id: 12
-            slot: "Disabled"
+            slot: "ActEPT"
             points: 3
         }
         {
@@ -5252,7 +5254,7 @@ exportObj.basicCardData = ->
         {
             name: "Daredevil"
             id: 15
-            slot: "Disabled"
+            slot: "ActEPT"
             points: 3
         }
         {
@@ -5286,7 +5288,7 @@ exportObj.basicCardData = ->
         {
             name: "Expose"
             id: 20
-            slot: "Disabled"
+            slot: "ActEPT"
             points: 4
         }
         {
@@ -5446,7 +5448,7 @@ exportObj.basicCardData = ->
         {
             name: "Adrenaline Rush"
             id: 42
-            slot: "Disabled"
+            slot: "DiscEPT"
             points: 1
         }
         {
@@ -6150,7 +6152,7 @@ exportObj.basicCardData = ->
         {
             name: "Lightning Reflexes"
             id: 134
-            slot: "Disabled"
+            slot: "DiscEPT"
             points: 1
             restriction_func: (ship) ->
                 not ((ship.data.large ? false) or (ship.data.huge ? false))
@@ -6192,7 +6194,7 @@ exportObj.basicCardData = ->
         {
             name: 'Crack Shot'
             id: 140
-            slot: "Disabled"
+            slot: "DiscEPT"
             points: 1
         }
         {
@@ -6274,7 +6276,7 @@ exportObj.basicCardData = ->
         {
             name: 'Cool Hand'
             id: 151
-            slot: "Disabled"
+            slot: "DiscEPT"
             points: 1
         }
         {
@@ -6466,7 +6468,7 @@ exportObj.basicCardData = ->
             name: 'Rage'
             id: 175
             points: 1
-            slot: "Disabled"
+            slot: "ActEPT"
         }
         {
             name: "Attanni Mindlink"
@@ -7751,6 +7753,12 @@ exportObj.basicCardData = ->
             faction: 'Galactic Empire'
             slot: 'Elite'
             points: 3
+            confersAddons: [
+                {
+                    type: exportObj.Upgrade
+                    slot: "ActEPT"
+                }
+            ]
         }
         {
             name: '"Wampa"'
@@ -7977,6 +7985,12 @@ exportObj.basicCardData = ->
             faction: 'Galactic Empire'
             slot: 'Elite'
             points: 4
+            confersAddons: [
+                {
+                    type: exportObj.Upgrade
+                    slot: "DiscEPT"
+                }
+            ]
         }
         {
             name: '"Deathfire"'

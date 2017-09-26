@@ -391,7 +391,7 @@ exportObj.cardLoaders.English = () ->
         'Hera Syndulla':
             text: '''When you reveal a green or red maneuver, you may rotate your dial to another maneuver of the same difficulty.'''
         '"Youngster"':
-            text: """Friendly TIE fighters at Range 1-3 may perform the action on your equipped %ELITE% Upgrade card."""
+            text: """You may equip Action: EPTs. Friendly TIE fighters at range 1-3 may perform the action on your equipped EPT upgrade card."""
         '"Wampa"':
             text: """When attacking, you may cancel all die results.  If you cancel a %CRIT% result, deal 1 facedown Damage card to the defender."""
         '"Chaser"':
@@ -413,7 +413,7 @@ exportObj.cardLoaders.English = () ->
         '"Zeb" Orrelios':
             text: '''When defending, you may cancel %CRIT% results before %HIT% results.'''
         'Tomax Bren':
-            text: '''Once per round, after you discard an %ELITE% Upgrade card, flip that card faceup.'''
+            text: '''You may equip discardable EPTs. Once per round after you discard an EPT upgrade card, flip that card faceup.'''
         'Ello Asty':
             text: '''While you are not stressed, you may treat your %TROLLLEFT% and %TROLLRIGHT% maneuvers as white maneuvers.'''
         "Valen Rudor":
@@ -1225,7 +1225,7 @@ exportObj.cardLoaders.English = () ->
         '"Scourge"':
             text: '''When attacking a defender that has 1 or more Damage cards, roll 1 additional attack die.'''        
         '"Youngster"':
-            text: '''Friendly TIE fighters at Range 1-3 may perform the action on your equipped %ELITE% Upgrade card.'''
+            text: '''You may equip Action: EPTs. Friendly TIE fighters at range 1-3 may perform the action on your equipped EPT upgrade card.'''
         '"Wampa"':
             text: '''When attacking, you may cancel all die results.  If you cancel a %CRIT% result, deal 1 facedown Damage card to the defender.'''
         '"Chaser"':
@@ -1267,7 +1267,7 @@ exportObj.cardLoaders.English = () ->
         '"Zeb" Orrelios.':
             text: '''When defending, you may cancel %CRIT% results before %HIT% results.'''
         'Tomax Bren':
-            text: '''Once per round, after you discard an %ELITE% Upgrade card, flip that card faceup.'''
+            text: '''You may equip discardable EPTs. Once per round after you discard an EPT upgrade card, flip that card faceup.'''
         'Ello Asty':
             text: '''While you are not stressed, you may treat your %TROLLLEFT% and %TROLLRIGHT% maneuvers as white maneuvers.'''
         "Valen Rudor":

@@ -3177,7 +3177,7 @@ exportObj.basicCardData = function() {
         faction: "Galactic Empire",
         ship: "TIE Fighter",
         skill: 6,
-        slots: ['Elite'],
+        slots: ['Elite', 'ActEPT'],
         points: 15
       }, {
         name: '"Wampa"',
@@ -3509,7 +3509,7 @@ exportObj.basicCardData = function() {
         faction: "Galactic Empire",
         ship: "TIE Bomber",
         skill: 8,
-        slots: ['Elite', 'Torpedo', 'Torpedo', 'Missile', 'Missile', 'Bomb'],
+        slots: ['Elite', 'DiscEPT', 'Torpedo', 'Torpedo', 'Missile', 'Missile', 'Bomb'],
         points: 24
       }, {
         name: "Gamma Squadron Veteran",
@@ -4471,17 +4471,17 @@ exportObj.basicCardData = function() {
         name: "Squad Leader",
         id: 10,
         unique: true,
-        slot: "Disabled",
+        slot: "ActEPT",
         points: 2
       }, {
         name: "Expert Handling",
         id: 11,
-        slot: "Disabled",
+        slot: "ActEPT",
         points: 2
       }, {
         name: "Marksmanship",
         id: 12,
-        slot: "Disabled",
+        slot: "ActEPT",
         points: 3
       }, {
         name: "Concussion Missiles",
@@ -4500,7 +4500,7 @@ exportObj.basicCardData = function() {
       }, {
         name: "Daredevil",
         id: 15,
-        slot: "Disabled",
+        slot: "ActEPT",
         points: 3
       }, {
         name: "Elusiveness",
@@ -4531,7 +4531,7 @@ exportObj.basicCardData = function() {
       }, {
         name: "Expose",
         id: 20,
-        slot: "Disabled",
+        slot: "ActEPT",
         points: 4
       }, {
         name: "Gunner",
@@ -4682,7 +4682,7 @@ exportObj.basicCardData = function() {
       }, {
         name: "Adrenaline Rush",
         id: 42,
-        slot: "Disabled",
+        slot: "DiscEPT",
         points: 1
       }, {
         name: "Advanced Sensors",
@@ -5324,7 +5324,7 @@ exportObj.basicCardData = function() {
       }, {
         name: "Lightning Reflexes",
         id: 134,
-        slot: "Disabled",
+        slot: "DiscEPT",
         points: 1,
         restriction_func: function(ship) {
           var _ref, _ref1;
@@ -5362,7 +5362,7 @@ exportObj.basicCardData = function() {
       }, {
         name: 'Crack Shot',
         id: 140,
-        slot: "Disabled",
+        slot: "DiscEPT",
         points: 1
       }, {
         name: "Advanced Homing Missiles",
@@ -5437,7 +5437,7 @@ exportObj.basicCardData = function() {
       }, {
         name: 'Cool Hand',
         id: 151,
-        slot: "Disabled",
+        slot: "DiscEPT",
         points: 1
       }, {
         name: 'Juke',
@@ -5616,7 +5616,7 @@ exportObj.basicCardData = function() {
         name: 'Rage',
         id: 175,
         points: 1,
-        slot: "Disabled"
+        slot: "ActEPT"
       }, {
         name: "Attanni Mindlink",
         id: 176,
@@ -6757,7 +6757,13 @@ exportObj.basicCardData = function() {
         unique: true,
         faction: 'Galactic Empire',
         slot: 'Elite',
-        points: 3
+        points: 3,
+        confersAddons: [
+          {
+            type: exportObj.Upgrade,
+            slot: "ActEPT"
+          }
+        ]
       }, {
         name: '"Wampa"',
         id: 336,
@@ -6956,7 +6962,13 @@ exportObj.basicCardData = function() {
         unique: true,
         faction: 'Galactic Empire',
         slot: 'Elite',
-        points: 4
+        points: 4,
+        confersAddons: [
+          {
+            type: exportObj.Upgrade,
+            slot: "DiscEPT"
+          }
+        ]
       }, {
         name: '"Deathfire"',
         id: 363,
@@ -9258,7 +9270,7 @@ exportObj.cardLoaders.English = function() {
       text: 'When you reveal a green or red maneuver, you may rotate your dial to another maneuver of the same difficulty.'
     },
     '"Youngster"': {
-      text: "Friendly TIE fighters at Range 1-3 may perform the action on your equipped %ELITE% Upgrade card."
+      text: "You may equip Action: EPTs. Friendly TIE fighters at range 1-3 may perform the action on your equipped EPT upgrade card."
     },
     '"Wampa"': {
       text: "When attacking, you may cancel all die results.  If you cancel a %CRIT% result, deal 1 facedown Damage card to the defender."
@@ -9291,7 +9303,7 @@ exportObj.cardLoaders.English = function() {
       text: 'When defending, you may cancel %CRIT% results before %HIT% results.'
     },
     'Tomax Bren': {
-      text: 'Once per round, after you discard an %ELITE% Upgrade card, flip that card faceup.'
+      text: 'You may equip discardable EPTs. Once per round after you discard an EPT upgrade card, flip that card faceup.'
     },
     'Ello Asty': {
       text: 'While you are not stressed, you may treat your %TROLLLEFT% and %TROLLRIGHT% maneuvers as white maneuvers.'
@@ -10499,7 +10511,7 @@ exportObj.cardLoaders.English = function() {
       text: 'When attacking a defender that has 1 or more Damage cards, roll 1 additional attack die.'
     },
     '"Youngster"': {
-      text: 'Friendly TIE fighters at Range 1-3 may perform the action on your equipped %ELITE% Upgrade card.'
+      text: 'You may equip Action: EPTs. Friendly TIE fighters at range 1-3 may perform the action on your equipped EPT upgrade card.'
     },
     '"Wampa"': {
       text: 'When attacking, you may cancel all die results.  If you cancel a %CRIT% result, deal 1 facedown Damage card to the defender.'
@@ -10562,7 +10574,7 @@ exportObj.cardLoaders.English = function() {
       text: 'When defending, you may cancel %CRIT% results before %HIT% results.'
     },
     'Tomax Bren': {
-      text: 'Once per round, after you discard an %ELITE% Upgrade card, flip that card faceup.'
+      text: 'You may equip discardable EPTs. Once per round after you discard an EPT upgrade card, flip that card faceup.'
     },
     'Ello Asty': {
       text: 'While you are not stressed, you may treat your %TROLLLEFT% and %TROLLRIGHT% maneuvers as white maneuvers.'
@@ -15603,7 +15615,7 @@ exportObj.setupTranslationSupport = function() {
                     parent: ___iced_passed_deferral
                   });
                   builder.container.trigger('xwing:beforeLanguageLoad', __iced_deferrals.defer({
-                    lineno: 17777
+                    lineno: 17791
                   }));
                   __iced_deferrals._fulfill();
                 })(_next);
@@ -16192,7 +16204,7 @@ exportObj.SquadBuilder = (function() {
                   return results = arguments[0];
                 };
               })(),
-              lineno: 18392
+              lineno: 18406
             }));
             __iced_deferrals._fulfill();
           })(function() {
@@ -16936,7 +16948,7 @@ exportObj.SquadBuilder = (function() {
           funcname: "SquadBuilder.removeShip"
         });
         ship.destroy(__iced_deferrals.defer({
-          lineno: 19021
+          lineno: 19035
         }));
         __iced_deferrals._fulfill();
       });
@@ -16948,7 +16960,7 @@ exportObj.SquadBuilder = (function() {
             funcname: "SquadBuilder.removeShip"
           });
           _this.container.trigger('xwing:pointsUpdated', __iced_deferrals.defer({
-            lineno: 19022
+            lineno: 19036
           }));
           __iced_deferrals._fulfill();
         })(function() {
@@ -18542,7 +18554,7 @@ Ship = (function() {
                   });
                   _this.builder.container.trigger('xwing:claimUnique', [
                     new_pilot, 'Pilot', __iced_deferrals.defer({
-                      lineno: 19918
+                      lineno: 19932
                     })
                   ]);
                   __iced_deferrals._fulfill();
@@ -18616,7 +18628,7 @@ Ship = (function() {
             });
             _this.builder.container.trigger('xwing:releaseUnique', [
               _this.pilot, 'Pilot', __iced_deferrals.defer({
-                lineno: 19944
+                lineno: 19958
               })
             ]);
             __iced_deferrals._fulfill();
@@ -18671,7 +18683,7 @@ Ship = (function() {
           title = _ref[_i];
           if (title != null) {
             title.destroy(__iced_deferrals.defer({
-              lineno: 19967
+              lineno: 19981
             }));
           }
         }
@@ -18680,7 +18692,7 @@ Ship = (function() {
           upgrade = _ref1[_j];
           if (upgrade != null) {
             upgrade.destroy(__iced_deferrals.defer({
-              lineno: 19969
+              lineno: 19983
             }));
           }
         }
@@ -18689,7 +18701,7 @@ Ship = (function() {
           modification = _ref2[_k];
           if (modification != null) {
             modification.destroy(__iced_deferrals.defer({
-              lineno: 19971
+              lineno: 19985
             }));
           }
         }
@@ -19712,7 +19724,7 @@ GenericAddon = (function() {
             });
             _this.ship.builder.container.trigger('xwing:releaseUnique', [
               _this.data, _this.type, __iced_deferrals.defer({
-                lineno: 20655
+                lineno: 20669
               })
             ]);
             __iced_deferrals._fulfill();
@@ -19831,7 +19843,7 @@ GenericAddon = (function() {
               });
               _this.ship.builder.container.trigger('xwing:releaseUnique', [
                 _this.unadjusted_data, _this.type, __iced_deferrals.defer({
-                  lineno: 20714
+                  lineno: 20728
                 })
               ]);
               __iced_deferrals._fulfill();
@@ -19853,7 +19865,7 @@ GenericAddon = (function() {
                 });
                 _this.ship.builder.container.trigger('xwing:claimUnique', [
                   new_data, _this.type, __iced_deferrals.defer({
-                    lineno: 20718
+                    lineno: 20732
                   })
                 ]);
                 __iced_deferrals._fulfill();
@@ -19943,7 +19955,7 @@ GenericAddon = (function() {
         for (_i = 0, _len = _ref.length; _i < _len; _i++) {
           addon = _ref[_i];
           addon.destroy(__iced_deferrals.defer({
-            lineno: 20761
+            lineno: 20775
           }));
         }
         __iced_deferrals._fulfill();
