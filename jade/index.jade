@@ -2,7 +2,7 @@ doctype html
 - var now_ts = parseInt(new Date().getTime() / 1000)
 html
   head
-    title (Yet Another) X-Wing Miniatures Squad Builder
+    title Wampas YASB
     meta(charset="utf-8")
 
     link(rel="stylesheet", href=`bootstrap/css/bootstrap.min.css?${now_ts}`)
@@ -36,6 +36,8 @@ html
           a#scumTab('data-toggle'="tab", href='#scumContent') Scum and Villainy
         li
           a#aboutTab('data-toggle'="tab", href='#aboutContent') About
+        li
+          a#faqTab('data-toggle'="tab", href='#faqContent') FAQ
 
       .tab-content
         .tab-pane#rebelContent
@@ -88,6 +90,46 @@ html
                     A backend is available if the ability to save squadrons is needed; it can be [forked on GitHub here](http://github.com/geordanr/xwing-backend).  You can view the privacy policy [here](privacy.html).
 
                     This builder is unofficial and is not affiliated with Fantasy Flight Games, Lucasfilm Ltd., or Disney.
+        .tab-pane#faqContent
+          .container-fluid
+            .row-fluid
+              .span8
+                h3 Event FAQ
+                p
+                  :markdown
+                    - Are all pilot abilities are unique?
+                    
+                    Answer: Yes
+
+                    - Is Poe considered PS9 even though a PS8 version exists?
+                    
+                    Answer: Yes
+
+                    - Can A-Wings can equip 2 additional abilities using the title?
+                    
+                    Answer: Yes
+
+                    - Doe R2-D6 allow you to equip a pilot ability?
+                    
+                    Answer: Yes
+
+                    - Can share equipped an equipped ability to other ships with the IG-2000 title?
+                    
+                    Answer: Yes, both native and equipped abilites are shared.
+
+                    - Does Thweek mimic all abilities of the target?
+                    
+                    Answer: Yes
+
+                    - If a series of interactions between abilities creates more than one "Biggs". Who do you shoot? 
+                    
+                    Answer: Any "Biggs" you want to. "Biggs" can't protect "Biggs".
+
+                    - There are no EPTs, how does Tomax Bren and Youngster work?
+                    
+                    Answer: Tomax Brens ability has been altered to fit the rules and make him playable in this format. His ability now reads "You may equip discardable EPTs. Once per round after you discard an EPT upgrade card, flip that card faceup."
+                    
+                    Youngsters ability has been altered to fit the rules and make him playable in this format. His ability now reads "You may equip Action: EPTs. Friendly TIE fighters at range 1-3 may perform the action on your equipped EPT upgrade card."
     .footer
       .msie8-hax
 
