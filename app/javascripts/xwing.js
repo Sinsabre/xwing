@@ -3168,7 +3168,7 @@ exportObj.basicCardData = function() {
         faction: "Galactic Empire",
         ship: "TIE Fighter",
         skill: 7,
-        slots: ['Elite'],
+        slots: ['Costume'],
         points: 17
       }, {
         name: '"Youngster"',
@@ -3177,7 +3177,7 @@ exportObj.basicCardData = function() {
         faction: "Galactic Empire",
         ship: "TIE Fighter",
         skill: 6,
-        slots: ['Elite', 'ActEPT'],
+        slots: ['Costume', 'ActEPT'],
         points: 15
       }, {
         name: '"Wampa"',
@@ -3240,7 +3240,7 @@ exportObj.basicCardData = function() {
         faction: "Rebel Alliance",
         ship: "Attack Shuttle",
         skill: 7,
-        slots: ['Elite', 'Turret', 'Crew'],
+        slots: ['Costume', 'Turret', 'Crew'],
         points: 22
       }, {
         name: 'Sabine Wren',
@@ -3249,7 +3249,7 @@ exportObj.basicCardData = function() {
         faction: "Rebel Alliance",
         ship: "Attack Shuttle",
         skill: 5,
-        slots: ['Elite', 'Turret', 'Crew'],
+        slots: ['Costume', 'Turret', 'Crew'],
         points: 21
       }, {
         name: 'Ezra Bridger',
@@ -3258,7 +3258,7 @@ exportObj.basicCardData = function() {
         faction: "Rebel Alliance",
         ship: "Attack Shuttle",
         skill: 4,
-        slots: ['Elite', 'Turret', 'Crew'],
+        slots: ['Costume', 'Turret', 'Crew'],
         points: 20
       }, {
         name: '"Zeb" Orrelios',
@@ -3276,7 +3276,7 @@ exportObj.basicCardData = function() {
         faction: "Galactic Empire",
         ship: "TIE Advanced Prototype",
         skill: 8,
-        slots: ['Elite', 'Missile'],
+        slots: ['Costume', 'Missile'],
         points: 25
       }, {
         name: "Valen Rudor",
@@ -3285,7 +3285,7 @@ exportObj.basicCardData = function() {
         faction: "Galactic Empire",
         ship: "TIE Advanced Prototype",
         skill: 6,
-        slots: ['Elite', 'Missile'],
+        slots: ['Costume', 'Missile'],
         points: 22
       }, {
         name: "Baron of the Empire",
@@ -3293,7 +3293,7 @@ exportObj.basicCardData = function() {
         faction: "Galactic Empire",
         ship: "TIE Advanced Prototype",
         skill: 4,
-        slots: ['Elite', 'Missile'],
+        slots: ['Costume', 'Missile'],
         points: 19
       }, {
         name: "Sienar Test Pilot",
@@ -3310,7 +3310,7 @@ exportObj.basicCardData = function() {
         faction: "Scum and Villainy",
         ship: "G-1A Starfighter",
         skill: 7,
-        slots: ['Elite', 'Crew', 'System', 'Illicit'],
+        slots: ['Costume', 'Crew', 'System', 'Illicit'],
         points: 28
       }, {
         name: "4-LOM",
@@ -3319,7 +3319,7 @@ exportObj.basicCardData = function() {
         faction: "Scum and Villainy",
         ship: "G-1A Starfighter",
         skill: 6,
-        slots: ['Elite', 'Crew', 'System', 'Illicit'],
+        slots: ['Costume', 'Crew', 'System', 'Illicit'],
         points: 27
       }, {
         name: "Gand Findsman",
@@ -3327,7 +3327,7 @@ exportObj.basicCardData = function() {
         faction: "Scum and Villainy",
         ship: "G-1A Starfighter",
         skill: 5,
-        slots: ['Elite', 'Crew', 'System', 'Illicit'],
+        slots: ['Costume', 'Crew', 'System', 'Illicit'],
         points: 25
       }, {
         name: "Ruthless Freelancer",
@@ -3344,7 +3344,7 @@ exportObj.basicCardData = function() {
         faction: "Scum and Villainy",
         ship: "JumpMaster 5000",
         skill: 9,
-        slots: ['Elite', 'Torpedo', 'Torpedo', 'Crew', 'Salvaged Astromech', 'Illicit'],
+        slots: ['Costume', 'Torpedo', 'Torpedo', 'Crew', 'Salvaged Astromech', 'Illicit'],
         points: 33
       }, {
         name: "Tel Trevura",
@@ -3353,7 +3353,7 @@ exportObj.basicCardData = function() {
         faction: "Scum and Villainy",
         ship: "JumpMaster 5000",
         skill: 7,
-        slots: ['Elite', 'Torpedo', 'Torpedo', 'Crew', 'Salvaged Astromech', 'Illicit'],
+        slots: ['Costume', 'Torpedo', 'Torpedo', 'Crew', 'Salvaged Astromech', 'Illicit'],
         points: 30
       }, {
         name: "Manaroo",
@@ -3362,7 +3362,7 @@ exportObj.basicCardData = function() {
         faction: "Scum and Villainy",
         ship: "JumpMaster 5000",
         skill: 4,
-        slots: ['Elite', 'Torpedo', 'Torpedo', 'Crew', 'Salvaged Astromech', 'Illicit'],
+        slots: ['Costume', 'Torpedo', 'Torpedo', 'Crew', 'Salvaged Astromech', 'Illicit'],
         points: 27
       }, {
         name: "Contracted Scout",
@@ -3370,7 +3370,7 @@ exportObj.basicCardData = function() {
         faction: "Scum and Villainy",
         ship: "JumpMaster 5000",
         skill: 3,
-        slots: ['Elite', 'Torpedo', 'Torpedo', 'Crew', 'Salvaged Astromech', 'Illicit'],
+        slots: ['Costume', 'Torpedo', 'Torpedo', 'Crew', 'Salvaged Astromech', 'Illicit'],
         points: 25
       }, {
         name: "Poe Dameron",
@@ -3379,7 +3379,7 @@ exportObj.basicCardData = function() {
         faction: "Resistance",
         ship: "T-70 X-Wing",
         skill: 8,
-        slots: ['Elite', 'Torpedo', 'Astromech', 'Tech'],
+        slots: ['Costume', 'Torpedo', 'Astromech', 'Tech'],
         points: 31
       }, {
         name: '"Blue Ace"',
@@ -3396,7 +3396,7 @@ exportObj.basicCardData = function() {
         faction: "Resistance",
         ship: "T-70 X-Wing",
         skill: 4,
-        slots: ['Elite', 'Torpedo', 'Astromech', 'Tech'],
+        slots: ['Costume', 'Torpedo', 'Astromech', 'Tech'],
         points: 26
       }, {
         name: "Blue Squadron Novice",
@@ -3413,7 +3413,7 @@ exportObj.basicCardData = function() {
         faction: "First Order",
         ship: "TIE/fo Fighter",
         skill: 7,
-        slots: ['Elite', 'Tech'],
+        slots: ['Costume', 'Tech'],
         points: 20
       }, {
         name: '"Epsilon Leader"',
@@ -3431,7 +3431,7 @@ exportObj.basicCardData = function() {
         faction: "First Order",
         ship: "TIE/fo Fighter",
         skill: 5,
-        slots: ['Elite', 'Tech'],
+        slots: ['Costume', 'Tech'],
         points: 18
       }, {
         name: "Omega Squadron Pilot",
@@ -3439,7 +3439,7 @@ exportObj.basicCardData = function() {
         faction: "First Order",
         ship: "TIE/fo Fighter",
         skill: 4,
-        slots: ['Elite', 'Tech'],
+        slots: ['Costume', 'Tech'],
         points: 17
       }, {
         name: "Zeta Squadron Pilot",
@@ -3464,7 +3464,7 @@ exportObj.basicCardData = function() {
         faction: "Resistance",
         ship: "T-70 X-Wing",
         skill: 7,
-        slots: ['Elite', 'Torpedo', 'Astromech', 'Tech'],
+        slots: ['Costume', 'Torpedo', 'Astromech', 'Tech'],
         points: 30
       }, {
         name: '"Red Ace"',
@@ -3482,7 +3482,7 @@ exportObj.basicCardData = function() {
         faction: "First Order",
         ship: "TIE/fo Fighter",
         skill: 8,
-        slots: ['Elite', 'Tech'],
+        slots: ['Costume', 'Tech'],
         points: 21
       }, {
         name: '"Zeta Leader"',
@@ -3491,7 +3491,7 @@ exportObj.basicCardData = function() {
         faction: "First Order",
         ship: "TIE/fo Fighter",
         skill: 7,
-        slots: ['Elite', 'Tech'],
+        slots: ['Costume', 'Tech'],
         points: 20
       }, {
         name: '"Epsilon Ace"',
@@ -3509,7 +3509,7 @@ exportObj.basicCardData = function() {
         faction: "Galactic Empire",
         ship: "TIE Bomber",
         skill: 8,
-        slots: ['Elite', 'DiscEPT', 'Torpedo', 'Torpedo', 'Missile', 'Missile', 'Bomb'],
+        slots: ['Costume', 'DiscEPT', 'Torpedo', 'Torpedo', 'Missile', 'Missile', 'Bomb'],
         points: 24
       }, {
         name: "Gamma Squadron Veteran",
@@ -3517,7 +3517,7 @@ exportObj.basicCardData = function() {
         faction: "Galactic Empire",
         ship: "TIE Bomber",
         skill: 5,
-        slots: ['Elite', 'Torpedo', 'Torpedo', 'Missile', 'Missile', 'Bomb'],
+        slots: ['Costume', 'Torpedo', 'Torpedo', 'Missile', 'Missile', 'Bomb'],
         points: 19
       }, {
         name: '"Deathfire"',
@@ -3536,7 +3536,7 @@ exportObj.basicCardData = function() {
         faction: "Galactic Empire",
         ship: "TIE Defender",
         skill: 7,
-        slots: ['Elite', 'Cannon', 'Missile'],
+        slots: ['Costume', 'Cannon', 'Missile'],
         points: 35
       }, {
         name: "Glaive Squadron Pilot",
@@ -3544,7 +3544,7 @@ exportObj.basicCardData = function() {
         faction: "Galactic Empire",
         ship: "TIE Defender",
         skill: 6,
-        slots: ['Elite', 'Cannon', 'Missile'],
+        slots: ['Costume', 'Cannon', 'Missile'],
         points: 34
       }, {
         name: "Countess Ryad",
@@ -3553,7 +3553,7 @@ exportObj.basicCardData = function() {
         faction: "Galactic Empire",
         ship: "TIE Defender",
         skill: 5,
-        slots: ['Elite', 'Cannon', 'Missile'],
+        slots: ['Costume', 'Cannon', 'Missile'],
         points: 34
       }, {
         name: "Poe Dameron (PS9)",
@@ -3563,7 +3563,7 @@ exportObj.basicCardData = function() {
         faction: "Resistance",
         ship: "T-70 X-Wing",
         skill: 9,
-        slots: ['Elite', 'Torpedo', 'Astromech', 'Tech'],
+        slots: ['Costume', 'Torpedo', 'Astromech', 'Tech'],
         points: 33
       }, {
         name: 'Nien Nunb',
@@ -3572,7 +3572,7 @@ exportObj.basicCardData = function() {
         faction: "Resistance",
         ship: "T-70 X-Wing",
         skill: 7,
-        slots: ['Elite', 'Torpedo', 'Astromech', 'Tech'],
+        slots: ['Costume', 'Torpedo', 'Astromech', 'Tech'],
         points: 29
       }, {
         name: '"Snap" Wexley',
@@ -3581,7 +3581,7 @@ exportObj.basicCardData = function() {
         faction: "Resistance",
         ship: "T-70 X-Wing",
         skill: 6,
-        slots: ['Elite', 'Torpedo', 'Astromech', 'Tech'],
+        slots: ['Costume', 'Torpedo', 'Astromech', 'Tech'],
         points: 28
       }, {
         name: 'Jess Pava',
@@ -3660,7 +3660,7 @@ exportObj.basicCardData = function() {
         faction: 'Rebel Alliance',
         ship: 'ARC-170',
         skill: 7,
-        slots: ['Elite', 'Torpedo', 'Crew', 'Astromech'],
+        slots: ['Costume', 'Torpedo', 'Crew', 'Astromech'],
         points: 29
       }, {
         name: 'Shara Bey',
@@ -3669,7 +3669,7 @@ exportObj.basicCardData = function() {
         faction: 'Rebel Alliance',
         ship: 'ARC-170',
         skill: 6,
-        slots: ['Elite', 'Torpedo', 'Crew', 'Astromech'],
+        slots: ['Costume', 'Torpedo', 'Crew', 'Astromech'],
         points: 28
       }, {
         name: 'Thane Kyrell',
@@ -3696,7 +3696,7 @@ exportObj.basicCardData = function() {
         faction: 'Galactic Empire',
         ship: 'TIE/sf Fighter',
         skill: 9,
-        slots: ['Elite', 'System', 'Missile', 'Tech'],
+        slots: ['Costume', 'System', 'Missile', 'Tech'],
         points: 29
       }, {
         name: '"Backdraft"',
@@ -3705,7 +3705,7 @@ exportObj.basicCardData = function() {
         faction: 'Galactic Empire',
         ship: 'TIE/sf Fighter',
         skill: 7,
-        slots: ['Elite', 'System', 'Missile', 'Tech'],
+        slots: ['Costume', 'System', 'Missile', 'Tech'],
         points: 27
       }, {
         name: 'Omega Specialist',
@@ -3713,7 +3713,7 @@ exportObj.basicCardData = function() {
         faction: 'Galactic Empire',
         ship: 'TIE/sf Fighter',
         skill: 5,
-        slots: ['Elite', 'System', 'Missile', 'Tech'],
+        slots: ['Costume', 'System', 'Missile', 'Tech'],
         points: 25
       }, {
         name: 'Zeta Specialist',
@@ -3730,7 +3730,7 @@ exportObj.basicCardData = function() {
         faction: 'Scum and Villainy',
         ship: 'Protectorate Starfighter',
         skill: 9,
-        slots: ['Elite', 'Torpedo'],
+        slots: ['Costume', 'Torpedo'],
         points: 28
       }, {
         name: 'Old Teroch',
@@ -3739,7 +3739,7 @@ exportObj.basicCardData = function() {
         faction: 'Scum and Villainy',
         ship: 'Protectorate Starfighter',
         skill: 7,
-        slots: ['Elite', 'Torpedo'],
+        slots: ['Costume', 'Torpedo'],
         points: 26
       }, {
         name: 'Kad Solus',
@@ -3748,7 +3748,7 @@ exportObj.basicCardData = function() {
         faction: 'Scum and Villainy',
         ship: 'Protectorate Starfighter',
         skill: 6,
-        slots: ['Elite', 'Torpedo'],
+        slots: ['Costume', 'Torpedo'],
         points: 25
       }, {
         name: 'Concord Dawn Ace',
@@ -3756,7 +3756,7 @@ exportObj.basicCardData = function() {
         faction: 'Scum and Villainy',
         ship: 'Protectorate Starfighter',
         skill: 5,
-        slots: ['Elite', 'Torpedo'],
+        slots: ['Costume', 'Torpedo'],
         points: 23
       }, {
         name: 'Concord Dawn Veteran',
@@ -3764,7 +3764,7 @@ exportObj.basicCardData = function() {
         faction: 'Scum and Villainy',
         ship: 'Protectorate Starfighter',
         skill: 3,
-        slots: ['Elite', 'Torpedo'],
+        slots: ['Costume', 'Torpedo'],
         points: 22
       }, {
         name: 'Zealous Recruit',
@@ -3781,7 +3781,7 @@ exportObj.basicCardData = function() {
         faction: 'Scum and Villainy',
         ship: 'Lancer-class Pursuit Craft',
         skill: 7,
-        slots: ['Elite', 'Crew', 'Illicit', 'Illicit'],
+        slots: ['Costume', 'Crew', 'Illicit', 'Illicit'],
         points: 38
       }, {
         name: 'Asajj Ventress',
@@ -3790,7 +3790,7 @@ exportObj.basicCardData = function() {
         faction: 'Scum and Villainy',
         ship: 'Lancer-class Pursuit Craft',
         skill: 6,
-        slots: ['Elite', 'Crew', 'Illicit', 'Illicit'],
+        slots: ['Costume', 'Crew', 'Illicit', 'Illicit'],
         points: 37
       }, {
         name: 'Sabine Wren (Scum)',
@@ -3817,7 +3817,7 @@ exportObj.basicCardData = function() {
         faction: 'Rebel Alliance',
         ship: 'TIE Fighter',
         skill: 7,
-        slots: ['Elite'],
+        slots: ['Costume'],
         points: 17
       }, {
         name: 'Sabine Wren (TIE Fighter)',
@@ -3827,7 +3827,7 @@ exportObj.basicCardData = function() {
         faction: 'Rebel Alliance',
         ship: 'TIE Fighter',
         skill: 5,
-        slots: ['Elite'],
+        slots: ['Costume'],
         points: 15
       }, {
         name: 'Captain Rex',
@@ -3856,7 +3856,7 @@ exportObj.basicCardData = function() {
         faction: 'First Order',
         ship: 'Upsilon-class Shuttle',
         skill: 6,
-        slots: ['Elite', 'System', 'Crew', 'Crew', 'Tech', 'Tech'],
+        slots: ['Costume', 'System', 'Crew', 'Crew', 'Tech', 'Tech'],
         points: 34,
         applies_condition: 'I\'ll Show You the Dark Side'.canonicalize()
       }, {
@@ -3892,7 +3892,7 @@ exportObj.basicCardData = function() {
         faction: 'Scum and Villainy',
         ship: 'Quadjumper',
         skill: 7,
-        slots: ['Elite', 'Crew', 'Bomb', 'Tech', 'Illicit'],
+        slots: ['Costume', 'Crew', 'Bomb', 'Tech', 'Illicit'],
         points: 19
       }, {
         name: 'Sarco Plank',
@@ -3901,7 +3901,7 @@ exportObj.basicCardData = function() {
         faction: 'Scum and Villainy',
         ship: 'Quadjumper',
         skill: 5,
-        slots: ['Elite', 'Crew', 'Bomb', 'Tech', 'Illicit'],
+        slots: ['Costume', 'Crew', 'Bomb', 'Tech', 'Illicit'],
         points: 18
       }, {
         name: 'Unkar Plutt',
@@ -3927,7 +3927,7 @@ exportObj.basicCardData = function() {
         faction: 'Rebel Alliance',
         ship: 'U-Wing',
         skill: 6,
-        slots: ['Elite', 'System', 'Torpedo', 'Crew', 'Crew'],
+        slots: ['Costume', 'System', 'Torpedo', 'Crew', 'Crew'],
         points: 27
       }, {
         name: 'Bodhi Rook',
@@ -3962,7 +3962,7 @@ exportObj.basicCardData = function() {
         faction: 'Galactic Empire',
         ship: 'TIE Striker',
         skill: 8,
-        slots: ['Elite'],
+        slots: ['Costume'],
         points: 23
       }, {
         name: '"Pure Sabacc"',
@@ -3971,7 +3971,7 @@ exportObj.basicCardData = function() {
         faction: 'Galactic Empire',
         ship: 'TIE Striker',
         skill: 6,
-        slots: ['Elite'],
+        slots: ['Costume'],
         points: 22
       }, {
         name: '"Countdown"',
@@ -3988,7 +3988,7 @@ exportObj.basicCardData = function() {
         faction: 'Galactic Empire',
         ship: 'TIE Striker',
         skill: 4,
-        slots: ['Elite'],
+        slots: ['Costume'],
         points: 20
       }, {
         name: 'Scarif Defender',
@@ -4021,7 +4021,7 @@ exportObj.basicCardData = function() {
         faction: 'Scum and Villainy',
         ship: 'M3-A Interceptor',
         skill: 7,
-        slots: ['Elite'],
+        slots: ['Costume'],
         points: 19
       }, {
         name: 'Quinn Jast',
@@ -4030,7 +4030,7 @@ exportObj.basicCardData = function() {
         faction: 'Scum and Villainy',
         ship: 'M3-A Interceptor',
         skill: 6,
-        slots: ['Elite'],
+        slots: ['Costume'],
         points: 18
       }, {
         name: 'Inaldra',
@@ -4039,7 +4039,7 @@ exportObj.basicCardData = function() {
         faction: 'Scum and Villainy',
         ship: 'M3-A Interceptor',
         skill: 3,
-        slots: ['Elite'],
+        slots: ['Costume'],
         points: 15
       }, {
         name: 'Sunny Bounder',
@@ -4064,7 +4064,7 @@ exportObj.basicCardData = function() {
         faction: 'Rebel Alliance',
         ship: 'Auzituck Gunship',
         skill: 3,
-        slots: ['Elite', 'Crew', 'Crew'],
+        slots: ['Costume', 'Crew', 'Crew'],
         points: 26
       }, {
         name: 'Lowhhrick',
@@ -4073,7 +4073,7 @@ exportObj.basicCardData = function() {
         faction: 'Rebel Alliance',
         ship: 'Auzituck Gunship',
         skill: 5,
-        slots: ['Elite', 'Crew', 'Crew'],
+        slots: ['Costume', 'Crew', 'Crew'],
         points: 28
       }, {
         name: 'Wullffwarro',
@@ -4082,7 +4082,7 @@ exportObj.basicCardData = function() {
         unique: true,
         ship: 'Auzituck Gunship',
         skill: 7,
-        slots: ['Elite', 'Crew', 'Crew'],
+        slots: ['Costume', 'Crew', 'Crew'],
         points: 30
       }, {
         name: 'Captain Nym',
@@ -4091,7 +4091,7 @@ exportObj.basicCardData = function() {
         faction: 'Scum and Villainy',
         ship: 'Scurrg H-6 Bomber',
         skill: 8,
-        slots: ['Elite', 'Turret', 'Torpedo', 'Missile', 'Crew', 'Bomb', 'Bomb'],
+        slots: ['Costume', 'Turret', 'Torpedo', 'Missile', 'Crew', 'Bomb', 'Bomb'],
         points: 30
       }, {
         name: 'Captain Nym (Rebel)',
@@ -4102,7 +4102,7 @@ exportObj.basicCardData = function() {
         faction: 'Rebel Alliance',
         ship: 'Scurrg H-6 Bomber',
         skill: 8,
-        slots: ['Elite', 'Turret', 'Torpedo', 'Missile', 'Crew', 'Bomb', 'Bomb'],
+        slots: ['Costume', 'Turret', 'Torpedo', 'Missile', 'Crew', 'Bomb', 'Bomb'],
         points: 30
       }, {
         name: 'Sol Sixxa',
@@ -4111,7 +4111,7 @@ exportObj.basicCardData = function() {
         unique: true,
         ship: 'Scurrg H-6 Bomber',
         skill: 6,
-        slots: ['Elite', 'Turret', 'Torpedo', 'Missile', 'Crew', 'Bomb', 'Bomb'],
+        slots: ['Costume', 'Turret', 'Torpedo', 'Missile', 'Crew', 'Bomb', 'Bomb'],
         points: 28
       }, {
         name: 'Lok Revenant',
@@ -4119,7 +4119,7 @@ exportObj.basicCardData = function() {
         faction: 'Scum and Villainy',
         ship: 'Scurrg H-6 Bomber',
         skill: 3,
-        slots: ['Elite', 'Turret', 'Torpedo', 'Missile', 'Crew', 'Bomb', 'Bomb'],
+        slots: ['Costume', 'Turret', 'Torpedo', 'Missile', 'Crew', 'Bomb', 'Bomb'],
         points: 26
       }, {
         name: 'Karthakk Pirate',
@@ -4152,7 +4152,7 @@ exportObj.basicCardData = function() {
         faction: 'Galactic Empire',
         ship: 'TIE Aggressor',
         skill: 4,
-        slots: ['Elite', 'Turret', 'Missile', 'Missile'],
+        slots: ['Costume', 'Turret', 'Missile', 'Missile'],
         points: 19
       }, {
         name: 'Lieutenant Kestal',
@@ -4161,7 +4161,7 @@ exportObj.basicCardData = function() {
         faction: 'Galactic Empire',
         ship: 'TIE Aggressor',
         skill: 7,
-        slots: ['Elite', 'Turret', 'Missile', 'Missile'],
+        slots: ['Costume', 'Turret', 'Missile', 'Missile'],
         points: 22
       }, {
         name: 'Viktor Hel',
@@ -4170,7 +4170,7 @@ exportObj.basicCardData = function() {
         unique: true,
         ship: 'Kihraxz Fighter',
         skill: 7,
-        slots: ['Elite', 'Missile', 'Illicit'],
+        slots: ['Costume', 'Missile', 'Illicit'],
         points: 25
       }, {
         name: 'Captain Jostero',
@@ -4179,7 +4179,7 @@ exportObj.basicCardData = function() {
         faction: 'Scum and Villainy',
         unique: true,
         ship: 'Kihraxz Fighter',
-        slots: ['Elite', 'Missile', 'Illicit'],
+        slots: ['Costume', 'Missile', 'Illicit'],
         points: 24
       }, {
         name: 'Dalan Oberos',
@@ -4188,7 +4188,7 @@ exportObj.basicCardData = function() {
         unique: true,
         ship: 'StarViper',
         skill: 6,
-        slots: ['Elite', 'Torpedo'],
+        slots: ['Costume', 'Torpedo'],
         points: 30
       }, {
         name: 'Thweek',
@@ -4206,7 +4206,7 @@ exportObj.basicCardData = function() {
         faction: 'Scum and Villainy',
         ship: 'StarViper',
         skill: 5,
-        slots: ['Elite', 'Torpedo'],
+        slots: ['Costume', 'Torpedo'],
         points: 28
       }, {
         name: 'Major Vynder',
@@ -4215,7 +4215,7 @@ exportObj.basicCardData = function() {
         faction: 'Galactic Empire',
         ship: 'Alpha-class Star Wing',
         skill: 7,
-        slots: ['Elite', 'Torpedo', 'Missile'],
+        slots: ['Costume', 'Torpedo', 'Missile'],
         points: 26
       }, {
         name: 'Lieuten???',
@@ -4249,7 +4249,7 @@ exportObj.basicCardData = function() {
         faction: 'Scum and Villainy',
         ship: 'M12-L Kimogila Fighter',
         skill: 8,
-        slots: ['Elite', 'Torpedo', 'Missile', 'Salvaged Astromech', 'Illicit'],
+        slots: ['Costume', 'Torpedo', 'Missile', 'Salvaged Astromech', 'Illicit'],
         points: 27
       }, {
         name: 'Dal???',
@@ -4258,7 +4258,7 @@ exportObj.basicCardData = function() {
         faction: 'Scum and Villainy',
         ship: 'M12-L Kimogila Fighter',
         skill: 7,
-        slots: ['Elite', 'Torpedo', 'Missile', 'Salvaged Astromech', 'Illicit'],
+        slots: ['Costume', 'Torpedo', 'Missile', 'Salvaged Astromech', 'Illicit'],
         points: 100
       }, {
         name: 'Cartel E???',
@@ -4266,7 +4266,7 @@ exportObj.basicCardData = function() {
         faction: 'Scum and Villainy',
         ship: 'M12-L Kimogila Fighter',
         skill: 5,
-        slots: ['Elite', 'Torpedo', 'Missile', 'Salvaged Astromech', 'Illicit'],
+        slots: ['Costume', 'Torpedo', 'Missile', 'Salvaged Astromech', 'Illicit'],
         points: 100
       }, {
         name: 'Carte???',
@@ -4284,7 +4284,7 @@ exportObj.basicCardData = function() {
         faction: 'Rebel Alliance',
         ship: 'Sheathipede-class Shuttle',
         skill: 9,
-        slots: ['Elite', 'Crew', 'Astromech'],
+        slots: ['Costume', 'Crew', 'Astromech'],
         points: 20
       }, {
         name: '"Zeb" Orrelios (Sheathipede)',
@@ -4384,7 +4384,7 @@ exportObj.basicCardData = function() {
         unique: true,
         ship: 'TIE Silencer',
         skill: 9,
-        slots: ['Elite', 'System', 'Tech'],
+        slots: ['Costume', 'System', 'Tech'],
         points: 35,
         applies_condition: 'I\'ll Show You the Dark Side'.canonicalize()
       }
@@ -4858,7 +4858,7 @@ exportObj.basicCardData = function() {
         points: 1,
         restriction_func: function(ship) {
           var conferred_addon, upgrade, _i, _j, _len, _len1, _ref, _ref1, _ref2;
-          if (ship.effectiveStats().skill <= 2 || __indexOf.call(ship.pilot.slots, 'Elite') >= 0) {
+          if (ship.effectiveStats().skill <= 2 || __indexOf.call(ship.pilot.slots, 'Costume') >= 0) {
             return false;
           }
           _ref = ship.upgrades;
@@ -4868,7 +4868,7 @@ exportObj.basicCardData = function() {
               _ref2 = upgrade.conferredAddons;
               for (_j = 0, _len1 = _ref2.length; _j < _len1; _j++) {
                 conferred_addon = _ref2[_j];
-                if (conferred_addon.slot === 'Elite') {
+                if (conferred_addon.slot === 'Costume') {
                   return false;
                 }
               }
@@ -6472,105 +6472,105 @@ exportObj.basicCardData = function() {
         id: 295,
         unique: true,
         faction: 'Rebel Alliance',
-        slot: 'Elite',
+        slot: 'Costume',
         points: 4
       }, {
         name: 'Jek Porkins',
         id: 296,
         unique: true,
         faction: 'Rebel Alliance',
-        slot: 'Elite',
+        slot: 'Costume',
         points: 4
       }, {
         name: '"Hobbie" Klivian',
         id: 297,
         unique: true,
         faction: 'Rebel Alliance',
-        slot: 'Elite',
+        slot: 'Costume',
         points: 3
       }, {
         name: 'Tarn Mison',
         id: 298,
         unique: true,
         faction: 'Rebel Alliance',
-        slot: 'Elite',
+        slot: 'Costume',
         points: 2
       }, {
         name: 'Jake Farrell',
         id: 299,
         unique: true,
         faction: 'Rebel Alliance',
-        slot: 'Elite',
+        slot: 'Costume',
         points: 4
       }, {
         name: 'Gemmer Sojan',
         id: 300,
         unique: true,
         faction: 'Rebel Alliance',
-        slot: 'Elite',
+        slot: 'Costume',
         points: 3
       }, {
         name: 'Keyan Farlander',
         id: 301,
         unique: true,
         faction: 'Rebel Alliance',
-        slot: 'Elite',
+        slot: 'Costume',
         points: 4
       }, {
         name: 'Nera Dantels',
         id: 302,
         unique: true,
         faction: 'Rebel Alliance',
-        slot: 'Elite',
+        slot: 'Costume',
         points: 3
       }, {
         name: 'Prince Xizor',
         id: 303,
         unique: true,
         faction: 'Scum and Villainy',
-        slot: 'Elite',
+        slot: 'Costume',
         points: 4
       }, {
         name: 'Guri',
         id: 304,
         unique: true,
         faction: 'Scum and Villainy',
-        slot: 'Elite',
+        slot: 'Costume',
         points: 3
       }, {
         name: 'Serissu',
         id: 305,
         unique: true,
         faction: 'Scum and Villainy',
-        slot: 'Elite',
+        slot: 'Costume',
         points: 4
       }, {
         name: 'Laetin A\'shera',
         id: 306,
         unique: true,
         faction: 'Scum and Villainy',
-        slot: 'Elite',
+        slot: 'Costume',
         points: 3
       }, {
         name: 'IG-88A',
         id: 307,
         unique: true,
         faction: 'Scum and Villainy',
-        slot: 'Elite',
+        slot: 'Costume',
         points: 3
       }, {
         name: 'IG-88B',
         id: 308,
         unique: true,
         faction: 'Scum and Villainy',
-        slot: 'Elite',
+        slot: 'Costume',
         points: 3
       }, {
         name: 'IG-88C',
         id: 309,
         unique: true,
         faction: 'Scum and Villainy',
-        slot: 'Elite',
+        slot: 'Costume',
         points: 3
       }, {
         name: 'IG-88D.',
@@ -6578,21 +6578,21 @@ exportObj.basicCardData = function() {
         id: 310,
         unique: true,
         faction: 'Scum and Villainy',
-        slot: 'Elite',
+        slot: 'Costume',
         points: 3
       }, {
         name: 'N\'Dru Suhlak',
         id: 311,
         unique: true,
         faction: 'Scum and Villainy',
-        slot: 'Elite',
+        slot: 'Costume',
         points: 4
       }, {
         name: 'Kaa\'to Leeachos',
         id: 312,
         unique: true,
         faction: 'Scum and Villainy',
-        slot: 'Elite',
+        slot: 'Costume',
         points: 3
       }, {
         name: 'Boba Fett (Scum).',
@@ -6600,7 +6600,7 @@ exportObj.basicCardData = function() {
         id: 313,
         unique: true,
         faction: 'Scum and Villainy',
-        slot: 'Elite',
+        slot: 'Costume',
         points: 4,
         'canonical_name': 'Boba Fett'.canonicalize()
       }, {
@@ -6608,7 +6608,7 @@ exportObj.basicCardData = function() {
         id: 314,
         unique: true,
         faction: 'Scum and Villainy',
-        slot: 'Elite',
+        slot: 'Costume',
         points: 4,
         'canonical_name': 'Kath Scarlet'.canonicalize()
       }, {
@@ -6616,147 +6616,147 @@ exportObj.basicCardData = function() {
         id: 315,
         unique: true,
         faction: 'Scum and Villainy',
-        slot: 'Elite',
+        slot: 'Costume',
         points: 3
       }, {
         name: 'Kavil',
         id: 316,
         unique: true,
         faction: 'Scum and Villainy',
-        slot: 'Elite',
+        slot: 'Costume',
         points: 4
       }, {
         name: 'Drea Renthal',
         id: 317,
         unique: true,
         faction: 'Scum and Villainy',
-        slot: 'Elite',
+        slot: 'Costume',
         points: 3
       }, {
         name: 'Dace Bonearm',
         id: 318,
         unique: true,
         faction: 'Scum and Villainy',
-        slot: 'Elite',
+        slot: 'Costume',
         points: 4
       }, {
         name: 'Palob Godalhi',
         id: 319,
         unique: true,
         faction: 'Scum and Villainy',
-        slot: 'Elite',
+        slot: 'Costume',
         points: 3
       }, {
         name: 'Torkil Mux',
         id: 320,
         unique: true,
         faction: 'Scum and Villainy',
-        slot: 'Elite',
+        slot: 'Costume',
         points: 2
       }, {
         name: 'Commander Alozen',
         id: 321,
         unique: true,
         faction: 'Galactic Empire',
-        slot: 'Elite',
+        slot: 'Costume',
         points: 3
       }, {
         name: 'Bossk.',
         id: 322,
         unique: true,
         faction: 'Scum and Villainy',
-        slot: 'Elite',
+        slot: 'Costume',
         points: 4
       }, {
         name: 'Moralo Eval',
         id: 323,
         unique: true,
         faction: 'Scum and Villainy',
-        slot: 'Elite',
+        slot: 'Costume',
         points: 3
       }, {
         name: 'Latts Razzi.',
         id: 324,
         unique: true,
         faction: 'Scum and Villainy',
-        slot: 'Elite',
+        slot: 'Costume',
         points: 3
       }, {
         name: 'Talonbane Cobra',
         id: 325,
         unique: true,
         faction: 'Scum and Villainy',
-        slot: 'Elite',
+        slot: 'Costume',
         points: 5
       }, {
         name: 'Graz the Hunter',
         id: 326,
         unique: true,
         faction: 'Scum and Villainy',
-        slot: 'Elite',
+        slot: 'Costume',
         points: 3
       }, {
         name: 'Miranda Doni',
         id: 327,
         unique: true,
         faction: 'Rebel Alliance',
-        slot: 'Elite',
+        slot: 'Costume',
         points: 4
       }, {
         name: 'Esege Tuketu',
         id: 328,
         unique: true,
         faction: 'Rebel Alliance',
-        slot: 'Elite',
+        slot: 'Costume',
         points: 3
       }, {
         name: '"Redline"',
         id: 329,
         unique: true,
         faction: 'Galactic Empire',
-        slot: 'Elite',
+        slot: 'Costume',
         points: 4
       }, {
         name: '"Deathrain"',
         id: 330,
         unique: true,
         faction: 'Galactic Empire',
-        slot: 'Elite',
+        slot: 'Costume',
         points: 3
       }, {
         name: 'Juno Eclipse',
         id: 331,
         unique: true,
         faction: 'Galactic Empire',
-        slot: 'Elite',
+        slot: 'Costume',
         points: 4
       }, {
         name: 'Zertik Strom',
         id: 332,
         unique: true,
         faction: 'Galactic Empire',
-        slot: 'Elite',
+        slot: 'Costume',
         points: 3
       }, {
         name: 'Lieutenant Colzet',
         id: 333,
         unique: true,
         faction: 'Galactic Empire',
-        slot: 'Elite',
+        slot: 'Costume',
         points: 2
       }, {
         name: '"Scourge"',
         id: 334,
         unique: true,
         faction: 'Galactic Empire',
-        slot: 'Elite',
+        slot: 'Costume',
         points: 4
       }, {
         name: '"Youngster"',
         id: 335,
         unique: true,
         faction: 'Galactic Empire',
-        slot: 'Elite',
+        slot: 'Costume',
         points: 3,
         confersAddons: [
           {
@@ -6769,14 +6769,14 @@ exportObj.basicCardData = function() {
         id: 336,
         unique: true,
         faction: 'Galactic Empire',
-        slot: 'Elite',
+        slot: 'Costume',
         points: 2
       }, {
         name: '"Chaser"',
         id: 337,
         unique: true,
         faction: 'Galactic Empire',
-        slot: 'Elite',
+        slot: 'Costume',
         points: 2
       }, {
         name: 'Hera Syndulla.',
@@ -6784,7 +6784,7 @@ exportObj.basicCardData = function() {
         id: 338,
         unique: true,
         faction: 'Rebel Alliance',
-        slot: 'Elite',
+        slot: 'Costume',
         points: 4
       }, {
         name: 'Kanan Jarrus.',
@@ -6792,7 +6792,7 @@ exportObj.basicCardData = function() {
         id: 339,
         unique: true,
         faction: 'Rebel Alliance',
-        slot: 'Elite',
+        slot: 'Costume',
         points: 3
       }, {
         name: '"Chopper".',
@@ -6800,7 +6800,7 @@ exportObj.basicCardData = function() {
         id: 340,
         unique: true,
         faction: 'Rebel Alliance',
-        slot: 'Elite',
+        slot: 'Costume',
         points: 2
       }, {
         name: 'Hera Syndulla (Attack Shuttle)',
@@ -6816,7 +6816,7 @@ exportObj.basicCardData = function() {
         id: 342,
         unique: true,
         faction: 'Rebel Alliance',
-        slot: 'Elite',
+        slot: 'Costume',
         points: 3
       }, {
         name: 'Ezra Bridger.',
@@ -6824,7 +6824,7 @@ exportObj.basicCardData = function() {
         id: 343,
         unique: true,
         faction: 'Rebel Alliance',
-        slot: 'Elite',
+        slot: 'Costume',
         points: 2
       }, {
         name: '"Zeb" Orrelios.',
@@ -6832,21 +6832,21 @@ exportObj.basicCardData = function() {
         id: 344,
         unique: true,
         faction: 'Rebel Alliance',
-        slot: 'Elite',
+        slot: 'Costume',
         points: 2
       }, {
         name: 'The Inquisitor',
         id: 345,
         unique: true,
         faction: 'Galactic Empire',
-        slot: 'Elite',
+        slot: 'Costume',
         points: 4
       }, {
         name: 'Valen Rudor',
         id: 346,
         unique: true,
         faction: 'Galactic Empire',
-        slot: 'Elite',
+        slot: 'Costume',
         points: 3
       }, {
         name: 'Zuckuss.',
@@ -6854,7 +6854,7 @@ exportObj.basicCardData = function() {
         id: 347,
         unique: true,
         faction: 'Scum and Villainy',
-        slot: 'Elite',
+        slot: 'Costume',
         points: 4
       }, {
         name: '4-LOM.',
@@ -6862,7 +6862,7 @@ exportObj.basicCardData = function() {
         id: 348,
         unique: true,
         faction: 'Scum and Villainy',
-        slot: 'Elite',
+        slot: 'Costume',
         points: 3
       }, {
         name: 'Dengar.',
@@ -6870,21 +6870,21 @@ exportObj.basicCardData = function() {
         id: 349,
         unique: true,
         faction: 'Scum and Villainy',
-        slot: 'Elite',
+        slot: 'Costume',
         points: 5
       }, {
         name: 'Tel Trevura',
         id: 350,
         unique: true,
         faction: 'Scum and Villainy',
-        slot: 'Elite',
+        slot: 'Costume',
         points: 4
       }, {
         name: 'Manaroo',
         id: 351,
         unique: true,
         faction: 'Scum and Villainy',
-        slot: 'Elite',
+        slot: 'Costume',
         points: 2
       }, {
         name: 'Poe Dameron',
@@ -6898,70 +6898,70 @@ exportObj.basicCardData = function() {
         id: 353,
         unique: true,
         faction: 'Resistance',
-        slot: 'Elite',
+        slot: 'Costume',
         points: 3
       }, {
         name: '"Omega Ace"',
         id: 354,
         unique: true,
         faction: 'First Order',
-        slot: 'Elite',
+        slot: 'Costume',
         points: 4
       }, {
         name: '"Epsilon Leader"',
         id: 355,
         unique: true,
         faction: 'First Order',
-        slot: 'Elite',
+        slot: 'Costume',
         points: 3
       }, {
         name: '"Zeta Ace"',
         id: 356,
         unique: true,
         faction: 'First Order',
-        slot: 'Elite',
+        slot: 'Costume',
         points: 3
       }, {
         name: 'Ello Asty',
         id: 357,
         unique: true,
         faction: 'Resistance',
-        slot: 'Elite',
+        slot: 'Costume',
         points: 4
       }, {
         name: '"Red Ace"',
         id: 358,
         unique: true,
         faction: 'Resistance',
-        slot: 'Elite',
+        slot: 'Costume',
         points: 3
       }, {
         name: '"Omega Leader"',
         id: 359,
         unique: true,
         faction: 'First Order',
-        slot: 'Elite',
+        slot: 'Costume',
         points: 4
       }, {
         name: '"Zeta Leader"',
         id: 360,
         unique: true,
         faction: 'First Order',
-        slot: 'Elite',
+        slot: 'Costume',
         points: 4
       }, {
         name: '"Epsilon Ace"',
         id: 361,
         unique: true,
         faction: 'First Order',
-        slot: 'Elite',
+        slot: 'Costume',
         points: 2
       }, {
         name: 'Tomax Bren',
         id: 362,
         unique: true,
         faction: 'Galactic Empire',
-        slot: 'Elite',
+        slot: 'Costume',
         points: 4,
         confersAddons: [
           {
@@ -6974,7 +6974,7 @@ exportObj.basicCardData = function() {
         id: 363,
         unique: true,
         faction: 'Galactic Empire',
-        slot: 'Elite',
+        slot: 'Costume',
         points: 2
       }, {
         name: 'Maarek Stele (TIE Defender)',
@@ -6989,7 +6989,7 @@ exportObj.basicCardData = function() {
         id: 365,
         unique: true,
         faction: 'Galactic Empire',
-        slot: 'Elite',
+        slot: 'Costume',
         points: 3
       }, {
         name: 'Poe Dameron (PS9)',
@@ -6997,7 +6997,7 @@ exportObj.basicCardData = function() {
         id: 366,
         unique: true,
         faction: 'Resistance',
-        slot: 'Elite',
+        slot: 'Costume',
         points: 5,
         'canonical_name': 'poedameron-swx57'
       }, {
@@ -7006,21 +7006,21 @@ exportObj.basicCardData = function() {
         id: 367,
         unique: true,
         faction: 'Resistance',
-        slot: 'Elite',
+        slot: 'Costume',
         points: 4
       }, {
         name: '"Snap" Wexley',
         id: 368,
         unique: true,
         faction: 'Resistance',
-        slot: 'Elite',
+        slot: 'Costume',
         points: 3
       }, {
         name: 'Jess Pava',
         id: 369,
         unique: true,
         faction: 'Resistance',
-        slot: 'Elite',
+        slot: 'Costume',
         points: 2
       }, {
         name: 'Han Solo (TFA)',
@@ -7028,7 +7028,7 @@ exportObj.basicCardData = function() {
         id: 370,
         unique: true,
         faction: 'Resistance',
-        slot: 'Elite',
+        slot: 'Costume',
         points: 5,
         'canonical_name': 'hansolo-swx57'
       }, {
@@ -7037,7 +7037,7 @@ exportObj.basicCardData = function() {
         id: 371,
         unique: true,
         faction: 'Resistance',
-        slot: 'Elite',
+        slot: 'Costume',
         points: 4
       }, {
         name: 'Chewbacca (TFA)',
@@ -7045,7 +7045,7 @@ exportObj.basicCardData = function() {
         id: 372,
         unique: true,
         faction: 'Resistance',
-        slot: 'Elite',
+        slot: 'Costume',
         points: 3,
         'canonical_name': 'chewbacca-swx57'
       }, {
@@ -7053,63 +7053,63 @@ exportObj.basicCardData = function() {
         id: 373,
         unique: true,
         faction: 'Rebel Alliance',
-        slot: 'Elite',
+        slot: 'Costume',
         points: 4
       }, {
         name: 'Shara Bey',
         id: 374,
         unique: true,
         faction: 'Rebel Alliance',
-        slot: 'Elite',
+        slot: 'Costume',
         points: 3
       }, {
         name: 'Thane Kyrell',
         id: 375,
         unique: true,
         faction: 'Rebel Alliance',
-        slot: 'Elite',
+        slot: 'Costume',
         points: 2
       }, {
         name: 'Braylen Stramm',
         id: 376,
         unique: true,
         faction: 'Rebel Alliance',
-        slot: 'Elite',
+        slot: 'Costume',
         points: 2
       }, {
         name: '"Quickdraw"',
         id: 377,
         unique: true,
         faction: 'Galactic Empire',
-        slot: 'Elite',
+        slot: 'Costume',
         points: 5
       }, {
         name: '"Backdraft"',
         id: 378,
         unique: true,
         faction: 'Galactic Empire',
-        slot: 'Elite',
+        slot: 'Costume',
         points: 4
       }, {
         name: 'Fenn Rau',
         id: 379,
         unique: true,
         faction: 'Scum and Villainy',
-        slot: 'Elite',
+        slot: 'Costume',
         points: 5
       }, {
         name: 'Old Teroch',
         id: 380,
         unique: true,
         faction: 'Scum and Villainy',
-        slot: 'Elite',
+        slot: 'Costume',
         points: 4
       }, {
         name: 'Kad Solus',
         id: 381,
         unique: true,
         faction: 'Scum and Villainy',
-        slot: 'Elite',
+        slot: 'Costume',
         points: 3
       }, {
         name: 'Ketsu Onyo.',
@@ -7117,21 +7117,21 @@ exportObj.basicCardData = function() {
         id: 382,
         unique: true,
         faction: 'Scum and Villainy',
-        slot: 'Elite',
+        slot: 'Costume',
         points: 4
       }, {
         name: 'Asajj Ventress',
         id: 383,
         unique: true,
         faction: 'Scum and Villainy',
-        slot: 'Elite',
+        slot: 'Costume',
         points: 3
       }, {
         name: 'Sabine Wren (Scum)',
         id: 384,
         unique: true,
         faction: 'Scum and Villainy',
-        slot: 'Elite',
+        slot: 'Costume',
         points: 3,
         'canonical_name': 'sabinewren'
       }, {
@@ -7139,7 +7139,7 @@ exportObj.basicCardData = function() {
         id: 385,
         unique: true,
         faction: 'Rebel Alliance',
-        slot: 'Elite',
+        slot: 'Costume',
         points: 4
       }, {
         name: 'Sabine Wren (TIE Fighter)',
@@ -7156,7 +7156,7 @@ exportObj.basicCardData = function() {
         id: 387,
         unique: true,
         faction: 'Rebel Alliance',
-        slot: 'Elite',
+        slot: 'Costume',
         points: 2,
         applies_condition: 'Suppressive Fire'.canonicalize()
       }, {
@@ -7174,7 +7174,7 @@ exportObj.basicCardData = function() {
         id: 389,
         unique: true,
         faction: 'First Order',
-        slot: 'Elite',
+        slot: 'Costume',
         points: 3,
         applies_condition: 'I\'ll Show You the Dark Side'.canonicalize()
       }, {
@@ -7182,28 +7182,28 @@ exportObj.basicCardData = function() {
         id: 390,
         unique: true,
         faction: 'First Order',
-        slot: 'Elite',
+        slot: 'Costume',
         points: 2
       }, {
         name: 'Lieutenant Dormitz',
         id: 391,
         unique: true,
         faction: 'First Order',
-        slot: 'Elite',
+        slot: 'Costume',
         points: 2
       }, {
         name: 'Constable Zuvio',
         id: 392,
         unique: true,
         faction: 'Scum and Villainy',
-        slot: 'Elite',
+        slot: 'Costume',
         points: 4
       }, {
         name: 'Sarco Plank',
         id: 393,
         unique: true,
         faction: 'Scum and Villainy',
-        slot: 'Elite',
+        slot: 'Costume',
         points: 3
       }, {
         name: 'Unkar Plutt.',
@@ -7211,7 +7211,7 @@ exportObj.basicCardData = function() {
         id: 394,
         unique: true,
         faction: 'Scum and Villainy',
-        slot: 'Elite',
+        slot: 'Costume',
         points: 2
       }, {
         name: 'Cassian Andor.',
@@ -7219,7 +7219,7 @@ exportObj.basicCardData = function() {
         id: 395,
         unique: true,
         faction: 'Rebel Alliance',
-        slot: 'Elite',
+        slot: 'Costume',
         points: 3
       }, {
         name: 'Bodhi Rook.',
@@ -7227,84 +7227,84 @@ exportObj.basicCardData = function() {
         id: 396,
         unique: true,
         faction: 'Rebel Alliance',
-        slot: 'Elite',
+        slot: 'Costume',
         points: 2
       }, {
         name: 'Heff Tobber',
         id: 397,
         unique: true,
         faction: 'Rebel Alliance',
-        slot: 'Elite',
+        slot: 'Costume',
         points: 2
       }, {
         name: '"Duchess"',
         id: 398,
         unique: true,
         faction: 'Galactic Empire',
-        slot: 'Elite',
+        slot: 'Costume',
         points: 4
       }, {
         name: '"Pure Sabacc"',
         id: 399,
         unique: true,
         faction: 'Galactic Empire',
-        slot: 'Elite',
+        slot: 'Costume',
         points: 3
       }, {
         name: '"Countdown"',
         id: 400,
         unique: true,
         faction: 'Galactic Empire',
-        slot: 'Elite',
+        slot: 'Costume',
         points: 3
       }, {
         name: 'Genesis Red',
         id: 401,
         unique: true,
         faction: 'Scum and Villainy',
-        slot: 'Elite',
+        slot: 'Costume',
         points: 4
       }, {
         name: 'Quinn Jast',
         id: 402,
         unique: true,
         faction: 'Scum and Villainy',
-        slot: 'Elite',
+        slot: 'Costume',
         points: 3
       }, {
         name: 'Inaldra',
         id: 403,
         unique: true,
         faction: 'Scum and Villainy',
-        slot: 'Elite',
+        slot: 'Costume',
         points: 2
       }, {
         name: 'Sunny Bounder',
         id: 404,
         unique: true,
         faction: 'Scum and Villainy',
-        slot: 'Elite',
+        slot: 'Costume',
         points: 1
       }, {
         name: 'Lowhhrick',
         id: 405,
         unique: true,
         faction: 'Rebel Alliance',
-        slot: 'Elite',
+        slot: 'Costume',
         points: 3
       }, {
         name: 'Wullffwarro',
         id: 406,
         unique: true,
         faction: 'Rebel Alliance',
-        slot: 'Elite',
+        slot: 'Costume',
         points: 4
       }, {
         name: 'Captain Nym',
         id: 407,
         unique: true,
         faction: 'Scum and Villainy',
-        slot: 'Elite',
+        slot: 'Costume',
         points: 4
       }, {
         name: 'Captain Nym (Rebel)',
@@ -7312,28 +7312,28 @@ exportObj.basicCardData = function() {
         id: 408,
         unique: true,
         faction: 'Rebel Alliance',
-        slot: 'Elite',
+        slot: 'Costume',
         points: 4
       }, {
         name: 'Sol Sixxa',
         id: 409,
         unique: true,
         faction: 'Scum and Villainy',
-        slot: 'Elite',
+        slot: 'Costume',
         points: 3
       }, {
         name: '"Double Edge"',
         id: 410,
         unique: true,
         faction: 'Galactic Empire',
-        slot: 'Elite',
+        slot: 'Costume',
         points: 2
       }, {
         name: 'Lieutenant Kestal',
         id: 411,
         unique: true,
         faction: 'Galactic Empire',
-        slot: 'Elite',
+        slot: 'Costume',
         points: 4
       }, {
         name: "Luke Skywalker.",
@@ -7369,28 +7369,28 @@ exportObj.basicCardData = function() {
         id: 416,
         unique: true,
         faction: 'Scum and Villainy',
-        slot: 'Elite',
+        slot: 'Costume',
         points: 4
       }, {
         name: 'Captain Jostero',
         id: 417,
         unique: true,
         faction: 'Scum and Villainy',
-        slot: 'Elite',
+        slot: 'Costume',
         points: 2
       }, {
         name: 'Dalan Oberos',
         id: 418,
         unique: true,
         faction: 'Scum and Villainy',
-        slot: 'Elite',
+        slot: 'Costume',
         points: 3
       }, {
         name: 'Thweek',
         id: 419,
         unique: true,
         faction: 'Scum and Villainy',
-        slot: 'Elite',
+        slot: 'Costume',
         points: 2,
         applies_condition: ['Shadowed'.canonicalize(), 'Mimicked'.canonicalize()]
       }
@@ -7763,7 +7763,7 @@ exportObj.basicCardData = function() {
             _results = [];
             for (_i = 0, _len = _ref.length; _i < _len; _i++) {
               upgrade = _ref[_i];
-              if (upgrade.slot === 'Elite' && (upgrade.data != null)) {
+              if (upgrade.slot === 'Costume' && (upgrade.data != null)) {
                 _results.push(upgrade.data.canonical_name);
               }
             }
@@ -20341,7 +20341,7 @@ exportObj.toXWSFaction = {
 
 exportObj.toXWSUpgrade = {
   'Astromech': 'amd',
-  'Elite': 'ept',
+  'Costume': 'ept',
   'Modification': 'mod',
   'Salvaged Astromech': 'samd'
 };
@@ -20349,8 +20349,8 @@ exportObj.toXWSUpgrade = {
 exportObj.fromXWSUpgrade = {
   'amd': 'Astromech',
   'astromechdroid': 'Astromech',
-  'ept': 'Elite',
-  'elitepilottalent': 'Elite',
+  'ept': 'Costume',
+  'elitepilottalent': 'Costume',
   'mod': 'Modification',
   'samd': 'Salvaged Astromech'
 };

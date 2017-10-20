@@ -3220,7 +3220,7 @@ exportObj.basicCardData = ->
             ship: "TIE Fighter"
             skill: 7
             slots: [
-                'Elite'
+                'Costume'
             ]
             points: 17
         }
@@ -3232,7 +3232,7 @@ exportObj.basicCardData = ->
             ship: "TIE Fighter"
             skill: 6
             slots: [
-                'Elite'
+                'Costume'
                 'ActEPT'
             ]
             points: 15
@@ -3333,7 +3333,7 @@ exportObj.basicCardData = ->
             ship: "Attack Shuttle"
             skill: 7
             slots: [
-                'Elite'
+                'Costume'
                 'Turret'
                 'Crew'
             ]
@@ -3347,7 +3347,7 @@ exportObj.basicCardData = ->
             ship: "Attack Shuttle"
             skill: 5
             slots: [
-                'Elite'
+                'Costume'
                 'Turret'
                 'Crew'
             ]
@@ -3361,7 +3361,7 @@ exportObj.basicCardData = ->
             ship: "Attack Shuttle"
             skill: 4
             slots: [
-                'Elite'
+                'Costume'
                 'Turret'
                 'Crew'
             ]
@@ -3388,7 +3388,7 @@ exportObj.basicCardData = ->
             ship: "TIE Advanced Prototype"
             skill: 8
             slots: [
-                'Elite'
+                'Costume'
                 'Missile'
             ]
             points: 25
@@ -3401,7 +3401,7 @@ exportObj.basicCardData = ->
             ship: "TIE Advanced Prototype"
             skill: 6
             slots: [
-                'Elite'
+                'Costume'
                 'Missile'
             ]
             points: 22
@@ -3413,7 +3413,7 @@ exportObj.basicCardData = ->
             ship: "TIE Advanced Prototype"
             skill: 4
             slots: [
-                'Elite'
+                'Costume'
                 'Missile'
             ]
             points: 19
@@ -3437,7 +3437,7 @@ exportObj.basicCardData = ->
             ship: "G-1A Starfighter"
             skill: 7
             slots: [
-                'Elite'
+                'Costume'
                 'Crew'
                 'System'
                 'Illicit'
@@ -3452,7 +3452,7 @@ exportObj.basicCardData = ->
             ship: "G-1A Starfighter"
             skill: 6
             slots: [
-                'Elite'
+                'Costume'
                 'Crew'
                 'System'
                 'Illicit'
@@ -3466,7 +3466,7 @@ exportObj.basicCardData = ->
             ship: "G-1A Starfighter"
             skill: 5
             slots: [
-                'Elite'
+                'Costume'
                 'Crew'
                 'System'
                 'Illicit'
@@ -3494,7 +3494,7 @@ exportObj.basicCardData = ->
             ship: "JumpMaster 5000"
             skill: 9
             slots: [
-                'Elite'
+                'Costume'
                 'Torpedo'
                 'Torpedo'
                 'Crew'
@@ -3511,7 +3511,7 @@ exportObj.basicCardData = ->
             ship: "JumpMaster 5000"
             skill: 7
             slots: [
-                'Elite'
+                'Costume'
                 'Torpedo'
                 'Torpedo'
                 'Crew'
@@ -3528,7 +3528,7 @@ exportObj.basicCardData = ->
             ship: "JumpMaster 5000"
             skill: 4
             slots: [
-                'Elite'
+                'Costume'
                 'Torpedo'
                 'Torpedo'
                 'Crew'
@@ -3544,7 +3544,7 @@ exportObj.basicCardData = ->
             ship: "JumpMaster 5000"
             skill: 3
             slots: [
-                'Elite'
+                'Costume'
                 'Torpedo'
                 'Torpedo'
                 'Crew'
@@ -3562,7 +3562,7 @@ exportObj.basicCardData = ->
             ship: "T-70 X-Wing"
             skill: 8
             slots: [
-                'Elite'
+                'Costume'
                 'Torpedo'
                 'Astromech'
                 'Tech'
@@ -3590,7 +3590,7 @@ exportObj.basicCardData = ->
             ship: "T-70 X-Wing"
             skill: 4
             slots: [
-                'Elite'
+                'Costume'
                 'Torpedo'
                 'Astromech'
                 'Tech'
@@ -3619,7 +3619,7 @@ exportObj.basicCardData = ->
             ship: "TIE/fo Fighter"
             skill: 7
             slots: [
-                'Elite'
+                'Costume'
                 'Tech'
             ]
             points: 20
@@ -3644,7 +3644,7 @@ exportObj.basicCardData = ->
             ship: "TIE/fo Fighter"
             skill: 5
             slots: [
-                'Elite'
+                'Costume'
                 'Tech'
             ]
             points: 18
@@ -3656,7 +3656,7 @@ exportObj.basicCardData = ->
             ship: "TIE/fo Fighter"
             skill: 4
             slots: [
-                'Elite'
+                'Costume'
                 'Tech'
             ]
             points: 17
@@ -3691,7 +3691,7 @@ exportObj.basicCardData = ->
             ship: "T-70 X-Wing"
             skill: 7
             slots: [
-                'Elite'
+                'Costume'
                 'Torpedo'
                 'Astromech'
                 'Tech'
@@ -3720,7 +3720,7 @@ exportObj.basicCardData = ->
             ship: "TIE/fo Fighter"
             skill: 8
             slots: [
-                'Elite'
+                'Costume'
                 'Tech'
             ]
             points: 21
@@ -3733,7 +3733,7 @@ exportObj.basicCardData = ->
             ship: "TIE/fo Fighter"
             skill: 7
             slots: [
-                'Elite'
+                'Costume'
                 'Tech'
             ]
             points: 20
@@ -3758,7 +3758,7 @@ exportObj.basicCardData = ->
             ship: "TIE Bomber"
             skill: 8
             slots: [
-                'Elite'
+                'Costume'
                 'DiscEPT'
                 'Torpedo'
                 'Torpedo'
@@ -3775,7 +3775,7 @@ exportObj.basicCardData = ->
             ship: "TIE Bomber"
             skill: 5
             slots: [
-                'Elite'
+                'Costume'
                 'Torpedo'
                 'Torpedo'
                 'Missile'
@@ -3809,7 +3809,7 @@ exportObj.basicCardData = ->
             ship: "TIE Defender"
             skill: 7
             slots: [
-                'Elite'
+                'Costume'
                 'Cannon'
                 'Missile'
             ]
@@ -3822,7 +3822,7 @@ exportObj.basicCardData = ->
             ship: "TIE Defender"
             skill: 6
             slots: [
-                'Elite'
+                'Costume'
                 'Cannon'
                 'Missile'
             ]
@@ -3836,7 +3836,7 @@ exportObj.basicCardData = ->
             ship: "TIE Defender"
             skill: 5
             slots: [
-                'Elite'
+                'Costume'
                 'Cannon'
                 'Missile'
             ]
@@ -3851,7 +3851,7 @@ exportObj.basicCardData = ->
             ship: "T-70 X-Wing"
             skill: 9
             slots: [
-                'Elite'
+                'Costume'
                 'Torpedo'
                 'Astromech'
                 'Tech'
@@ -3866,7 +3866,7 @@ exportObj.basicCardData = ->
             ship: "T-70 X-Wing"
             skill: 7
             slots: [
-                'Elite'
+                'Costume'
                 'Torpedo'
                 'Astromech'
                 'Tech'
@@ -3881,7 +3881,7 @@ exportObj.basicCardData = ->
             ship: "T-70 X-Wing"
             skill: 6
             slots: [
-                'Elite'
+                'Costume'
                 'Torpedo'
                 'Astromech'
                 'Tech'
@@ -3990,7 +3990,7 @@ exportObj.basicCardData = ->
             ship: 'ARC-170'
             skill: 7
             slots: [
-                'Elite'
+                'Costume'
                 'Torpedo'
                 'Crew'
                 'Astromech'
@@ -4005,7 +4005,7 @@ exportObj.basicCardData = ->
             ship: 'ARC-170'
             skill: 6
             slots: [
-                'Elite'
+                'Costume'
                 'Torpedo'
                 'Crew'
                 'Astromech'
@@ -4048,7 +4048,7 @@ exportObj.basicCardData = ->
             ship: 'TIE/sf Fighter'
             skill: 9
             slots: [
-                'Elite'
+                'Costume'
                 'System'
                 'Missile'
                 'Tech'
@@ -4063,7 +4063,7 @@ exportObj.basicCardData = ->
             ship: 'TIE/sf Fighter'
             skill: 7
             slots: [
-                'Elite'
+                'Costume'
                 'System'
                 'Missile'
                 'Tech'
@@ -4077,7 +4077,7 @@ exportObj.basicCardData = ->
             ship: 'TIE/sf Fighter'
             skill: 5
             slots: [
-                'Elite'
+                'Costume'
                 'System'
                 'Missile'
                 'Tech'
@@ -4105,7 +4105,7 @@ exportObj.basicCardData = ->
             ship: 'Protectorate Starfighter'
             skill: 9
             slots: [
-                'Elite'
+                'Costume'
                 'Torpedo'
             ]
             points: 28
@@ -4118,7 +4118,7 @@ exportObj.basicCardData = ->
             ship: 'Protectorate Starfighter'
             skill: 7
             slots: [
-                'Elite'
+                'Costume'
                 'Torpedo'
             ]
             points: 26
@@ -4131,7 +4131,7 @@ exportObj.basicCardData = ->
             ship: 'Protectorate Starfighter'
             skill: 6
             slots: [
-                'Elite'
+                'Costume'
                 'Torpedo'
             ]
             points: 25
@@ -4143,7 +4143,7 @@ exportObj.basicCardData = ->
             ship: 'Protectorate Starfighter'
             skill: 5
             slots: [
-                'Elite'
+                'Costume'
                 'Torpedo'
             ]
             points: 23
@@ -4155,7 +4155,7 @@ exportObj.basicCardData = ->
             ship: 'Protectorate Starfighter'
             skill: 3
             slots: [
-                'Elite'
+                'Costume'
                 'Torpedo'
             ]
             points: 22
@@ -4179,7 +4179,7 @@ exportObj.basicCardData = ->
             ship: 'Lancer-class Pursuit Craft'
             skill: 7
             slots: [
-                'Elite'
+                'Costume'
                 'Crew'
                 'Illicit'
                 'Illicit'
@@ -4194,7 +4194,7 @@ exportObj.basicCardData = ->
             ship: 'Lancer-class Pursuit Craft'
             skill: 6
             slots: [
-                'Elite'
+                'Costume'
                 'Crew'
                 'Illicit'
                 'Illicit'
@@ -4237,7 +4237,7 @@ exportObj.basicCardData = ->
             ship: 'TIE Fighter'
             skill: 7
             slots: [
-                'Elite'
+                'Costume'
             ]
             points: 17
         }
@@ -4250,7 +4250,7 @@ exportObj.basicCardData = ->
             ship: 'TIE Fighter'
             skill: 5
             slots: [
-                'Elite'
+                'Costume'
             ]
             points: 15
         }
@@ -4284,7 +4284,7 @@ exportObj.basicCardData = ->
             ship: 'Upsilon-class Shuttle'
             skill: 6
             slots: [
-                'Elite'
+                'Costume'
                 'System'
                 'Crew'
                 'Crew'
@@ -4349,7 +4349,7 @@ exportObj.basicCardData = ->
             ship: 'Quadjumper'
             skill: 7
             slots: [
-                'Elite'
+                'Costume'
                 'Crew'
                 'Bomb'
                 'Tech'
@@ -4365,7 +4365,7 @@ exportObj.basicCardData = ->
             ship: 'Quadjumper'
             skill: 5
             slots: [
-                'Elite'
+                'Costume'
                 'Crew'
                 'Bomb'
                 'Tech'
@@ -4410,7 +4410,7 @@ exportObj.basicCardData = ->
             ship: 'U-Wing'
             skill: 6
             slots: [
-                'Elite'
+                'Costume'
                 'System'
                 'Torpedo'
                 'Crew'
@@ -4470,7 +4470,7 @@ exportObj.basicCardData = ->
             ship: 'TIE Striker'
             skill: 8
             slots: [
-                'Elite'
+                'Costume'
             ]
             points: 23
         }
@@ -4482,7 +4482,7 @@ exportObj.basicCardData = ->
             ship: 'TIE Striker'
             skill: 6
             slots: [
-                'Elite'
+                'Costume'
             ]
             points: 22
         }
@@ -4504,7 +4504,7 @@ exportObj.basicCardData = ->
             ship: 'TIE Striker'
             skill: 4
             slots: [
-                'Elite'
+                'Costume'
             ]
             points: 20
         }
@@ -4553,7 +4553,7 @@ exportObj.basicCardData = ->
             ship: 'M3-A Interceptor'
             skill: 7
             slots: [
-                'Elite'
+                'Costume'
             ]
             points: 19
         }
@@ -4565,7 +4565,7 @@ exportObj.basicCardData = ->
             ship: 'M3-A Interceptor'
             skill: 6
             slots: [
-                'Elite'
+                'Costume'
             ]
             points: 18
         }
@@ -4577,7 +4577,7 @@ exportObj.basicCardData = ->
             ship: 'M3-A Interceptor'
             skill: 3
             slots: [
-                'Elite'
+                'Costume'
             ]
             points: 15
         }
@@ -4610,7 +4610,7 @@ exportObj.basicCardData = ->
             ship: 'Auzituck Gunship'
             skill: 3
             slots: [
-                'Elite'
+                'Costume'
                 'Crew'
                 'Crew'
             ]
@@ -4624,7 +4624,7 @@ exportObj.basicCardData = ->
             ship: 'Auzituck Gunship'
             skill: 5
             slots: [
-                'Elite'
+                'Costume'
                 'Crew'
                 'Crew'
             ]
@@ -4638,7 +4638,7 @@ exportObj.basicCardData = ->
             ship: 'Auzituck Gunship'
             skill: 7
             slots: [
-                'Elite'
+                'Costume'
                 'Crew'
                 'Crew'
             ]
@@ -4652,7 +4652,7 @@ exportObj.basicCardData = ->
             ship: 'Scurrg H-6 Bomber'
             skill: 8
             slots: [
-                'Elite'
+                'Costume'
                 'Turret'
                 'Torpedo'
                 'Missile'
@@ -4672,7 +4672,7 @@ exportObj.basicCardData = ->
             ship: 'Scurrg H-6 Bomber'
             skill: 8
             slots: [
-                'Elite'
+                'Costume'
                 'Turret'
                 'Torpedo'
                 'Missile'
@@ -4690,7 +4690,7 @@ exportObj.basicCardData = ->
             ship: 'Scurrg H-6 Bomber'
             skill: 6
             slots: [
-                'Elite'
+                'Costume'
                 'Turret'
                 'Torpedo'
                 'Missile'
@@ -4707,7 +4707,7 @@ exportObj.basicCardData = ->
             ship: 'Scurrg H-6 Bomber'
             skill: 3
             slots: [
-                'Elite'
+                'Costume'
                 'Turret'
                 'Torpedo'
                 'Missile'
@@ -4767,7 +4767,7 @@ exportObj.basicCardData = ->
             ship: 'TIE Aggressor'
             skill: 4
             slots: [
-                'Elite'
+                'Costume'
                 'Turret'
                 'Missile'
                 'Missile'
@@ -4782,7 +4782,7 @@ exportObj.basicCardData = ->
             ship: 'TIE Aggressor'
             skill: 7
             slots: [
-                'Elite'
+                'Costume'
                 'Turret'
                 'Missile'
                 'Missile'
@@ -4797,7 +4797,7 @@ exportObj.basicCardData = ->
             ship: 'Kihraxz Fighter'
             skill: 7
             slots: [
-                'Elite'
+                'Costume'
                 'Missile'
                 'Illicit'
             ]
@@ -4811,7 +4811,7 @@ exportObj.basicCardData = ->
             unique: true
             ship: 'Kihraxz Fighter'
             slots: [
-                'Elite'
+                'Costume'
                 'Missile'
                 'Illicit'
             ]
@@ -4825,7 +4825,7 @@ exportObj.basicCardData = ->
             ship: 'StarViper'
             skill: 6
             slots: [
-                'Elite'
+                'Costume'
                 'Torpedo'
             ]
             points: 30
@@ -4850,7 +4850,7 @@ exportObj.basicCardData = ->
             ship: 'StarViper'
             skill: 5
             slots: [
-                'Elite'
+                'Costume'
                 'Torpedo'
             ]
             points: 28
@@ -4863,7 +4863,7 @@ exportObj.basicCardData = ->
             ship: 'Alpha-class Star Wing'
             skill: 7
             slots: [
-                'Elite'
+                'Costume'
                 'Torpedo'
                 'Missile'
             ]
@@ -4914,7 +4914,7 @@ exportObj.basicCardData = ->
             ship: 'M12-L Kimogila Fighter'
             skill: 8
             slots: [
-                'Elite'
+                'Costume'
                 'Torpedo'
                 'Missile'
                 'Salvaged Astromech'
@@ -4930,7 +4930,7 @@ exportObj.basicCardData = ->
             ship: 'M12-L Kimogila Fighter'
             skill: 7
             slots: [
-                'Elite'
+                'Costume'
                 'Torpedo'
                 'Missile'
                 'Salvaged Astromech'
@@ -4945,7 +4945,7 @@ exportObj.basicCardData = ->
             ship: 'M12-L Kimogila Fighter'
             skill: 5
             slots: [
-                'Elite'
+                'Costume'
                 'Torpedo'
                 'Missile'
                 'Salvaged Astromech'
@@ -4976,7 +4976,7 @@ exportObj.basicCardData = ->
             ship: 'Sheathipede-class Shuttle'
             skill: 9
             slots: [
-                'Elite'
+                'Costume'
                 'Crew'
                 'Astromech'
             ]
@@ -5129,7 +5129,7 @@ exportObj.basicCardData = ->
             ship: 'TIE Silencer'
             skill: 9
             slots: [
-                'Elite'
+                'Costume'
                 'System'
                 'Tech'
             ]
@@ -5649,13 +5649,13 @@ exportObj.basicCardData = ->
             slot: "Astromech"
             points: 1
             restriction_func: (ship) ->
-                return false if (ship.effectiveStats().skill <= 2 or 'Elite' in ship.pilot.slots)
+                return false if (ship.effectiveStats().skill <= 2 or 'Costume' in ship.pilot.slots)
                 # Otherwise, if there's an Elite slot upgrade, it has to have
                 # been conferred, and it can't be conferred by another upgrade
                 for upgrade in ship.upgrades
                     if upgrade? and upgrade.data?.name != 'R2-D6'
                         for conferred_addon in upgrade.conferredAddons
-                            return false if conferred_addon.slot == 'Elite'
+                            return false if conferred_addon.slot == 'Costume'
                 true
             confersAddons: [
                 {
@@ -7427,7 +7427,7 @@ exportObj.basicCardData = ->
             id: 295
             unique: true
             faction: 'Rebel Alliance'
-            slot: 'Elite'
+            slot: 'Costume'
             points: 4
         }
         {
@@ -7435,7 +7435,7 @@ exportObj.basicCardData = ->
             id: 296
             unique: true
             faction: 'Rebel Alliance'
-            slot: 'Elite'
+            slot: 'Costume'
             points: 4
         }
         {
@@ -7443,7 +7443,7 @@ exportObj.basicCardData = ->
             id: 297
             unique: true
             faction: 'Rebel Alliance'
-            slot: 'Elite'
+            slot: 'Costume'
             points: 3
         }
         {
@@ -7451,7 +7451,7 @@ exportObj.basicCardData = ->
             id: 298
             unique: true
             faction: 'Rebel Alliance'
-            slot: 'Elite'
+            slot: 'Costume'
             points: 2
         }
         {
@@ -7459,7 +7459,7 @@ exportObj.basicCardData = ->
             id: 299
             unique: true
             faction: 'Rebel Alliance'
-            slot: 'Elite'
+            slot: 'Costume'
             points: 4
         }
         {
@@ -7467,7 +7467,7 @@ exportObj.basicCardData = ->
             id: 300
             unique: true
             faction: 'Rebel Alliance'
-            slot: 'Elite'
+            slot: 'Costume'
             points: 3
         }
         {
@@ -7475,7 +7475,7 @@ exportObj.basicCardData = ->
             id: 301
             unique: true
             faction: 'Rebel Alliance'
-            slot: 'Elite'
+            slot: 'Costume'
             points: 4
         }
         {
@@ -7483,7 +7483,7 @@ exportObj.basicCardData = ->
             id: 302
             unique: true
             faction: 'Rebel Alliance'
-            slot: 'Elite'
+            slot: 'Costume'
             points: 3
         }
         {
@@ -7491,7 +7491,7 @@ exportObj.basicCardData = ->
             id: 303
             unique: true
             faction: 'Scum and Villainy'
-            slot: 'Elite'
+            slot: 'Costume'
             points: 4
         }
         {
@@ -7499,7 +7499,7 @@ exportObj.basicCardData = ->
             id: 304
             unique: true
             faction: 'Scum and Villainy'
-            slot: 'Elite'
+            slot: 'Costume'
             points: 3
         }
         {
@@ -7507,7 +7507,7 @@ exportObj.basicCardData = ->
             id: 305
             unique: true
             faction: 'Scum and Villainy'
-            slot: 'Elite'
+            slot: 'Costume'
             points: 4
         }
         {
@@ -7515,7 +7515,7 @@ exportObj.basicCardData = ->
             id: 306
             unique: true
             faction: 'Scum and Villainy'
-            slot: 'Elite'
+            slot: 'Costume'
             points: 3
         }
         {
@@ -7523,7 +7523,7 @@ exportObj.basicCardData = ->
             id: 307
             unique: true
             faction: 'Scum and Villainy'
-            slot: 'Elite'
+            slot: 'Costume'
             points: 3
         }
         {
@@ -7531,7 +7531,7 @@ exportObj.basicCardData = ->
             id: 308
             unique: true
             faction: 'Scum and Villainy'
-            slot: 'Elite'
+            slot: 'Costume'
             points: 3
         }
         {
@@ -7539,7 +7539,7 @@ exportObj.basicCardData = ->
             id: 309
             unique: true
             faction: 'Scum and Villainy'
-            slot: 'Elite'
+            slot: 'Costume'
             points: 3
         }
         {
@@ -7548,7 +7548,7 @@ exportObj.basicCardData = ->
             id: 310
             unique: true
             faction: 'Scum and Villainy'
-            slot: 'Elite'
+            slot: 'Costume'
             points: 3
         }
         {
@@ -7556,7 +7556,7 @@ exportObj.basicCardData = ->
             id: 311
             unique: true
             faction: 'Scum and Villainy'
-            slot: 'Elite'
+            slot: 'Costume'
             points: 4
         }
         {
@@ -7564,7 +7564,7 @@ exportObj.basicCardData = ->
             id: 312
             unique: true
             faction: 'Scum and Villainy'
-            slot: 'Elite'
+            slot: 'Costume'
             points: 3
         }
         {
@@ -7573,7 +7573,7 @@ exportObj.basicCardData = ->
             id: 313
             unique: true
             faction: 'Scum and Villainy'
-            slot: 'Elite'
+            slot: 'Costume'
             points: 4
             'canonical_name': 'Boba Fett'.canonicalize()
         }
@@ -7582,7 +7582,7 @@ exportObj.basicCardData = ->
             id: 314
             unique: true
             faction: 'Scum and Villainy'
-            slot: 'Elite'
+            slot: 'Costume'
             points: 4
             'canonical_name': 'Kath Scarlet'.canonicalize()
         }
@@ -7591,7 +7591,7 @@ exportObj.basicCardData = ->
             id: 315
             unique: true
             faction: 'Scum and Villainy'
-            slot: 'Elite'
+            slot: 'Costume'
             points: 3
         }
         {
@@ -7599,7 +7599,7 @@ exportObj.basicCardData = ->
             id: 316
             unique: true
             faction: 'Scum and Villainy'
-            slot: 'Elite'
+            slot: 'Costume'
             points: 4
         }
         {
@@ -7607,7 +7607,7 @@ exportObj.basicCardData = ->
             id: 317
             unique: true
             faction: 'Scum and Villainy'
-            slot: 'Elite'
+            slot: 'Costume'
             points: 3
         }
         {
@@ -7615,7 +7615,7 @@ exportObj.basicCardData = ->
             id: 318
             unique: true
             faction: 'Scum and Villainy'
-            slot: 'Elite'
+            slot: 'Costume'
             points: 4
         }
         {
@@ -7623,7 +7623,7 @@ exportObj.basicCardData = ->
             id: 319
             unique: true
             faction: 'Scum and Villainy'
-            slot: 'Elite'
+            slot: 'Costume'
             points: 3
         }
         {
@@ -7631,7 +7631,7 @@ exportObj.basicCardData = ->
             id: 320
             unique: true
             faction: 'Scum and Villainy'
-            slot: 'Elite'
+            slot: 'Costume'
             points: 2
         }
         {
@@ -7639,7 +7639,7 @@ exportObj.basicCardData = ->
             id: 321
             unique: true
             faction: 'Galactic Empire'
-            slot: 'Elite'
+            slot: 'Costume'
             points: 3
         }
         {
@@ -7647,7 +7647,7 @@ exportObj.basicCardData = ->
             id: 322
             unique: true
             faction: 'Scum and Villainy'
-            slot: 'Elite'
+            slot: 'Costume'
             points: 4
         }
         {
@@ -7655,7 +7655,7 @@ exportObj.basicCardData = ->
             id: 323
             unique: true
             faction: 'Scum and Villainy'
-            slot: 'Elite'
+            slot: 'Costume'
             points: 3
         }
         {
@@ -7663,7 +7663,7 @@ exportObj.basicCardData = ->
             id: 324
             unique: true
             faction: 'Scum and Villainy'
-            slot: 'Elite'
+            slot: 'Costume'
             points: 3
         }
         {
@@ -7671,7 +7671,7 @@ exportObj.basicCardData = ->
             id: 325
             unique: true
             faction: 'Scum and Villainy'
-            slot: 'Elite'
+            slot: 'Costume'
             points: 5
         }
         {
@@ -7679,7 +7679,7 @@ exportObj.basicCardData = ->
             id: 326
             unique: true
             faction: 'Scum and Villainy'
-            slot: 'Elite'
+            slot: 'Costume'
             points: 3
         }
         {
@@ -7687,7 +7687,7 @@ exportObj.basicCardData = ->
             id: 327
             unique: true
             faction: 'Rebel Alliance'
-            slot: 'Elite'
+            slot: 'Costume'
             points: 4
         }
         {
@@ -7695,7 +7695,7 @@ exportObj.basicCardData = ->
             id: 328
             unique: true
             faction: 'Rebel Alliance'
-            slot: 'Elite'
+            slot: 'Costume'
             points: 3
         }
         {
@@ -7703,7 +7703,7 @@ exportObj.basicCardData = ->
             id: 329
             unique: true
             faction: 'Galactic Empire'
-            slot: 'Elite'
+            slot: 'Costume'
             points: 4
         }
         {
@@ -7711,7 +7711,7 @@ exportObj.basicCardData = ->
             id: 330
             unique: true
             faction: 'Galactic Empire'
-            slot: 'Elite'
+            slot: 'Costume'
             points: 3
         }
         {
@@ -7719,7 +7719,7 @@ exportObj.basicCardData = ->
             id: 331
             unique: true
             faction: 'Galactic Empire'
-            slot: 'Elite'
+            slot: 'Costume'
             points: 4
         }
         {
@@ -7727,7 +7727,7 @@ exportObj.basicCardData = ->
             id: 332
             unique: true
             faction: 'Galactic Empire'
-            slot: 'Elite'
+            slot: 'Costume'
             points: 3
         }
         {
@@ -7735,7 +7735,7 @@ exportObj.basicCardData = ->
             id: 333
             unique: true
             faction: 'Galactic Empire'
-            slot: 'Elite'
+            slot: 'Costume'
             points: 2
         }
         {
@@ -7743,7 +7743,7 @@ exportObj.basicCardData = ->
             id: 334
             unique: true
             faction: 'Galactic Empire'
-            slot: 'Elite'
+            slot: 'Costume'
             points: 4
         }
         {
@@ -7751,7 +7751,7 @@ exportObj.basicCardData = ->
             id: 335
             unique: true
             faction: 'Galactic Empire'
-            slot: 'Elite'
+            slot: 'Costume'
             points: 3
             confersAddons: [
                 {
@@ -7765,7 +7765,7 @@ exportObj.basicCardData = ->
             id: 336
             unique: true
             faction: 'Galactic Empire'
-            slot: 'Elite'
+            slot: 'Costume'
             points: 2
         }
         {
@@ -7773,7 +7773,7 @@ exportObj.basicCardData = ->
             id: 337
             unique: true
             faction: 'Galactic Empire'
-            slot: 'Elite'
+            slot: 'Costume'
             points: 2
         }
         {
@@ -7782,7 +7782,7 @@ exportObj.basicCardData = ->
             id: 338
             unique: true
             faction: 'Rebel Alliance'
-            slot: 'Elite'
+            slot: 'Costume'
             points: 4
         }
         {
@@ -7791,7 +7791,7 @@ exportObj.basicCardData = ->
             id: 339
             unique: true
             faction: 'Rebel Alliance'
-            slot: 'Elite'
+            slot: 'Costume'
             points: 3
         }
         {
@@ -7800,7 +7800,7 @@ exportObj.basicCardData = ->
             id: 340
             unique: true
             faction: 'Rebel Alliance'
-            slot: 'Elite'
+            slot: 'Costume'
             points: 2
         }
         {
@@ -7818,7 +7818,7 @@ exportObj.basicCardData = ->
             id: 342
             unique: true
             faction: 'Rebel Alliance'
-            slot: 'Elite'
+            slot: 'Costume'
             points: 3
         }
         {
@@ -7827,7 +7827,7 @@ exportObj.basicCardData = ->
             id: 343
             unique: true
             faction: 'Rebel Alliance'
-            slot: 'Elite'
+            slot: 'Costume'
             points: 2
         }
         {
@@ -7836,7 +7836,7 @@ exportObj.basicCardData = ->
             id: 344
             unique: true
             faction: 'Rebel Alliance'
-            slot: 'Elite'
+            slot: 'Costume'
             points: 2
         }
         {
@@ -7844,7 +7844,7 @@ exportObj.basicCardData = ->
             id: 345
             unique: true
             faction: 'Galactic Empire'
-            slot: 'Elite'
+            slot: 'Costume'
             points: 4
         }
         {
@@ -7852,7 +7852,7 @@ exportObj.basicCardData = ->
             id: 346
             unique: true
             faction: 'Galactic Empire'
-            slot: 'Elite'
+            slot: 'Costume'
             points: 3
         }
         {
@@ -7861,7 +7861,7 @@ exportObj.basicCardData = ->
             id: 347
             unique: true
             faction: 'Scum and Villainy'
-            slot: 'Elite'
+            slot: 'Costume'
             points: 4
         }
         {
@@ -7870,7 +7870,7 @@ exportObj.basicCardData = ->
             id: 348
             unique: true
             faction: 'Scum and Villainy'
-            slot: 'Elite'
+            slot: 'Costume'
             points: 3
         }
         {
@@ -7879,7 +7879,7 @@ exportObj.basicCardData = ->
             id: 349
             unique: true
             faction: 'Scum and Villainy'
-            slot: 'Elite'
+            slot: 'Costume'
             points: 5
         }
         {
@@ -7887,7 +7887,7 @@ exportObj.basicCardData = ->
             id: 350
             unique: true
             faction: 'Scum and Villainy'
-            slot: 'Elite'
+            slot: 'Costume'
             points: 4
         }
         {
@@ -7895,7 +7895,7 @@ exportObj.basicCardData = ->
             id: 351
             unique: true
             faction: 'Scum and Villainy'
-            slot: 'Elite'
+            slot: 'Costume'
             points: 2
         }
         {
@@ -7911,7 +7911,7 @@ exportObj.basicCardData = ->
             id: 353
             unique: true
             faction: 'Resistance'
-            slot: 'Elite'
+            slot: 'Costume'
             points: 3
         }
         {
@@ -7919,7 +7919,7 @@ exportObj.basicCardData = ->
             id: 354
             unique: true
             faction: 'First Order'
-            slot: 'Elite'
+            slot: 'Costume'
             points: 4
         }
         {
@@ -7927,7 +7927,7 @@ exportObj.basicCardData = ->
             id: 355
             unique: true
             faction: 'First Order'
-            slot: 'Elite'
+            slot: 'Costume'
             points: 3
         }
         {
@@ -7935,7 +7935,7 @@ exportObj.basicCardData = ->
             id: 356
             unique: true
             faction: 'First Order'
-            slot: 'Elite'
+            slot: 'Costume'
             points: 3
         }
         {
@@ -7943,7 +7943,7 @@ exportObj.basicCardData = ->
             id: 357
             unique: true
             faction: 'Resistance'
-            slot: 'Elite'
+            slot: 'Costume'
             points: 4
         }
         {
@@ -7951,7 +7951,7 @@ exportObj.basicCardData = ->
             id: 358
             unique: true
             faction: 'Resistance'
-            slot: 'Elite'
+            slot: 'Costume'
             points: 3
         }
         {
@@ -7959,7 +7959,7 @@ exportObj.basicCardData = ->
             id: 359
             unique: true
             faction: 'First Order'
-            slot: 'Elite'
+            slot: 'Costume'
             points: 4
         }
         {
@@ -7967,7 +7967,7 @@ exportObj.basicCardData = ->
             id: 360
             unique: true
             faction: 'First Order'
-            slot: 'Elite'
+            slot: 'Costume'
             points: 4
         }
         {
@@ -7975,7 +7975,7 @@ exportObj.basicCardData = ->
             id: 361
             unique: true
             faction: 'First Order'
-            slot: 'Elite'
+            slot: 'Costume'
             points: 2
         }
         {
@@ -7983,7 +7983,7 @@ exportObj.basicCardData = ->
             id: 362
             unique: true
             faction: 'Galactic Empire'
-            slot: 'Elite'
+            slot: 'Costume'
             points: 4
             confersAddons: [
                 {
@@ -7997,7 +7997,7 @@ exportObj.basicCardData = ->
             id: 363
             unique: true
             faction: 'Galactic Empire'
-            slot: 'Elite'
+            slot: 'Costume'
             points: 2
         }
         {
@@ -8014,7 +8014,7 @@ exportObj.basicCardData = ->
             id: 365
             unique: true
             faction: 'Galactic Empire'
-            slot: 'Elite'
+            slot: 'Costume'
             points: 3
         }
         {
@@ -8023,7 +8023,7 @@ exportObj.basicCardData = ->
             id: 366
             unique: true
             faction: 'Resistance'
-            slot: 'Elite'
+            slot: 'Costume'
             points: 5
             'canonical_name': 'poedameron-swx57'
         }
@@ -8033,7 +8033,7 @@ exportObj.basicCardData = ->
             id: 367
             unique: true
             faction: 'Resistance'
-            slot: 'Elite'
+            slot: 'Costume'
             points: 4
         }
         {
@@ -8041,7 +8041,7 @@ exportObj.basicCardData = ->
             id: 368
             unique: true
             faction: 'Resistance'
-            slot: 'Elite'
+            slot: 'Costume'
             points: 3
         }
         {
@@ -8049,7 +8049,7 @@ exportObj.basicCardData = ->
             id: 369
             unique: true
             faction: 'Resistance'
-            slot: 'Elite'
+            slot: 'Costume'
             points: 2
         }
         {
@@ -8058,7 +8058,7 @@ exportObj.basicCardData = ->
             id: 370
             unique: true
             faction: 'Resistance'
-            slot: 'Elite'
+            slot: 'Costume'
             points: 5
             'canonical_name': 'hansolo-swx57'
         }
@@ -8068,7 +8068,7 @@ exportObj.basicCardData = ->
             id: 371
             unique: true
             faction: 'Resistance'
-            slot: 'Elite'
+            slot: 'Costume'
             points: 4
         }
         {
@@ -8077,7 +8077,7 @@ exportObj.basicCardData = ->
             id: 372
             unique: true
             faction: 'Resistance'
-            slot: 'Elite'
+            slot: 'Costume'
             points: 3
             'canonical_name': 'chewbacca-swx57'
         }
@@ -8086,7 +8086,7 @@ exportObj.basicCardData = ->
             id: 373
             unique: true
             faction: 'Rebel Alliance'
-            slot: 'Elite'
+            slot: 'Costume'
             points: 4
         }
         {
@@ -8094,7 +8094,7 @@ exportObj.basicCardData = ->
             id: 374
             unique: true
             faction: 'Rebel Alliance'
-            slot: 'Elite'
+            slot: 'Costume'
             points: 3
         }
         {
@@ -8102,7 +8102,7 @@ exportObj.basicCardData = ->
             id: 375
             unique: true
             faction: 'Rebel Alliance'
-            slot: 'Elite'
+            slot: 'Costume'
             points: 2
         }
         {
@@ -8110,7 +8110,7 @@ exportObj.basicCardData = ->
             id: 376
             unique: true
             faction: 'Rebel Alliance'
-            slot: 'Elite'
+            slot: 'Costume'
             points: 2
         }
         {
@@ -8118,7 +8118,7 @@ exportObj.basicCardData = ->
             id: 377
             unique: true
             faction: 'Galactic Empire'
-            slot: 'Elite'
+            slot: 'Costume'
             points: 5
         }
         {
@@ -8126,7 +8126,7 @@ exportObj.basicCardData = ->
             id: 378
             unique: true
             faction: 'Galactic Empire'
-            slot: 'Elite'
+            slot: 'Costume'
             points: 4
         }
         {
@@ -8134,7 +8134,7 @@ exportObj.basicCardData = ->
             id: 379
             unique: true
             faction: 'Scum and Villainy'
-            slot: 'Elite'
+            slot: 'Costume'
             points: 5
         }
         {
@@ -8142,7 +8142,7 @@ exportObj.basicCardData = ->
             id: 380
             unique: true
             faction: 'Scum and Villainy'
-            slot: 'Elite'
+            slot: 'Costume'
             points: 4
         }
         {
@@ -8150,7 +8150,7 @@ exportObj.basicCardData = ->
             id: 381
             unique: true
             faction: 'Scum and Villainy'
-            slot: 'Elite'
+            slot: 'Costume'
             points: 3
         }
         {
@@ -8159,7 +8159,7 @@ exportObj.basicCardData = ->
             id: 382
             unique: true
             faction: 'Scum and Villainy'
-            slot: 'Elite'
+            slot: 'Costume'
             points: 4
         }
         {
@@ -8167,7 +8167,7 @@ exportObj.basicCardData = ->
             id: 383
             unique: true
             faction: 'Scum and Villainy'
-            slot: 'Elite'
+            slot: 'Costume'
             points: 3
         }
         {
@@ -8175,7 +8175,7 @@ exportObj.basicCardData = ->
             id: 384
             unique: true
             faction: 'Scum and Villainy'
-            slot: 'Elite'
+            slot: 'Costume'
             points: 3
             'canonical_name': 'sabinewren'
         }
@@ -8184,7 +8184,7 @@ exportObj.basicCardData = ->
             id: 385
             unique: true
             faction: 'Rebel Alliance'
-            slot: 'Elite'
+            slot: 'Costume'
             points: 4
         }
         {
@@ -8203,7 +8203,7 @@ exportObj.basicCardData = ->
             id: 387
             unique: true
             faction: 'Rebel Alliance'
-            slot: 'Elite'
+            slot: 'Costume'
             points: 2
             applies_condition: 'Suppressive Fire'.canonicalize()
         }
@@ -8223,7 +8223,7 @@ exportObj.basicCardData = ->
             id: 389
             unique: true
             faction: 'First Order'
-            slot: 'Elite'
+            slot: 'Costume'
             points: 3
             applies_condition: '''I'll Show You the Dark Side'''.canonicalize()
         }
@@ -8232,7 +8232,7 @@ exportObj.basicCardData = ->
             id: 390
             unique: true
             faction: 'First Order'
-            slot: 'Elite'
+            slot: 'Costume'
             points: 2
         }
         {
@@ -8240,7 +8240,7 @@ exportObj.basicCardData = ->
             id: 391
             unique: true
             faction: 'First Order'
-            slot: 'Elite'
+            slot: 'Costume'
             points: 2
         }
         {
@@ -8248,7 +8248,7 @@ exportObj.basicCardData = ->
             id: 392
             unique: true
             faction: 'Scum and Villainy'
-            slot: 'Elite'
+            slot: 'Costume'
             points: 4
         }
         {
@@ -8256,7 +8256,7 @@ exportObj.basicCardData = ->
             id: 393
             unique: true
             faction: 'Scum and Villainy'
-            slot: 'Elite'
+            slot: 'Costume'
             points: 3
         }
         {
@@ -8265,7 +8265,7 @@ exportObj.basicCardData = ->
             id: 394
             unique: true
             faction: 'Scum and Villainy'
-            slot: 'Elite'
+            slot: 'Costume'
             points: 2
         }
         {
@@ -8274,7 +8274,7 @@ exportObj.basicCardData = ->
             id: 395
             unique: true
             faction: 'Rebel Alliance'
-            slot: 'Elite'
+            slot: 'Costume'
             points: 3
         }
         {
@@ -8283,7 +8283,7 @@ exportObj.basicCardData = ->
             id: 396
             unique: true
             faction: 'Rebel Alliance'
-            slot: 'Elite'
+            slot: 'Costume'
             points: 2
         }
         {
@@ -8291,7 +8291,7 @@ exportObj.basicCardData = ->
             id: 397
             unique: true
             faction: 'Rebel Alliance'
-            slot: 'Elite'
+            slot: 'Costume'
             points: 2
         }
         {
@@ -8299,7 +8299,7 @@ exportObj.basicCardData = ->
             id: 398
             unique: true
             faction: 'Galactic Empire'
-            slot: 'Elite'
+            slot: 'Costume'
             points: 4
         }
         {
@@ -8307,7 +8307,7 @@ exportObj.basicCardData = ->
             id: 399
             unique: true
             faction: 'Galactic Empire'
-            slot: 'Elite'
+            slot: 'Costume'
             points: 3
         }
         {
@@ -8315,7 +8315,7 @@ exportObj.basicCardData = ->
             id: 400
             unique: true
             faction: 'Galactic Empire'
-            slot: 'Elite'
+            slot: 'Costume'
             points: 3
         }
         {
@@ -8323,7 +8323,7 @@ exportObj.basicCardData = ->
             id: 401
             unique: true
             faction: 'Scum and Villainy'
-            slot: 'Elite'
+            slot: 'Costume'
             points: 4
         }
         {
@@ -8331,7 +8331,7 @@ exportObj.basicCardData = ->
             id: 402
             unique: true
             faction: 'Scum and Villainy'
-            slot: 'Elite'
+            slot: 'Costume'
             points: 3
         }
         {
@@ -8339,7 +8339,7 @@ exportObj.basicCardData = ->
             id: 403
             unique: true
             faction: 'Scum and Villainy'
-            slot: 'Elite'
+            slot: 'Costume'
             points: 2
         }
         {
@@ -8347,7 +8347,7 @@ exportObj.basicCardData = ->
             id: 404
             unique: true
             faction: 'Scum and Villainy'
-            slot: 'Elite'
+            slot: 'Costume'
             points: 1
         }
         {
@@ -8355,7 +8355,7 @@ exportObj.basicCardData = ->
             id: 405
             unique: true
             faction: 'Rebel Alliance'
-            slot: 'Elite'
+            slot: 'Costume'
             points: 3
         }
         {
@@ -8363,7 +8363,7 @@ exportObj.basicCardData = ->
             id: 406
             unique: true
             faction: 'Rebel Alliance'
-            slot: 'Elite'
+            slot: 'Costume'
             points: 4
         }
         {
@@ -8371,7 +8371,7 @@ exportObj.basicCardData = ->
             id: 407
             unique: true
             faction: 'Scum and Villainy'
-            slot: 'Elite'
+            slot: 'Costume'
             points: 4
         }
         {
@@ -8380,7 +8380,7 @@ exportObj.basicCardData = ->
             id: 408
             unique: true
             faction: 'Rebel Alliance'
-            slot: 'Elite'
+            slot: 'Costume'
             points: 4
         }
         {
@@ -8388,7 +8388,7 @@ exportObj.basicCardData = ->
             id: 409
             unique: true
             faction: 'Scum and Villainy'
-            slot: 'Elite'
+            slot: 'Costume'
             points: 3
         }
         {
@@ -8396,7 +8396,7 @@ exportObj.basicCardData = ->
             id: 410
             unique: true
             faction: 'Galactic Empire'
-            slot: 'Elite'
+            slot: 'Costume'
             points: 2
         }
         {
@@ -8404,7 +8404,7 @@ exportObj.basicCardData = ->
             id: 411
             unique: true
             faction: 'Galactic Empire'
-            slot: 'Elite'
+            slot: 'Costume'
             points: 4
         }
         {
@@ -8445,7 +8445,7 @@ exportObj.basicCardData = ->
             id: 416
             unique: true
             faction: 'Scum and Villainy'
-            slot: 'Elite'
+            slot: 'Costume'
             points: 4
         }
         {
@@ -8453,7 +8453,7 @@ exportObj.basicCardData = ->
             id: 417
             unique: true
             faction: 'Scum and Villainy'
-            slot: 'Elite'
+            slot: 'Costume'
             points: 2
         }
         {
@@ -8461,7 +8461,7 @@ exportObj.basicCardData = ->
             id: 418
             unique: true
             faction: 'Scum and Villainy'
-            slot: 'Elite'
+            slot: 'Costume'
             points: 3
         }
         {
@@ -8469,7 +8469,7 @@ exportObj.basicCardData = ->
             id: 419
             unique: true
             faction: 'Scum and Villainy'
-            slot: 'Elite'
+            slot: 'Costume'
             points: 2
             applies_condition: ['Shadowed'.canonicalize(), 'Mimicked'.canonicalize()]
         }
@@ -8798,7 +8798,7 @@ exportObj.basicCardData = ->
                 # Still need to respect the restriction
                 return false unless ship.effectiveStats().skill > 1
                 # No two Elites are on fir^W^W^Wcan be the same
-                elites = (upgrade.data.canonical_name for upgrade in ship.upgrades when upgrade.slot == 'Elite' and upgrade.data?)
+                elites = (upgrade.data.canonical_name for upgrade in ship.upgrades when upgrade.slot == 'Costume' and upgrade.data?)
                 while elites.length > 0
                     elite = elites.pop()
                     if elite in elites
