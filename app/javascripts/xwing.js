@@ -4085,9 +4085,8 @@ exportObj.basicCardData = function() {
         slots: ['Elite', 'Crew', 'Crew'],
         points: 30
       }, {
-        name: 'Captain Nym (Scum)',
+        name: 'Captain Nym',
         id: 253,
-        canonical_name: 'Captain Nym'.canonicalize(),
         unique: true,
         faction: 'Scum and Villainy',
         ship: 'Scurrg H-6 Bomber',
@@ -4096,6 +4095,7 @@ exportObj.basicCardData = function() {
         points: 30
       }, {
         name: 'Captain Nym (Rebel)',
+        aka: ['Captain Nym'],
         id: 254,
         canonical_name: 'Captain Nym'.canonicalize(),
         unique: true,
@@ -7300,21 +7300,20 @@ exportObj.basicCardData = function() {
         slot: 'Elite',
         points: 4
       }, {
-        name: 'Captain Nym (Scum)',
+        name: 'Captain Nym',
         id: 407,
         unique: true,
         faction: 'Scum and Villainy',
         slot: 'Elite',
-        points: 4,
-        'canonical_name': 'Captain Nym'.canonicalize()
+        points: 4
       }, {
         name: 'Captain Nym (Rebel)',
+        aka: ['Captain Nym'],
         id: 408,
         unique: true,
         faction: 'Rebel Alliance',
         slot: 'Elite',
-        points: 4,
-        'canonical_name': 'Captain Nym'.canonicalize()
+        points: 4
       }, {
         name: 'Sol Sixxa',
         id: 409,
@@ -9461,7 +9460,7 @@ exportObj.cardLoaders.English = function() {
     'Wullffwarro': {
       text: 'When attacking, if you have no shields and at least 1 Damage card assigned to you, roll 1 additional attack die.'
     },
-    'Captain Nym (Scum)': {
+    'Captain Nym': {
       text: 'You may ignore friendly bombs. When a friendly ship is defending, if the attacker measures range through a friendly bomb token, the defender may add 1 %EVADE% result.'
     },
     'Captain Nym (Rebel)': {
@@ -10726,7 +10725,7 @@ exportObj.cardLoaders.English = function() {
     'Wullffwarro': {
       text: 'When attacking, if you have no shields and at least 1 Damage card assigned to you, roll 1 additional attack die.'
     },
-    'Captain Nym (Scum)': {
+    'Captain Nym': {
       text: 'You may ignore friendly bombs. When a friendly ship is defending, if the attacker measures range through a friendly bomb token, the defender may add 1 %EVADE% result.'
     },
     'Captain Nym (Rebel)': {
@@ -15003,7 +15002,7 @@ exportObj.manifestByExpansion = {
       type: 'pilot',
       count: 1
     }, {
-      name: 'Captain Nym (Scum)',
+      name: 'Captain Nym',
       type: 'pilot',
       count: 1
     }, {
@@ -15015,7 +15014,7 @@ exportObj.manifestByExpansion = {
       type: 'upgrade',
       count: 1
     }, {
-      name: 'Captain Nym (Scum)',
+      name: 'Captain Nym',
       type: 'upgrade',
       count: 1
     }, {
@@ -15615,7 +15614,7 @@ exportObj.setupTranslationSupport = function() {
                     parent: ___iced_passed_deferral
                   });
                   builder.container.trigger('xwing:beforeLanguageLoad', __iced_deferrals.defer({
-                    lineno: 17791
+                    lineno: 17790
                   }));
                   __iced_deferrals._fulfill();
                 })(_next);
@@ -16204,7 +16203,7 @@ exportObj.SquadBuilder = (function() {
                   return results = arguments[0];
                 };
               })(),
-              lineno: 18406
+              lineno: 18405
             }));
             __iced_deferrals._fulfill();
           })(function() {

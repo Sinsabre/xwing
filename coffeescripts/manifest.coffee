@@ -4843,7 +4843,7 @@ exportObj.manifestByExpansion =
             count: 1
         }
         {
-            name: 'Captain Nym (Scum)'
+            name: 'Captain Nym'
             type: 'pilot'
             count: 1
         }
@@ -4858,7 +4858,7 @@ exportObj.manifestByExpansion =
             count: 1
         }
         {
-            name: 'Captain Nym (Scum)'
+            name: 'Captain Nym'
             type: 'upgrade'
             count: 1
         }

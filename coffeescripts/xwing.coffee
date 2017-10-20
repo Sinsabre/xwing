@@ -1173,7 +1173,7 @@ class exportObj.SquadBuilder
             for other in (exportObj.pilotsByUniqueName[unique.canonical_name.getXWSBaseName()] or [])
                 if unique != other
                     if @uniqueIndex(other, 'Pilot') < 0
-                        # console.log "Also claiming unique pilot #{other.canonical_name} in use"
+                        #console.log "Also claiming unique pilot #{other.canonical_name} in use"
                         @uniques_in_use['Pilot'].push other
                     else
                         throw new Error("Unique #{type} '#{unique.name}' already claimed as pilot")
@@ -1183,12 +1183,13 @@ class exportObj.SquadBuilder
                 for canonical, other of bycanonical
                     if canonical.getXWSBaseName() == unique.canonical_name.getXWSBaseName() and unique != other
                         if @uniqueIndex(other, 'Upgrade') < 0
-                            # console.log "Also claiming unique #{other.canonical_name} (#{otherslot}) in use"
+                            #console.log "Also claiming unique #{other.canonical_name} (#{otherslot}) in use"
                             @uniques_in_use['Upgrade'].push other
                         # else
                         #     throw new Error("Unique #{type} '#{unique.name}' already claimed as #{otherslot}")
 
             @uniques_in_use[type].push unique
+            #console.log "Uniques in use #{JSON.stringify(@uniques_in_use)}"
         else
             throw new Error("Unique #{type} '#{unique.name}' already claimed")
         cb()

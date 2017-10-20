@@ -5611,9 +5611,8 @@ exportObj.basicCardData = ->
             points: 30
         }
         {
-            name: 'Captain Nym (Scum)'
+            name: 'Captain Nym'
             id: 253
-            canonical_name: 'Captain Nym'.canonicalize()
             unique: true
             faction: 'Scum and Villainy'
             ship: 'Scurrg H-6 Bomber'
@@ -5631,6 +5630,7 @@ exportObj.basicCardData = ->
         }
         {
             name: 'Captain Nym (Rebel)'
+            aka: [ 'Captain Nym' ]
             id: 254
             canonical_name: 'Captain Nym'.canonicalize()
             unique: true
@@ -9333,22 +9333,21 @@ exportObj.basicCardData = ->
             points: 4
         }
         {
-            name: 'Captain Nym (Scum)'
+            name: 'Captain Nym'
             id: 407
             unique: true
             faction: 'Scum and Villainy'
             slot: 'Elite'
             points: 4
-            'canonical_name': 'Captain Nym'.canonicalize()
         }
         {
             name: 'Captain Nym (Rebel)'
+            aka: [ 'Captain Nym' ]
             id: 408
             unique: true
             faction: 'Rebel Alliance'
             slot: 'Elite'
             points: 4
-            'canonical_name': 'Captain Nym'.canonicalize()
         }
         {
             name: 'Sol Sixxa'
@@ -11241,7 +11240,7 @@ exportObj.cardLoaders.English = () ->
             text: '''When another friendly ship at Range 1 is defending, you may spend 1 reinforce token. If you do, the defender adds 1 %EVADE% result.'''
         'Wullffwarro':
             text: '''When attacking, if you have no shields and at least 1 Damage card assigned to you, roll 1 additional attack die.'''
-        'Captain Nym (Scum)':
+        'Captain Nym':
             text: '''You may ignore friendly bombs. When a friendly ship is defending, if the attacker measures range through a friendly bomb token, the defender may add 1 %EVADE% result.'''
         'Captain Nym (Rebel)':
             text: '''Once per round, you may prevent a friendly bomb from detonating.'''
@@ -12090,7 +12089,7 @@ exportObj.cardLoaders.English = () ->
             text: '''When another friendly ship at Range 1 is defending, you may spend 1 reinforce token. If you do, the defender adds 1 %EVADE% result.'''
         'Wullffwarro':
             text: '''When attacking, if you have no shields and at least 1 Damage card assigned to you, roll 1 additional attack die.'''
-        'Captain Nym (Scum)':
+        'Captain Nym':
             text: '''You may ignore friendly bombs. When a friendly ship is defending, if the attacker measures range through a friendly bomb token, the defender may add 1 %EVADE% result.'''
         'Captain Nym (Rebel)':
             text: '''Once per round, you may prevent a friendly bomb from detonating.'''
@@ -17156,7 +17155,7 @@ exportObj.manifestByExpansion =
             count: 1
         }
         {
-            name: 'Captain Nym (Scum)'
+            name: 'Captain Nym'
             type: 'pilot'
             count: 1
         }
@@ -17171,7 +17170,7 @@ exportObj.manifestByExpansion =
             count: 1
         }
         {
-            name: 'Captain Nym (Scum)'
+            name: 'Captain Nym'
             type: 'upgrade'
             count: 1
         }
@@ -18987,7 +18986,7 @@ class exportObj.SquadBuilder
             for other in (exportObj.pilotsByUniqueName[unique.canonical_name.getXWSBaseName()] or [])
                 if unique != other
                     if @uniqueIndex(other, 'Pilot') < 0
-                        # console.log "Also claiming unique pilot #{other.canonical_name} in use"
+                        #console.log "Also claiming unique pilot #{other.canonical_name} in use"
                         @uniques_in_use['Pilot'].push other
                     else
                         throw new Error("Unique #{type} '#{unique.name}' already claimed as pilot")
@@ -18997,12 +18996,13 @@ class exportObj.SquadBuilder
                 for canonical, other of bycanonical
                     if canonical.getXWSBaseName() == unique.canonical_name.getXWSBaseName() and unique != other
                         if @uniqueIndex(other, 'Upgrade') < 0
-                            # console.log "Also claiming unique #{other.canonical_name} (#{otherslot}) in use"
+                            #console.log "Also claiming unique #{other.canonical_name} (#{otherslot}) in use"
                             @uniques_in_use['Upgrade'].push other
                         # else
                         #     throw new Error("Unique #{type} '#{unique.name}' already claimed as #{otherslot}")
 
             @uniques_in_use[type].push unique
+            #console.log "Uniques in use #{JSON.stringify(@uniques_in_use)}"
         else
             throw new Error("Unique #{type} '#{unique.name}' already claimed")
         cb()

@@ -4645,9 +4645,8 @@ exportObj.basicCardData = ->
             points: 30
         }
         {
-            name: 'Captain Nym (Scum)'
+            name: 'Captain Nym'
             id: 253
-            canonical_name: 'Captain Nym'.canonicalize()
             unique: true
             faction: 'Scum and Villainy'
             ship: 'Scurrg H-6 Bomber'
@@ -4665,6 +4664,7 @@ exportObj.basicCardData = ->
         }
         {
             name: 'Captain Nym (Rebel)'
+            aka: [ 'Captain Nym' ]
             id: 254
             canonical_name: 'Captain Nym'.canonicalize()
             unique: true
@@ -8367,22 +8367,21 @@ exportObj.basicCardData = ->
             points: 4
         }
         {
-            name: 'Captain Nym (Scum)'
+            name: 'Captain Nym'
             id: 407
             unique: true
             faction: 'Scum and Villainy'
             slot: 'Elite'
             points: 4
-            'canonical_name': 'Captain Nym'.canonicalize()
         }
         {
             name: 'Captain Nym (Rebel)'
+            aka: [ 'Captain Nym' ]
             id: 408
             unique: true
             faction: 'Rebel Alliance'
             slot: 'Elite'
             points: 4
-            'canonical_name': 'Captain Nym'.canonicalize()
         }
         {
             name: 'Sol Sixxa'

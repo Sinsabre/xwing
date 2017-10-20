@@ -519,7 +519,7 @@ exportObj.cardLoaders.English = () ->
             text: '''When another friendly ship at Range 1 is defending, you may spend 1 reinforce token. If you do, the defender adds 1 %EVADE% result.'''
         'Wullffwarro':
             text: '''When attacking, if you have no shields and at least 1 Damage card assigned to you, roll 1 additional attack die.'''
-        'Captain Nym (Scum)':
+        'Captain Nym':
             text: '''You may ignore friendly bombs. When a friendly ship is defending, if the attacker measures range through a friendly bomb token, the defender may add 1 %EVADE% result.'''
         'Captain Nym (Rebel)':
             text: '''Once per round, you may prevent a friendly bomb from detonating.'''
@@ -1368,7 +1368,7 @@ exportObj.cardLoaders.English = () ->
             text: '''When another friendly ship at Range 1 is defending, you may spend 1 reinforce token. If you do, the defender adds 1 %EVADE% result.'''
         'Wullffwarro':
             text: '''When attacking, if you have no shields and at least 1 Damage card assigned to you, roll 1 additional attack die.'''
-        'Captain Nym (Scum)':
+        'Captain Nym':
             text: '''You may ignore friendly bombs. When a friendly ship is defending, if the attacker measures range through a friendly bomb token, the defender may add 1 %EVADE% result.'''
         'Captain Nym (Rebel)':
             text: '''Once per round, you may prevent a friendly bomb from detonating.'''
