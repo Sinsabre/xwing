@@ -23,7 +23,7 @@ exportObj.translations.English =
         "Bomb": "Bomb"
         "Cannon": "Cannon"
         "Crew": "Crew"
-        "Elite": "Elite"
+        "Elite": "Costume"
         "Missile": "Missile"
         "System": "System"
         "Torpedo": "Torpedo"

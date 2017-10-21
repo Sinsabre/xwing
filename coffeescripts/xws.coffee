@@ -14,15 +14,15 @@ exportObj.toXWSFaction =
 
 exportObj.toXWSUpgrade =
     'Astromech': 'amd'
-    'Costume': 'ept'
+    'Elite': 'ept'
     'Modification': 'mod'
     'Salvaged Astromech': 'samd'
 
 exportObj.fromXWSUpgrade =
     'amd': 'Astromech'
     'astromechdroid': 'Astromech'
-    'ept': 'Costume'
-    'elitepilottalent': 'Costume'
+    'ept': 'Elite'
+    'elitepilottalent': 'Elite'
     'mod': 'Modification'
     'samd': 'Salvaged Astromech'
 
